@@ -1,0 +1,17 @@
+# macOS metadata
+.DS_Store
+._*
+.Spotlight-V100/
+.Trashes/
+
+# Local secrets and editor files
+.env
+.env.*
+!.env.example
+*.swp
+*~
+~$*
+
+# Temporary files
+*.tmp
+*.temp

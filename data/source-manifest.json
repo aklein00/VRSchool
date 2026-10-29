@@ -1,0 +1,29 @@
+{
+  "imported_on": "2026-10-29",
+  "files": [
+    {
+      "path": "docs/teachers.md",
+      "source_url": "https://docs.google.com/document/d/16tAwJQso9YVgmQOaAulVXguxntnb4aiGp7rxAbpczok/edit",
+      "bytes": 4645,
+      "sha256": "363fde41852abe41e9be28d7b89b4e7d94067e695fdc70707ce15e7b531069a3"
+    },
+    {
+      "path": "docs/locations.md",
+      "source_url": "https://docs.google.com/document/d/1JaRiO2mQIv98Qb-t4XnLVYjTu8Zy6LYrpK7LG4kKMpo/edit",
+      "bytes": 10774,
+      "sha256": "8a73d6eeda6fb1fb875e4687f555515a66c5dfd47bfc4adc70a8aabb3b91c5ca"
+    },
+    {
+      "path": "data/VRSchool.xlsx",
+      "source_url": "https://docs.google.com/spreadsheets/d/1-tt7W4uhQyCHlOrYm1xFS4kY2XGjGpojofm1s3k97sI/edit",
+      "bytes": 6168,
+      "sha256": "7816ed9ce6f7aae9ead4167a95527889230e7db43615224d836c7f686d5d3b9a"
+    },
+    {
+      "path": "assets/source/Untitled-1.psd",
+      "source_url": "https://drive.google.com/file/d/1p9uz324AKW5bmGtFBDagVIxtRbIUWzXS/view",
+      "bytes": 4884768,
+      "sha256": "603289d8e1551d122fd2c942ddefb76f51ebfc2f32d1793b12f4838be7af9f01"
+    }
+  ]
+}

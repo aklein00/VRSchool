@@ -1,0 +1,10 @@
+* text=auto
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.psd binary
+*.xlsx binary
+
+# Preserve the original Drive exports, including Markdown line breaks.
+docs/teachers.md whitespace=-blank-at-eol,-blank-at-eof
+docs/locations.md whitespace=-blank-at-eol,-blank-at-eof
