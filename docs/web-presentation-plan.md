@@ -1,20 +1,20 @@
 # VRHS presentation website: art direction first
 
-Revised October 29, 2026. This is a working game pitch with dedicated Art Style Guide, Prototypes, Design, and Product pages. The production case study is a supporting part of the Pitch. The Goblin Bard is male, he/him. His 3D model is one example of the broader art direction, not the organizing idea of the presentation.
+Revised October 29, 2026. This is a working educational software pitch with dedicated Art Style Guide, Prototypes, Design, and Product pages. The production case study is a supporting part of the Pitch. The Goblin Bard is male, he/him. His 3D model is one example of the broader art direction, not the organizing idea of the presentation.
 
-Planned expansion, October 29: see [the voice, workflow and Campus Passport content plan](presentation-content-expansion-plan.md). It proposes a Character Voices page, a dedicated Production Workflow destination under Art, and teacher welcome stations on Design based on slides 17–20 of the current faculty deck. These additions are planned, not implemented; the dedicated workflow page expands the earlier Pitch-only treatment below.
+Revised teaching direction, October 29: see [the voice, workflow and First Lessons content plan](presentation-content-expansion-plan.md). It proposes a Character Voices page, a dedicated Production Workflow destination under Art, and actual subject teaching on Design. The Campus Passport deck was reviewed as background; its station activities and orientation timetable do not define the revised curriculum. Arthur's [Unit 1.1: Acoustical Awareness & The Anatomy of Sound](music-unit-1-1-acoustical-awareness.md) replaces the proposed four-beat game as the first-day music lesson. These changes are planned, not implemented; the workflow page expands the earlier Pitch-only treatment below.
 
 ## Website structure
 
 | Page | Purpose | Initial content |
 | --- | --- | --- |
-| Pitch | Sell the game and its distinctive visual world | Premise, teen player fantasy, original visual identity, faculty/world exploration, experience loop, production approach, next milestone; direct links to guide and prototypes |
-| Art Style Guide | Show Art's direction across the whole game | Shared foundations and eight art disciplines, each with intent, rules, examples, review criteria, and a planned proof |
-| Prototypes | Let the visitor inspect and try selected experiments | Goblin model in Sketchfab when ready, environment corner, voice audition, small music interaction, and eventual integrated web slice; accurate status for each |
-| Design | Explain how players experience the direction | Core loop, teaching interaction, player expression, interaction hierarchy, accessibility, music activity and scope |
+| Pitch | Present the school, its teaching and its distinctive visual world | Premise, student experience, original visual identity, faculty and classrooms, teaching examples, production approach, next milestone; direct links to guide and prototypes |
+| Art Style Guide | Show Art's direction across the learning environment | Shared foundations and eight art disciplines, each with intent, rules, examples, review criteria, and a planned proof |
+| Prototypes | Let the visitor inspect and try selected experiments | Goblin model in Sketchfab when ready, environment corner, character voices and acoustics listening demonstrations; accurate status for each |
+| Design | Explain the teaching experience | First Lessons across the faculty, explicit explanations, demonstrations, student application, checks for understanding and accessibility |
 | Product | Make the existing research useful and concise | Audience hypothesis, six relevant comparisons distilled from the 20-game study, implications for VRHS, evidence limits, validation plan, sources |
 
-The Pitch should be understandable without reading the other pages. The Art Style Guide is a first-class destination and the most substantial body of art-direction evidence. Each supporting page should connect its decisions back to the game's visual identity.
+The Pitch should be understandable without reading the other pages. The Art Style Guide is a first-class destination and the most substantial body of art-direction evidence. Each supporting page should connect its decisions back to the school's visual identity.
 
 ## Eight art disciplines
 
@@ -25,7 +25,7 @@ Reference inspected: slide 3 of NFL Clash Art Style Guide lists seven named pill
 3. **Animation:** pose, gesture, idle/listen/teach behavior, timing and emotional range. Start with direction boards or a short movement study; a full rig is optional this weekend.
 4. **UI & Emotes:** typography, icons, prompts, feedback states, expressive symbols and accessibility. A consistent readable hierarchy must work alongside the world.
 5. **Cards & Illustrated Content:** faculty portraits, learning prompts and illustrated activity summaries. These are proposed presentation/learning formats; no card-game mechanic is implied.
-6. **Rewards & Reveals:** how achievement, completion and student work are staged. Adapt the original loot-box discipline into visible earned accomplishment; do not imply randomized paid rewards.
+6. **Student Work & Presentation:** how observations, written explanations, compositions and other student work are displayed clearly. Show the work and teacher feedback without game rewards or progression mechanics.
 7. **VFX:** visual language for interaction, magical teaching, focus, success and failure. Effects communicate state and preserve character readability.
 8. **Brand & Key Art:** title treatment, emblem, hero compositions, presentation imagery and promotional consistency. Reuse the same designed world across pitch and playable.
 
@@ -45,7 +45,7 @@ For each discipline, the guide needs: one clear intention, practical do/avoid ru
 
 ## Design page
 
-Keep the explanation compact: core loop, teacher/student relationship, expression, short session flow, music-class example, success/feedback states, input/audio/accessibility choices. The four-beat music activity is a proposed prototype, not the scope of the entire game. Show how art helps players recognize who to approach, what can be touched and what changed.
+Show what each teacher actually teaches: subject and objective, explicit explanation, worked demonstration, student application and a check for understanding. Use readable lesson summaries for the full faculty and the developed acoustics unit for Music. The first music lesson teaches sound/noise in context, pitch, loudness, duration and timbre through Soundscape Mapping and a same-pitch instrument comparison. Games, scores, rewards and passport progression do not organize the lessons. Keep software orientation separate from academic content. Present the current sequencer as an earlier sketch pending replacement, rather than evidence of the revised lesson.
 
 ## Product page
 
@@ -77,7 +77,7 @@ The Utility Infielder project remains a hub. The proposed eventual destination i
 2. Confirm the selected visual treatment and common foundations before expanding asset production.
 3. Run a Goblin voice/media audition and verify the separate 3D generation/export route.
 4. Review the Goblin model in Sketchfab before environment production, as requested. The website and guide can advance while the model is pending.
-5. Build the workshop corner and refine the small activity, showing UI, gesture, feedback, materials, light and reward as a coherent direction.
+5. Build the workshop corner and prepare the acoustics teaching demonstrations, showing readable instruction, teacher gesture, sound examples, materials and light as a coherent direction.
 6. Replace each relevant placeholder with actual evidence; finish the research digest, test, package and rehearse.
 
 ## Placeholder delivered locally

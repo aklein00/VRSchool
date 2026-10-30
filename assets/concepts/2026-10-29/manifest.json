@@ -50,6 +50,16 @@
       "height": 1024,
       "bytes": 1720690,
       "sha256": "5900e928ba1e8cff3852920ae8df283b299f7d6f92762809f25941040701f7f3"
+    },
+    {
+      "file": "assets/concepts/2026-10-29/08-faculty-latest-pencil-wash.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2899428,
+      "sha256": "d68780a3d0d66cf99e894f544b797d356098647cb96bd65f37d4d1e0983a62e1",
+      "supersedes": "assets/concepts/2026-10-29/04-faculty-artist-pencil-wash.png",
+      "direction": "Current character models, loose pencil and transparent wash, pale classroom environments",
+      "prompts": "docs/art/faculty-pencil-wash-update-prompts.json"
     }
   ]
 }

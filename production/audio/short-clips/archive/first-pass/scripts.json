@@ -1,0 +1,120 @@
+{
+  "updated": "2026-10-30",
+  "purpose": "Short welcome and teaching samples requested by Arthur; approximately 6–10 seconds each.",
+  "user_voice_overrides": {
+    "F04": "F06 Language Arts Brass Dragon",
+    "F06": "F06 Brass Dragon Language Arts02",
+    "F08": "F08 Gnoll PE 2"
+  },
+  "clips": [
+    {
+      "id": "01-english-beholder",
+      "saved_voice_name": "F01 English Beholder",
+      "text": "Welcome to English. Crept and strode both describe movement, but they suggest very different feelings.",
+      "file": "01-english-beholder-welcome.mp3",
+      "status": "script_ready"
+    },
+    {
+      "id": "02-math-yeti",
+      "saved_voice_name": "F02 Match Yeti Wizard",
+      "text": "Welcome to math. Double an input, then add three. Increasing the input by one increases the output by two.",
+      "file": "02-math-yeti-welcome.mp3",
+      "status": "downloaded",
+      "model": "Eleven v4"
+    },
+    {
+      "id": "03-science-chuul",
+      "saved_voice_name": "F03 Science Chuul",
+      "text": "Welcome to science. Brown spots are an observation. Their cause is an explanation we still need to test.",
+      "file": "03-science-chuul-welcome.mp3",
+      "status": "downloaded",
+      "model": "Eleven v4"
+    },
+    {
+      "id": "04-history-displacer",
+      "saved_voice_name": "F06 Language Arts Brass Dragon",
+      "text": "Welcome to history. Before trusting an account, ask who created it, and what they could actually know.",
+      "file": "04-history-displacer-welcome.mp3",
+      "status": "downloaded",
+      "model": "Eleven v4"
+    },
+    {
+      "id": "05-geography-ettin-head-a",
+      "saved_voice_name": "F05A Ettin Geography",
+      "text": "Welcome to geography. Map scale connects a distance on the page to a distance on the ground.",
+      "file": "05-geography-ettin-head-a-welcome.mp3",
+      "status": "downloaded",
+      "model": "Eleven v4"
+    },
+    {
+      "id": "05-geography-ettin-head-b",
+      "saved_voice_name": "F05B Geography Ettin",
+      "text": "And contour lines show elevation. When their spacing gets closer, the slope gets steeper.",
+      "file": "05-geography-ettin-head-b-welcome.mp3",
+      "status": "downloaded",
+      "model": "Eleven v4"
+    },
+    {
+      "id": "06-language-arts-dragon",
+      "saved_voice_name": "F06 Brass Dragon Language Arts02",
+      "text": "Welcome to Language Arts. Your audience shapes your words. A friendly message sounds different from a formal request.",
+      "file": "06-language-arts-dragon-welcome.mp3",
+      "status": "downloaded",
+      "model": "Eleven v4"
+    },
+    {
+      "id": "07-health-spider",
+      "saved_voice_name": "F07 Health Giant Spider",
+      "text": "Welcome to health. A popular claim is not proof. Check its source and the evidence behind it.",
+      "file": "07-health-spider-welcome.mp3",
+      "status": "downloaded",
+      "model": "Eleven v4"
+    },
+    {
+      "id": "08-pe-gnoll",
+      "saved_voice_name": "F08 Gnoll PE 2",
+      "text": "Welcome to P.E. Training should fit your goal. What you practice shapes the skills you develop.",
+      "file": "08-pe-gnoll-welcome.mp3",
+      "status": "downloaded",
+      "model": "Eleven v4"
+    },
+    {
+      "id": "09-art-oobleck",
+      "saved_voice_name": "F09 Oobleck Art",
+      "text": "Welcome to art. Contrast directs attention. Change one value, and watch how the focal point shifts.",
+      "file": "09-art-oobleck-welcome.mp3",
+      "status": "downloaded",
+      "model": "Eleven v4"
+    },
+    {
+      "id": "10-music-goblin",
+      "saved_voice_name": "F10 Goblin Music",
+      "text": "Welcome to music. Pitch tells us how high a sound is; timbre gives it its distinctive character.",
+      "file": "10-music-goblin-welcome.mp3",
+      "status": "downloaded",
+      "model": "Eleven v4"
+    },
+    {
+      "id": "11-drama-medusa",
+      "saved_voice_name": "F11 Medusa Drama",
+      "text": "Welcome to drama. You came back. The words stay the same; the intention changes how we say them.",
+      "file": "11-drama-medusa-welcome.mp3",
+      "status": "downloaded",
+      "model": "Eleven v4"
+    },
+    {
+      "id": "12-technology-mimic",
+      "saved_voice_name": "F12 Mimic Technology",
+      "text": "Welcome to technology. An algorithm is an ordered set of instructions. Change the order, and the result can change.",
+      "file": "12-technology-mimic-welcome.mp3",
+      "status": "script_ready"
+    },
+    {
+      "id": "13-headmaster-lich",
+      "saved_voice_name": "F13 Lich Headmaster",
+      "text": "Welcome to our school. Make a claim, show your evidence, and explain how the two connect.",
+      "file": "13-headmaster-lich-welcome.mp3",
+      "status": "script_ready"
+    }
+  ]
+}

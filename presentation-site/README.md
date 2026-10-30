@@ -12,11 +12,11 @@ This is a normal folder in aklein00/VRSchool, not a separate Git repository. Mak
 - Install Command: empty
 - Environment variables: none for this placeholder
 
-Only dist is served as the website. It contains five HTML pages, shared CSS/JavaScript and five selected compressed concept images. Keep original artwork, research, workflows, voice assignments, secrets and project documents outside dist. Do not change the output directory to the VRSchool root.
+Only dist is served as the website. It contains six HTML pages, shared CSS/JavaScript and selected compressed concept images, including portrait derivatives for the voice gallery. Keep original artwork, research, workflows, voice assignments, secrets and project documents outside dist. Do not change the output directory to the VRSchool root.
 
 ## Pages
 
-Pitch; Art Style Guide (eight disciplines); Prototypes; Design; Product. The production case study supports the pitch. Pending models, scenes and voice outputs are labeled. The four-beat interaction is a working browser sketch, not a complete 3D slice.
+Pitch; Art Style Guide (eight disciplines); Prototypes; Design; Product; First Lessons. Prototypes features Unit 1.1: Acoustical Awareness & The Anatomy of Sound, with Soundscape Mapping, the Timbre Experiment and expandable explanations for the understanding checks. First Lessons is a supporting page linked from Prototypes and Design, with descriptions for the other faculty. The earlier rhythm sequencer has been replaced. The production case study supports the pitch. Pending models, scenes and recordings are labeled.
 
 ## Temporary preview
 
@@ -24,4 +24,12 @@ An earlier owner-private Sites preview is available separately. Its published co
 
 ## Audio
 
-The prototype synthesizes tones only after Play is pressed. It makes no ElevenLabs calls and uses no API keys or external runtime dependencies.
+Prototypes includes 14 short faculty clips for 13 teachers, with separate Ettin Head A and Head B players. The selected MP3s are served from `dist/assets/audio/`; each has a transcript and download link. Playback works without an ElevenLabs account or runtime API calls. Starting a clip pauses the other gallery clips. Student voice studies remain planned.
+
+The four instrument-comparison recordings for the Music lesson are separate from the character voices and remain to be added. Production scripts, voice assignments, archives and speech-review results stay in `production/audio/`, outside the website output.
+
+## Candid illustrations · October 30, 2026
+
+The pitch hero uses the original hatless Goblin Bard teaching flute and drum. The Art Style Guide opens with nonbinary Oobleck painting with two students; Design adds a Chuul science demonstration banner. Product uses an unlabeled three-style headmaster comparison. The repeated Goblin image in the pending 3D-model section is replaced by a model-study placeholder; the lesson and voice portraits remain for identification.
+
+Full-resolution masters are in `../assets/concepts/2026-10-30/website/`. Served WebP copies are in `dist/assets/candid/`. Generation prompts and reference paths are recorded in `../docs/art/website-candid-image-prompts.json`. Images were generated with the built-in image tool and reviewed in desktop and mobile layouts. Prior concept masters are preserved. No live deployment was made as part of this local artwork update.

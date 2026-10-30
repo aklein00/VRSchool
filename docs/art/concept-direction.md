@@ -21,8 +21,13 @@ All final sheets are in [`assets/concepts/2026-10-29/`](../../assets/concepts/20
 | [05 — Faculty: large primitives](../../assets/concepts/2026-10-29/05-faculty-large-primitives.png) | Larger simple meshes, blank faces, optional glasses | An additional lower-detail direction; retains the detailed block alternatives |
 | [06 — Headmaster comparison](../../assets/concepts/2026-10-29/06-headmaster-style-comparison.png) | Geometric / Bizzy Dad / artist pencil and wash | Compares the same female lich identity and outfit |
 | [07 — Student party comparison](../../assets/concepts/2026-10-29/07-student-party-style-comparison.png) | Ocean geometry / Bizzy Dad / artist pencil and wash | Five distinct ancestry/class silhouettes, each repeated in three styles |
+| [08 — Faculty: latest pencil and wash](../../assets/concepts/2026-10-29/08-faculty-latest-pencil-wash.png) | Current faculty drawings, loose pencil contours and transparent color, very pale classroom sketches | Revised classroom sheet with current female dragon/gnoll and non-binary Oobleck; strong foreground/background contrast hierarchy |
 
 Each faculty sheet uses **12 subject teachers in two rows of six**, with the thirteenth faculty member, the headmaster, in the header inset. This resolves the original 13-character / 12-grid-cell brief while keeping every teacher visible.
+
+## Latest pencil-and-wash revision
+
+[Sheet 08](../../assets/concepts/2026-10-29/08-faculty-latest-pencil-wash.png) updates the earlier painted faculty sheet to the current individual drawings. It carries over the horned suited yeti, scarf-and-coat goblin, broad two-headed ettin, expressive Oobleck and chest-bodied mimic, with the current gender identities. Teachers have stronger pencil contours and color shapes; classrooms fade to pale linework and light washes. The loose drawing and color finish follow the newly supplied goblin and student references. The earlier sheet remains available as version 04. [Exact generation and cleanup prompts](faculty-pencil-wash-update-prompts.json) record the revision.
 
 ## Direction and continuity
 

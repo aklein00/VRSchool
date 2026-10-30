@@ -1,0 +1,86 @@
+[
+  {
+    "id": "01-english-beholder",
+    "file": "01-english-beholder-welcome.mp3",
+    "script": "Welcome to English. Crept and strode both describe movement, but they suggest very different feelings.",
+    "transcription": "Welcome to English. Crept and strode both describe movement, but they suggest very different feelings."
+  },
+  {
+    "id": "02-math-yeti",
+    "file": "02-math-yeti-welcome.mp3",
+    "script": "Welcome to math. Double an input, then add three. Increasing the input by one increases the output by two.",
+    "transcription": "Welcome to math! Double an input, then add 3. Increasing the input by 1, increases the output by 2."
+  },
+  {
+    "id": "03-science-chuul",
+    "file": "03-science-chuul-welcome-v2.mp3",
+    "script": "Welcome to science. Seeing brown spots is an observation. Explaining their cause takes evidence.",
+    "transcription": "Welcome to Science. Seeing brown spots is an observation, explaining their cause takes evidence."
+  },
+  {
+    "id": "04-history-displacer",
+    "file": "04-history-displacer-welcome.mp3",
+    "script": "Welcome to history. Before trusting an account, ask who created it, and what they could actually know.",
+    "transcription": "Welcome to history. Before trusting an account, ask who created it and what they could actually know."
+  },
+  {
+    "id": "05-geography-ettin-head-a",
+    "file": "05-geography-ettin-head-a-welcome.mp3",
+    "script": "Welcome to geography. Map scale connects a distance on the page to a distance on the ground.",
+    "transcription": "Welcome to geography. MapScale connects a distance on the page to a distance on the ground."
+  },
+  {
+    "id": "05-geography-ettin-head-b",
+    "file": "05-geography-ettin-head-b-welcome.mp3",
+    "script": "And contour lines show elevation. When their spacing gets closer, the slope gets steeper.",
+    "transcription": "and contour lines show elevation. When their spacing gets closer, the slope gets steeper."
+  },
+  {
+    "id": "06-language-arts-dragon",
+    "file": "06-language-arts-dragon-welcome.mp3",
+    "script": "Welcome to Language Arts. Your audience shapes your words. A friendly message sounds different from a formal request.",
+    "transcription": "Welcome to Language Arts. Your audience shapes your words. A friendly message sounds different from a formal request."
+  },
+  {
+    "id": "07-health-spider",
+    "file": "07-health-spider-welcome.mp3",
+    "script": "Welcome to health. A popular claim is not proof. Check its source and the evidence behind it.",
+    "transcription": "Welcome to health. A popular claim is not proof. Check its source and the evidence behind it."
+  },
+  {
+    "id": "08-pe-gnoll",
+    "file": "08-pe-gnoll-welcome-v2.mp3",
+    "script": "Welcome to physical education. Different exercises train different skills. Today, we'll connect each exercise to its purpose.",
+    "transcription": "Welcome to physical education. Different exercises train different skills. Today, we'll connect each exercise to its purpose."
+  },
+  {
+    "id": "09-art-oobleck",
+    "file": "09-art-oobleck-welcome-v2.mp3",
+    "script": "Welcome to art. A light shape against a dark background stands out. That difference is called contrast.",
+    "transcription": "Welcome to art. A light shape against a dark background stands out. That difference is called contrast."
+  },
+  {
+    "id": "10-music-goblin",
+    "file": "10-music-goblin-welcome.mp3",
+    "script": "Welcome to music. Pitch tells us how high a sound is; timbre gives it its distinctive character.",
+    "transcription": "Welcome to Music. Pitch tells us how high a sound is. Timber gives it its distinctive character."
+  },
+  {
+    "id": "11-drama-medusa",
+    "file": "11-drama-medusa-welcome-v2.mp3",
+    "script": "Welcome to drama. The same words can express different intentions. Listen to how emphasis changes a line.",
+    "transcription": "Welcome to drama. The same words can express different intentions. Listen to how emphasis changes a line."
+  },
+  {
+    "id": "12-technology-mimic",
+    "file": "12-technology-mimic-welcome.mp3",
+    "script": "Welcome to technology. An algorithm is an ordered set of instructions. Change the order, and the result can change.",
+    "transcription": "Welcome to technology. An algorithm is an ordered set of instructions. Change the order, and the result can change."
+  },
+  {
+    "id": "13-headmaster-lich",
+    "file": "13-headmaster-lich-welcome.mp3",
+    "script": "Welcome to our school. Make a claim, show your evidence, and explain how the two connect.",
+    "transcription": "Welcome to our school. Make a claim, show your evidence, and explain how the two connect."
+  }
+]

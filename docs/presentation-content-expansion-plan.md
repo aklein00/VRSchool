@@ -1,12 +1,12 @@
 # VRHS presentation content expansion plan
 
-October 29, 2026. Planning only; the presentation site and Slides deck have not been edited or republished.
+October 29, 2026. The written Music example is now implemented locally on Prototypes, with a linked First Lessons page and an updated Design summary. Arthur subsequently requested short teaching clips; 14 selected recordings are now implemented locally, with transcripts and downloads, covering 13 faculty and both Ettin heads. The workflow page remains planned; the Slides deck has not been edited. These local website edits have not been deployed.
 
 ## Reference and direction
 
-Use the current [faculty dossier Slides deck](https://docs.google.com/presentation/d/1C3YpvDlQBnxOZYX-XCuxbbSQw4BJHU8AbW4JNnTsklM/edit?usp=drivesdk), particularly slides 17–20, as the basis for welcome lessons. Slide 19, **Passport Stations**, already supplies the right structure: a small task, a teacher prompt, visible evidence of understanding, and participation support. Preserve its Geography, English and Art stations. The other faculty hooks are on slides 4–16.
+The current [faculty dossier Slides deck](https://docs.google.com/presentation/d/1C3YpvDlQBnxOZYX-XCuxbbSQw4BJHU8AbW4JNnTsklM/edit?usp=drivesdk) supplies faculty references and earlier introductory hooks. The Passport Stations on slides 17–20 were reviewed, but Arthur's revised direction supersedes the station-based teaching proposal: teachers deliver actual subject instruction, with explanations, demonstrations, student application and checks for understanding. Lessons do not use games, scores, rewards or a passport progression system.
 
-The three planned additions are a character voice showcase, a dedicated workflow page on the Art side, and a Campus Passport section on Design with all teacher starters and a developed Music example.
+The three planned additions are a character voice showcase, a dedicated workflow page on the Art side, and a **First Lessons** section on Design. All subject teachers need a real academic teaching point. Music is the developed example, using Arthur's **Unit 1.1: Acoustical Awareness & The Anatomy of Sound** for Week 1. The presentation may show brief lesson summaries while the underlying instructional sequence has enough time to teach the content.
 
 “Company workflow” is provisionally interpreted as **ComfyUI workflow**, given the project's production materials. Keep the page title broad: **Production Workflow**. Its eventual screenshots or destination link can change without changing the page structure.
 
@@ -46,100 +46,85 @@ An embedded workflow is unnecessary. A link, screenshots, or both satisfy the pa
 
 **Done when for this pass:** the full-page layout and clearly labeled placeholders exist. Screenshot selection and the external destination remain open content decisions.
 
-## 3. Campus Passport on Design
+## 3. First Lessons on Design
 
-Keep the deck's orientation premise: meet a teacher, learn one idea, make one small contribution, explain one choice. Use **Campus Passport: first encounters with the faculty** as the section title.
+Use **First Lessons: what each teacher teaches** as the section title. The educational experience consists of teaching and learning. Fantasy characters provide memorable teachers and settings; the learning activities are observation, analysis, discussion, practice and explanation.
 
-Start with a brief explanation and a visual passport example, followed by a compact teacher grid. Every starter uses the same fields:
+Each lesson summary contains:
 
-- **Meet:** a welcoming teacher line or existing welcome recording.
-- **Learn:** one explicit idea, explained before the task.
-- **Try:** a small action, usually about four minutes including the explanation.
-- **Show:** a contribution and a short check for understanding.
-- **Support:** text, replay, pointing, typing, arranging tiles or describing a response.
+- **Topic and objective:** the actual subject knowledge students will learn.
+- **Explanation:** the teacher explicitly introduces and defines the concept.
+- **Demonstration:** a worked example or comparison makes the idea concrete.
+- **Student application:** students use what was explained in a short exercise.
+- **Check for understanding:** a question or response that reveals their understanding, followed by correction or further explanation when needed.
 
-Use designed cards or a list for the complete faculty set. Only Music needs a developed interactive example in this pass. Do not turn the whole roster into a required first-day circuit: the deck's 50-minute pilot uses three four-minute stations plus transition time. Music can substitute for one station or appear in a later welcome session.
+Use a readable designed list or grid for the complete faculty. Fully develop Music as teaching content; interactive audio serves listening demonstrations. A website visitor does not need to complete an exercise to see the lesson. Four-minute stations and the deck's orientation timetable do not constrain subject instruction.
 
-### Teacher starter inventory
+### Teacher lesson inventory
 
-The following preserves the current deck's hooks. Add the missing explanation and feedback when expanding each card.
+These are proposed introductory academic lessons, with explanations and examples that can be expanded into course units. They replace the earlier orientation-only and game-like tasks. Detailed curriculum mapping remains a later content step.
 
-| Teacher | Learn and try | Evidence of understanding |
+| Teacher | What the teacher explains and demonstrates | Student application and understanding check |
 | --- | --- | --- |
-| English — Beholder | Learn how word choice changes meaning or tone. Revise one word in “I went into the school.” | Keep both versions and explain what the changed word helps a reader imagine. |
-| Math — Yeti | A variable represents an input; a rule relates input and output. Explore the rune machine `2n + 3` using inputs 1, 2 and 3. | Show outputs 5, 7 and 9; explain why increasing the input by one increases the output by two. Use the updated deck, rather than the older local two-groups-of-three exercise. |
-| Science — Chuul | An observation describes evidence; an explanation proposes why. Separate leaf observations from explanations and propose a test. | Identify one variable to change and one condition to keep the same. |
-| History — Displacer Beast | Accounts reflect their sources and viewpoints. Compare a diary and a town record of one event. | Give a difference and a plausible reason, supported by who made each account and what they could know. |
-| Geography — Ettin | Explain distance and contour spacing before choosing between the shorter/steeper and longer/flatter routes. | Mark a route and cite a map feature that supports the choice for a stated traveler. More than one route can be defensible. |
-| Language Arts — Brass Dragon | Audience and intended feeling shape communication. Make a two-sentence arrival story. | Name the audience, intended feeling and one choice made for that listener. |
-| Health — Giant Spider | Practice Pause, Help and asking for a break. | Show or describe how to request support. Label this a welcome/comfort activity; it is not yet an academic health lesson. |
-| Physical Education — Gnoll | Model a gentle, controlled reach and return to rest; allow observing or describing the movement. | Identify one cue from the demonstration. Label this a movement welcome; an academic PE objective needs a later curriculum pass. |
-| Art — Oobleck | Shape, color and emphasis can express an intention. Make a welcome emblem with two colors and one shape. | Explain one choice or describe a fictional character's mood. Do not assign fixed universal meanings to colors. |
-| Music — Goblin Bard | Distinguish the steady beat from a rhythm of sounds and silences. Copy, then revise, a four-beat bar. | Identify the rest, preserve the beat and explain what changed in the revised rhythm. Expanded below. |
-| Drama — Medusa | Vocal delivery changes a line's interpretation. Compare two readings of “You came back.” | Identify an intended emotion and a delivery cue, such as pace, emphasis or pitch. Provide written delivery descriptions alongside audio. |
-| Technology — Mimic | A reversible action changes a state; Undo restores the previous state. Move a practice cube and undo the move. | Show or describe before, after and restored states. Label this an interaction welcome; later subject lessons extend into systems and computing. |
-| Headmaster — Lich | Orient the student and introduce the passport. Choose a goal, locate Help and identify a next step. | Name one teacher to visit or question to explore. This is orientation rather than a subject lesson. |
+| English — Beholder | Denotation and connotation: words can describe a similar action while suggesting a different attitude. Compare “walked,” “strode” and “crept” in the same arrival sentence. | Revise the sentence for a stated tone and explain the implication of the chosen verb. |
+| Math — Yeti | Variables, expressions and rate of change. Work through `y = 2n + 3` for inputs 1, 2 and 3, connecting the rule to a table. | Calculate a new output and explain why increasing the input by one increases the output by two. |
+| Science — Chuul | Observation, inference and controlled variables. Model the difference between observed leaf spots and an explanation for their cause, then demonstrate a proposed fair comparison. | Separate an observation from an inference; identify what a test would change, measure and keep constant. |
+| History — Displacer Beast | Sourcing and corroboration. Explain how author, purpose and access to an event affect an account; model comparison of a diary and a public record. | Support a claim about the event using the sources, and identify one uncertainty they leave unresolved. |
+| Geography — Ettin | Map scale, elevation and contour spacing. Demonstrate calculating distance and interpreting closely versus widely spaced contours on a map with a consistent contour interval. | Estimate a route's distance and explain what the map indicates about its slope. |
+| Language Arts — Brass Dragon | Audience, purpose and register. Compare two versions of the same message addressed to a friend and a school administrator. | Adapt a short message for a new audience and explain a wording or structure choice. |
+| Health — Giant Spider | Evaluating health information. Explain the difference between an unsupported claim and a claim supported by a traceable source, using prepared classroom examples. | Compare two sample messages, identify their evidence and explain what should be verified before accepting either claim. |
+| Physical Education — Gnoll | Specificity, overload and recovery as introductory training principles. Explain each using hypothetical training schedules, without prescribing a personal routine. | Identify which principle a schedule illustrates and explain the connection to its stated training goal. |
+| Art — Oobleck | Contrast and visual hierarchy. Demonstrate how changing value, size or placement changes a composition's focal point. | Annotate or revise a simple composition and explain what draws the viewer's attention first. |
+| Music — Goblin Bard | Sound and noise in context; pitch/frequency, loudness/amplitude, duration and timbre. Demonstrate the properties and compare the same pitch across instruments. | Record soundscape observations, compare timbres and explain differences using the taught vocabulary. See the full unit below. |
+| Drama — Medusa | Objective and subtext. Explain how the same line can express different intentions; demonstrate two readings with explicit vocal choices. | Explain a reading's intended meaning using evidence from emphasis, pace or pitch, then annotate an alternative reading. |
+| Technology — Mimic | Algorithms, sequence and precision. Model a short instruction sequence and show how an ambiguous or reordered step changes its result. | Trace the sequence, identify a faulty instruction and rewrite it precisely. |
+| Headmaster — Lich | Introduce the school's learning expectations and model an evidence-supported explanation: claim, evidence and reasoning. Orientation remains a separate welcome responsibility. | Explain a simple conclusion using supplied evidence and distinguish the conclusion from the supporting observation. |
 
-### Music station: “The beat keeps going”
+### Developed Music example
 
-**Duration:** approximately four minutes. **Teacher:** male Goblin Bard, he/him. **Passport contribution:** an original and revised rhythm, plus one short explanation.
+Use [Unit 1.1: Acoustical Awareness & The Anatomy of Sound](music-unit-1-1-acoustical-awareness.md), based on Arthur's proposed Week 1 content.
 
-**Learning objective:** the student can distinguish beat from rhythm, recognize a one-beat rest, and intentionally change a rhythm while keeping the same steady pulse.
+The first-day teaching sequence is approximately 30 minutes:
 
-**0:00–0:45 — Welcome and explanation**
+1. Welcome and essential question — 2 minutes.
+2. Explicit explanation and demonstrations of sound properties — 6 minutes.
+3. Soundscape Mapping — 3 minutes of quiet listening, then 4 minutes of analysis and discussion.
+4. The Timbre Experiment — 10 minutes comparing the same sounding pitch on violin, synthesizer, flute and distorted guitar, with similar duration and listening loudness.
+5. Understanding check — 5 minutes, covering pitch versus loudness, timbre, duration and sound/noise in context.
 
-Proposed script, separate from the transcript of any existing recording:
+The full unit includes teacher explanations, vocabulary, an observation-sheet example, demonstration preparation, assessment prompts and continuation through Week 1. Class timing is a proposal, not a requirement to make every presentation summary a full lesson transcript.
 
-> Welcome to the workshop. No instrument needed. A beat is the steady pulse we count along with. Rhythm is the pattern of sounds and silences in time. Listen: I can leave a space in my rhythm while the beat keeps going.
+### Replace the current rhythm game in the presentation plan
 
-Show an evenly spaced count of **1, 2, 3, 4**. Explain that this exercise uses four quarter-note beats in one bar of 4/4. Keep the vocabulary beside the example rather than putting a glossary before it.
+The existing four-beat sequencer is not the first-day music lesson. Plan to replace its featured position with the acoustics lesson and teacher-led listening comparisons. Rhythm can appear later in the course when it is explicitly taught.
 
-**0:45–1:30 — Model and notice**
+- Design shows the unit, concepts, demonstrations, activities and assessment examples.
+- Prototypes may offer manual playback of teaching examples, with explanatory text.
+- Voice samples remain a showcase of character performances. New lesson narration is separate content to record if needed.
+- Use annotated diagrams or measured waveforms only when they illustrate the actual examples. Subjective tone-color drawings should not be presented as acoustic measurements.
+- Provide text, replay, keyboard access and appropriate alternate participation. Explain what each demonstration is intended to reveal.
 
-First play four evenly spaced percussion attacks. Then play **tap, tap, rest, tap**, keeping the beat count moving through all four positions. Use a separately controllable reference click or a persistent visual pulse to make beat three perceptible through the rest.
+### Curriculum development standard
 
-Explain: a **rest** is a measured silence in the played part; this rest occupies one beat. A rest does not delete the beat or shorten the bar. Ask which beat has no instrument sound. Answer: beat three.
+First lessons should teach recognizable high-school subject content, even when they begin with accessible foundations. Every lesson needs a clear concept, accurate explanation, worked demonstration and a meaningful check. Classroom discussion and practical exercises serve those objectives without game mechanics.
 
-**1:30–2:15 — Guided try**
-
-Let the student construct the teacher's pattern using one sound or one rest per beat, then play it with the reference pulse. Ask: **Does beat three disappear, or does the instrument stay silent while the beat continues?**
-
-Feedback should teach: **The instrument rests on three; our count still reaches four.** If needed, replay slowly with the count visible and invite another try.
-
-**2:15–3:20 — Make and compare**
-
-Ask the student to move the rest to another beat and compare both versions at the same tempo. Preserve an original-pattern view so the change is easy to describe.
-
-If ready, offer one extension: replace a one-beat event with **two eighth-note attacks**, each half a beat in this exercise. Count **1 & 2 & 3 & 4 &** and show how the pair fits inside one beat. This creates a meaningful rhythmic variation without increasing the bar's length. Keep the extension optional in the four-minute welcome.
-
-**3:20–4:00 — Explain and keep**
-
-Ask: **What stayed steady? What changed?** Accept speech, text or a supported choice. Look for a steady beat with a changed placement of sounds/silences or a beat divided into two attacks. Keep the revised pattern and explanation as the passport contribution.
-
-Use specific feedback rather than rewarding playback alone. There are multiple valid student rhythms; assess the stated constraint and explanation, not similarity to a hidden preferred composition. No real-time tapping accuracy is necessary for this first lesson.
-
-### Changes to the current music sketch
-
-- Introduce beat, rhythm and rest before the editing controls.
-- Make the pulse visible through rests and add an optional audible reference beat with its own control.
-- Separate the guided task from free composition, and preserve original/revised patterns for comparison.
-- Start with Sound/Rest choices. The current Tap/Chime switch changes tone color and pitch, so it cannot stand in for rhythmic development. Add paired eighth notes only for the extension.
-- Add an actual comprehension prompt, explanatory feedback and retry path. The current sketch describes the arrangement but does not check whether the learner understood it.
-- Pair notation with plain-language labels. Keep captions, keyboard operation, replay, mute and a visual timing reference. Text-only participation should still allow reasoning about the arrangement.
-
-### High-school curriculum direction
-
-Welcome stations can assume no prior knowledge while still asking students to reason, revise and explain. Present them as introductory activities within a future high-school curriculum, rather than claiming they establish full curriculum coverage.
-
-For Music, follow this entry activity with duration/subdivision, notation, meter and intentional composition. The proposed create–revise–explain sequence is informed by the [National Core Arts Standards music creating framework](https://www.nationalartsstandards.org/content/creating-music). That is a design reference, not a claim that a four-minute task meets a complete high-school performance standard. Select the intended course/grade, map the later sequence to the appropriate standards and have an educator review the objectives and checks.
+Select the intended courses and standards, then review the academic sequence, prerequisites and assessments. Keep academic lessons separate from interface orientation such as finding Help or Undo. The presentation can describe an educational software concept while honestly identifying which lessons and media are prepared.
 
 ## Implementation order
 
-1. Confirm the presentation structure in this plan. Preserve the existing deck as the reference.
-2. Add the Character Voices page and map available recordings; leave accurate slots for missing exports.
+1. Use this revised teaching direction and the developed Music unit as the content brief.
+2. Add the Character Voices page and map existing recordings; label any files still to be connected.
 3. Add the whole Production Workflow page with placeholders and its Art-side links.
-4. Add Campus Passport to Design, retaining the deck's three original stations and listing the other starters.
-5. Rewrite and develop the Music station, then connect it to the existing prototype.
-6. Verify audio/transcript pairings, page links, small-screen readability and keyboard access. Walk through the lesson and check that its prompts, pulse, playback and feedback agree.
+4. Add First Lessons to Design, showing the academic teaching point for each subject.
+5. Replace the featured rhythm game with the acoustics lesson; prepare its listening samples and observation materials.
+6. Verify audio/transcript pairings, page links, small-screen readability and keyboard access. Review teaching explanations, demonstrations and understanding checks together.
 
-The outcome of this pass is a stronger presentation and one understandable learning example. The other teacher starters remain designed descriptions until selected for development.
+Local implementation now includes the Music example and the other faculty lesson descriptions. The four instrument-comparison recordings remain to be added. The portrait gallery is implemented using the existing cast artwork and awaits existing-preview MP3s; the workflow-placeholder requirement is retained for a later pass. The Slides deck is unchanged.
+
+## Voice decision and local gallery
+
+Arthur selected existing voice previews for now. The Prototypes page now has a compact horizontal portrait gallery for 13 faculty and five student concepts. Ettin Head A and Head B have separate preview slots. Playback remains pending until actual MP3 files are supplied; student samples can remain pending if they do not exist. No new dialogue or speech was generated. Export instructions and filename mapping are in [production/audio/README.md](../production/audio/README.md).
+
+## Short voice clips delivered locally — October 30, 2026
+
+Arthur superseded the existing-preview choice with short generated teaching samples. Fourteen current clips are wired into the local Prototypes gallery, covering all 13 faculty and both Ettin heads. The F04, F06 and F08 saved-voice overrides are recorded in production/audio/short-faculty-samples.json. Science, Physical Education, Art and Drama were revised for clearer standalone wording. Local speech transcriptions check the spoken words. The selected audio is served as website files; visitors need no ElevenLabs login or generation credits. Five student voice studies remain planned. The site has not been deployed by this update.

@@ -1,0 +1,44 @@
+VRHS short faculty voice samples
+October 30, 2026
+
+01-english-beholder (7.2 seconds)
+Welcome to English. Crept and strode both describe movement, but they suggest very different feelings.
+
+02-math-yeti (9.9 seconds)
+Welcome to math. Double an input, then add three. Increasing the input by one increases the output by two.
+
+03-science-chuul (7.7 seconds)
+Welcome to science. Seeing brown spots is an observation. Explaining their cause takes evidence.
+
+04-history-displacer (8.2 seconds)
+Welcome to history. Before trusting an account, ask who created it, and what they could actually know.
+
+05-geography-ettin-head-a (6.5 seconds)
+Welcome to geography. Map scale connects a distance on the page to a distance on the ground.
+
+05-geography-ettin-head-b (5.9 seconds)
+And contour lines show elevation. When their spacing gets closer, the slope gets steeper.
+
+06-language-arts-dragon (8.8 seconds)
+Welcome to Language Arts. Your audience shapes your words. A friendly message sounds different from a formal request.
+
+07-health-spider (6.8 seconds)
+Welcome to health. A popular claim is not proof. Check its source and the evidence behind it.
+
+08-pe-gnoll (9.9 seconds)
+Welcome to physical education. Different exercises train different skills. Today, we'll connect each exercise to its purpose.
+
+09-art-oobleck (7.8 seconds)
+Welcome to art. A light shape against a dark background stands out. That difference is called contrast.
+
+10-music-goblin (6.9 seconds)
+Welcome to music. Pitch tells us how high a sound is; timbre gives it its distinctive character.
+
+11-drama-medusa (8.2 seconds)
+Welcome to drama. The same words can express different intentions. Listen to how emphasis changes a line.
+
+12-technology-mimic (8.4 seconds)
+Welcome to technology. An algorithm is an ordered set of instructions. Change the order, and the result can change.
+
+13-headmaster-lich (6.4 seconds)
+Welcome to our school. Make a claim, show your evidence, and explain how the two connect.

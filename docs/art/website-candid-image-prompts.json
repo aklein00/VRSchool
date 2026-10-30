@@ -1,0 +1,45 @@
+{
+  "mode": "built-in image_gen",
+  "date": "2026-10-30",
+  "jobs": [
+    {
+      "key": "music",
+      "file": "01-goblin-music-lesson.png",
+      "refs": [
+        "/Users/arthurklein/Documents/Work/2026Nov/VR HS/assets/concepts/2026-10-29/individual-line-drawings/faculty/10-music-goblin.png",
+        "/Users/arthurklein/Documents/Work/2026Nov/VR HS/assets/source/artist-sketches/09-student-pencil-wash-reference.png"
+      ],
+      "prompt": "Use case: illustration-story. Create a finished website illustration with the loose searching pencil/ink contours and transparent colored watercolor wash of the references, visible sketch construction, expressive angular faces and strong varied silhouettes. Warm ivory paper, subdued moss, plum, teal, rust and ochre. Characters have strong dark linework; classroom environment is extremely pale and low contrast, mostly suggested lines fading into paper. Happy, thoughtful and a little funny, with credible focused teaching, never slapstick or childish. No lettering, labels, captions, border, logos or UI. Anatomically coherent hands, props and distinct silhouettes. Landscape 1536x1024. Image 1 is the exact Goblin Bard teacher character reference; image 2 supplies ink/wash style AND student identities. A candid music lesson, three characters only: the short broad adult goblin teacher on the left, the short auburn-haired halfling teen girl with a wooden flute at center, and the sturdy red-haired dwarf teen boy with a small hand drum at right. Teacher has NO HAT, no beret, huge pointed pierced ears, swept forelock, strong eyebrows, wide square jaw, small tusks, oversized tailored coat lapels, waistcoat, neck scarf, breeches and pointed boots just like original sketch. Teacher holds a lute by its neck in one hand with strap supporting it and counts a gentle beat with the other; looks attentively toward students. Students are practicing, smiling in concentration; dwarf looks pleased to have found the beat, halfling shares a knowing sideways smile. No floating music symbols. Show complete figures with useful breathing room, dynamic triangular composition, faint instrument shelf behind. Preserve mature clever original goblin face, not a cute generic goblin.",
+      "generated_path": "/Users/arthurklein/.codex/generated_images/01a18930-959a-7b42-95d1-f03fe65dedca/exec-8158acec-3622-4552-9465-32f84f658653.png"
+    },
+    {
+      "key": "art",
+      "file": "02-oobleck-painting-lesson.png",
+      "refs": [
+        "/Users/arthurklein/Documents/Work/2026Nov/VR HS/assets/concepts/2026-10-29/individual-line-drawings/faculty/09-art-oobleck.png",
+        "/Users/arthurklein/Documents/Work/2026Nov/VR HS/assets/source/artist-sketches/09-student-pencil-wash-reference.png"
+      ],
+      "prompt": "Use case: illustration-story. Create a finished website illustration with the loose searching pencil/ink contours and transparent colored watercolor wash of the references, visible sketch construction, expressive angular faces and strong varied silhouettes. Warm ivory paper, subdued moss, plum, teal, rust and ochre. Characters have strong dark linework; classroom environment is extremely pale and low contrast, mostly suggested lines fading into paper. Happy, thoughtful and a little funny, with credible focused teaching, never slapstick or childish. No lettering, labels, captions, border, logos or UI. Anatomically coherent hands, props and distinct silhouettes. Landscape 1536x1024. Image 1 is exact nonbinary Oobleck art teacher, they/them; image 2 supplies style and student identities. Three characters only: Oobleck at left, curly high-bun brown-skinned human wizard teen girl with glasses at center, lavender-skinned short-horned tiefling teen boy at right. Oobleck is a broad translucent seafoam green fluid being with a side-drooping head crest, expressive thick eyebrows and rounded smile, TWO fluid arms, broad puddle base with NO legs, patched apron over draped neckline. A candid painting lesson at two easels: Oobleck guides a broad brush stroke on a still-life of a modest pear and jug; one student paints a slightly wonky pear and all exchange gently amused appreciative looks. Human has indigo cardigan and broad gray trousers; tiefling ochre sweater and teal trousers with tail visible. Students wear simple art aprons over their regular clothes. Everyone holds brushes clearly, two hands each. Painting a real exercise together, warm coaching. Faint shelves and a studio window, pale lowcontrast background. No palette or brush fused to fingers. Full figures, airy composition.",
+      "generated_path": "/Users/arthurklein/.codex/generated_images/01a18930-959a-7b42-95d1-f03fe65dedca/exec-01ad5bb6-5cd5-4d79-acf2-6e230ca2811c.png"
+    },
+    {
+      "key": "science",
+      "file": "03-chuul-science-lesson.png",
+      "refs": [
+        "/Users/arthurklein/Documents/Work/2026Nov/VR HS/assets/concepts/2026-10-29/individual-line-drawings/faculty/03-science-chuul.png",
+        "/Users/arthurklein/Documents/Work/2026Nov/VR HS/assets/source/artist-sketches/09-student-pencil-wash-reference.png"
+      ],
+      "prompt": "Use case: illustration-story. Create a finished website illustration with the loose searching pencil/ink contours and transparent colored watercolor wash of the references, visible sketch construction, expressive angular faces and strong varied silhouettes. Warm ivory paper, subdued moss, plum, teal, rust and ochre. Characters have strong dark linework; classroom environment is extremely pale and low contrast, mostly suggested lines fading into paper. Happy, thoughtful and a little funny, with credible focused teaching, never slapstick or childish. No lettering, labels, captions, border, logos or UI. Anatomically coherent hands, props and distinct silhouettes. Landscape 1536x1024. Image 1 exact Chuul science teacher; image 2 style and students. Make a wide banner composition at approximately 2:1 with generous pale side margins. Three characters only: squat broad rust-red crustacean Chuul teacher at leftcenter with TWO massive lobster claws and FOUR jointed walking legs, narrow mouth feelers, shell brow and small eyestalks, collared olive shirt, tan apron and satchel. The Chuul gently holds up a clear bubbling flask by its narrow neck in one claw, flask sits upright above the claw grip, and gestures while speaking with the other claw. Bubbles stay inside the flask except a few harmless tiny bubbles at its mouth. Tall slender dark-braided elf teen in moss shirt and tan trousers at rightcenter carefully observes; sturdy short dwarf teen in rust workshirt makes a note at right. The dwarf gives one small escaped bubble a delighted sideways glance while the elf stays engaged. Their safety glasses are simple believable spectacles. Teaching observation of a reaction, a friendly seriously curious scene. One pale lab bench with two jars, faint greenhouse arches and leaves behind. No explosion, smoke cloud, hazard, fire or fantasy combat. Entire characters including all four teacher legs inside frame. Keep foreground faces and raised flask clear.",
+      "generated_path": "/Users/arthurklein/.codex/generated_images/01a18930-959a-7b42-95d1-f03fe65dedca/exec-444369d8-8cd5-40b9-9206-50f86a5d81c8.png"
+    },
+    {
+      "key": "headmaster",
+      "file": "04-headmaster-unlabeled.png",
+      "refs": [
+        "/Users/arthurklein/Documents/Work/2026Nov/VR HS/assets/concepts/2026-10-29/06-headmaster-style-comparison.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit the attached headmaster three-style comparison for use as a polished website product page header illustration. Remove ALL typography and labels: top THE HEADMASTER title, logo, subtitle and rules; bottom GEOMETRIC, BIZZY DAD, ARTIST PENCIL & WASH captions. No lettering anywhere. Preserve exactly three full-body versions of the SAME welcoming female lich headmaster in the SAME order and distinctive styles: left large geometric 3D primitives, middle painterly sculptural fantasy, right loose pencil and translucent wash. Keep white bun, spectacles, kind skull face, teal robe, cream dress, burgundy book and open welcoming hand. Preserve all three styles faithfully and their poses and detailed costume identities. Replace erased areas with warm ivory paper, tighten unneeded top/bottom whitespace so all three headmasters form an elegant evenly spaced horizontal triptych. Pale low-contrast scholarly backgrounds behind the characters. No dark borders, titles, captions, lettering or logo. Full bodies fully inside image, no head/feet cropping. Landscape 1536x1024.",
+      "generated_path": "/Users/arthurklein/.codex/generated_images/01a18930-959a-7b42-95d1-f03fe65dedca/exec-bfb0f40e-8715-4f67-abe5-fb719a47bdbb.png"
+    }
+  ]
+}
