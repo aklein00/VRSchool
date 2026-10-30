@@ -12,7 +12,7 @@ Planned expansion, October 29: see [the voice, workflow and Campus Passport cont
 | Art Style Guide | Show Art's direction across the whole game | Shared foundations and eight art disciplines, each with intent, rules, examples, review criteria, and a planned proof |
 | Prototypes | Let the visitor inspect and try selected experiments | Goblin model in Sketchfab when ready, environment corner, voice audition, small music interaction, and eventual integrated web slice; accurate status for each |
 | Design | Explain how players experience the direction | Core loop, teaching interaction, player expression, interaction hierarchy, accessibility, music activity and scope |
-| Product | Make the existing research useful and concise | Audience hypothesis, six relevant comparisons distilled from the 20-game study, implications for VRHS, evidence limits, commercial questions, validation plan, sources |
+| Product | Make the existing research useful and concise | Audience hypothesis, six relevant comparisons distilled from the 20-game study, implications for VRHS, evidence limits, validation plan, sources |
 
 The Pitch should be understandable without reading the other pages. The Art Style Guide is a first-class destination and the most substantial body of art-direction evidence. Each supporting page should connect its decisions back to the game's visual identity.
 
@@ -49,9 +49,15 @@ Keep the explanation compact: core loop, teacher/student relationship, expressio
 
 ## Product page
 
-Reuse docs/research/teen-game-market-review.md, game-designer-notes.md, art-direction-notes.md and citations.md. Show a six-comparison digest: Royale High (place/belonging), Brawl Stars (readability/objectives), Adopt Me! (warmth/attachment), Dress To Impress (expression/showcase), Minecraft (making/modularity), Genshin Impact (composition/discovery). Each comparison gets one observation, one VRHS implication and a specific visual/design choice. Link a short selected-source list; raw repo research is not deployed.
+Organize the page around research, successful game references, and their implications for art direction. No pricing, revenue or monetization discussion belongs here.
 
-Call the underlying study a 20-game research set, not a verified popularity ranking of US teens. Royale High is an additional thematic reference outside that set. Keep youth surveys, all-age engagement, downloads and commercial signals distinct. Do not add numerical demand or learning claims. Describe who might choose/pay, the value hypothesis and what still needs testing.
+1. **Research foundations:** selected institutional youth studies with source title, institution, year, population, one relevant reported finding, a proposed implication and a direct link. Retain the JIM and Norwegian institutional studies. Add the UCLA-affiliated Teens and Screens 2024 and 2025 reports together, including the shift toward relatability in 2025, and Thomas et al.’s peer-reviewed D&D and You (2026), explicitly noting its 11 UK participants aged 18–25. Separate audience preference from qualitative experiences and creative interpretation.
+2. **Successful games as references:** six comparisons from the existing study: Royale High, Brawl Stars, Adopt Me!, Dress To Impress, Minecraft and Genshin Impact. Show the reference lens, creative reading, and VRHS direction to test. Preserve their official source links.
+3. **What the references suggest:** connect belonging, expression, clarity and making to original monster mentors, department identities, teaching props and student presentation. Link these choices to the art guide.
+4. **Questions to test:** retain the useful “The first things to learn” list covering distinctiveness/age appeal, comprehension, understanding consequences, and wanting another class or sharing with a friend.
+5. **Source notes:** keep institutional youth studies distinct from supplementary industry reports. The game research set is not a unified ranking of US teens aged 13–17. Royale High is an additional thematic reference. Reported findings, game observations and art-direction proposals must remain clearly distinguished.
+
+Reuse the existing research files and citations. Raw repo research stays outside the published output. The D&D paper supplies peer-reviewed qualitative evidence; UCLA, JIM and Norwegian sources remain accurately labeled research reports. Do not imply that any of them establish learning benefits for VRHS. Source records S13–S15 in docs/research/citations.md capture the new findings, limitations and interpretations.
 
 ## ComfyUI and ElevenLabs
 

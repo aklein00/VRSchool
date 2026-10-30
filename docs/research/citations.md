@@ -126,6 +126,36 @@ These publisher pages and the descriptions in the Roblox snapshot ground mechani
 
 **Claim used:** The development team describes a mixed 2025, including a ranked rework that missed goals and improved momentum entering 2026. This qualifies the idea that a famous game is necessarily growing steadily.
 
+## S13 UCLA-affiliated fantasy and friendship audience research, 2024
+
+**Source:** Burrus, A., Rivas-Lara, S., Hines, A., & Uhls, Y. T. (2024). [Teens and Screens 2024](https://www.scholarsandstorytellers.com/teens-screens-24). Center for Scholars & Storytellers at UCLA. Reviewed October 29, 2026.
+
+**Population and findings used:** 1,644 US respondents aged 10–24, surveyed August 2024. 36.2% preferred content featuring fantasy worlds; 63.5% wanted more content centered on friendships and platonic relationships.
+
+**Limits:** University-affiliated audience report, not a peer-reviewed journal paper. Results concern a broad age range and stated media preferences, not a US 13–17-only estimate, D&D participation, or learning outcomes. Read together with S14 rather than implying an uninterrupted increase in fantasy preference.
+
+**Creative interpretation:** Test a fantasy world with recognizable relationships, expressive mentors and welcoming school spaces. This is an art-direction proposal, not a causal study finding.
+
+## S14 UCLA-affiliated audience update, 2025
+
+**Source:** Puretz, M., Hines, A., & Uhls, Y. T. (2025). [Get Real! Relatability on Demand. Teens & Screens 2025](https://www.scholarsandstorytellers.com/teens-screens-25). Center for Scholars & Storytellers. Reviewed October 29, 2026.
+
+**Population and findings used:** 1,500 US respondents aged 10–24, surveyed August 2025. Relatable stories moved ahead of fantasy; the report continued to find interest in friendship-centered stories.
+
+**Limits:** University-affiliated audience report, not a journal paper or experimental result. The shift qualifies S13; it is not proof that fantasy has lost all appeal or that a fantasy setting should be abandoned.
+
+**Creative interpretation:** Ground extraordinary characters and environments in recognizable emotions and relationships; validate with actual teen players.
+
+## S15 D&D, young-adult identity and player experiences, 2026
+
+**Source:** Thomas, Z., Dunn, A., Gomez Bergin, A. D., & Hazell, C. M. (2026). [D&D and You: A Reflexive Thematic Analysis of Young Adult Players’ Experiences Exploring Identity and Mental Health Through Dungeons and Dragons](https://pmc.ncbi.nlm.nih.gov/articles/PMC13295500/). *Behavioral Sciences*, 16(6), 1026. DOI: 10.3390/bs16061026. Published June 18, 2026; reviewed October 29, 2026.
+
+**Method and findings used:** Peer-reviewed qualitative paper using interviews with 11 UK D&D players aged 18–25 and reflexive thematic analysis. Themes: D&D as a safer space, for coping, for exploration and for growth.
+
+**Limits:** Small sample of existing adult players; experiences are self-reported. This is not a measure of teen/Gen Alpha audience size or fantasy-media consumption, and does not establish causal educational or therapeutic effects for VRHS.
+
+**Creative interpretation:** Test room for player identity and belonging through character variety, costumes, gestures and personal spaces. Do not present that proposal as a measured result.
+
 ## Attribution of recommendations
 
 Strengths, opportunities, prototype suggestions, and visual fit assessments are product and creative judgments. They are not causal conclusions from the market data. The [game designer notes](game-designer-notes.md) and [art direction notes](art-direction-notes.md) were authored by separate specialist agents and integrated into the review. No teenager interviews or playtests have yet been conducted for VRSchool.
