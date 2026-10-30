@@ -12,6 +12,8 @@ This game has the potential to make learning more engaging, immersive, and effec
 
 **VRSchool Teacher List:**
 
+Current canon, updated 29 October 2026: Music / Goblin Bard is male (he/him). Language Arts / Brass Dragon is female (she/her), Physical Education / Gnoll is female (she/her), and Art / Oobleck is non-binary (they/them). Their subjects, classes, personalities, and core silhouettes remain unchanged. This roster supersedes the original import for gender and pronoun decisions. The original is preserved in [the source archive](../data/archive/2026-10-29-pre-gender-update/teachers.md).
+
 | Subject | Monster | Class | Attributes | Location | Gender |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | English | Beholder | Bard | Intelligence, Charisma | Beholder's Library | Male |
@@ -19,11 +21,11 @@ This game has the potential to make learning more engaging, immersive, and effec
 | Science | Chuul | Druid | Intelligence, Wisdom | Chuul's Swamp | Male |
 | History | Displacer Beast | Rogue | Dexterity, Intelligence | Displacer Beast's Forest | Female |
 | Geography | Ettin | Fighter | Strength, Constitution | Ettin's Mountain | Male |
-| Language Arts | Brass Dragon | Bard | Intelligence, Charisma | Brass Dragon's Lair | Male |
+| Language Arts | Brass Dragon | Bard | Intelligence, Charisma | Brass Dragon's Lair | Female |
 | Health | Giant Spider | Ranger | Dexterity, Wisdom | Giant Spider's Web | Female |
-| Physical Education | Gnoll | Barbarian | Strength, Constitution | Gnoll's Cave | Male |
-| Art | Oobleck | Artificer | Intelligence, Dexterity | Oobleck's Workshop | Male |
-| Music | Goblin Bard | Bard | Dexterity, Charisma | Goblin's Workshop | Female |
+| Physical Education | Gnoll | Barbarian | Strength, Constitution | Gnoll's Cave | Female |
+| Art | Oobleck | Artificer | Intelligence, Dexterity | Oobleck's Workshop | Non-binary |
+| Music | Goblin Bard | Bard | Dexterity, Charisma | Goblin's Workshop | Male |
 | Drama | Medusa | Sorcerer | Charisma, Constitution | Medusa's Lair | Female |
 | Technology | Mimic | Rogue | Dexterity, Intelligence | Mimic's Lair | Non-binary |
 | Headmaster | Lich | Wizard | Intelligence, Wisdom | Lich's Tower | Female |

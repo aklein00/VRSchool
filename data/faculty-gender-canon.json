@@ -1,0 +1,37 @@
+{
+  "updated": "2026-10-29",
+  "authority": "User-requested faculty gender revision",
+  "roster": "docs/teachers.md",
+  "characters": [
+    {
+      "subject": "Language Arts",
+      "creature": "Brass Dragon",
+      "gender": "Female",
+      "pronouns": "she/her",
+      "assetId": "06-language-arts-dragon"
+    },
+    {
+      "subject": "Physical Education",
+      "creature": "Gnoll",
+      "gender": "Female",
+      "pronouns": "she/her",
+      "assetId": "08-pe-gnoll"
+    },
+    {
+      "subject": "Art",
+      "creature": "Oobleck",
+      "gender": "Non-binary",
+      "pronouns": "they/them",
+      "assetId": "09-art-oobleck"
+    },
+    {
+      "subject": "Music",
+      "creature": "Goblin Bard",
+      "gender": "Male",
+      "pronouns": "he/him",
+      "assetId": "10-music-goblin"
+    }
+  ],
+  "visualDirection": "Keep each teacher's established silhouette, creature anatomy, costume function and teaching personality. Apply current identities without requiring stereotyped proportions or vocal range.",
+  "googleSourceSynchronization": "data/faculty-gender-sync.json"
+}

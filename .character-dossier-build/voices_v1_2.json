@@ -1,0 +1,93 @@
+[
+  {
+    "prompt": "Native English, General American. Male beholder, mature adult. Studio quality. A large floating creature with one enormous mouth: a round, hollow upper baritone with a narrow nasal edge, as though every word rolls around a generous oral cavity. A witty, slightly fussy librarian who relishes exact wording. Stretch a favorite vowel, then finish with neat, precise consonants. Quick curious rises and small satisfied downward turns. Keep the unusual resonance gentle and every sentence intelligible.",
+    "pace": "130–145 words/min",
+    "anchor": "Hollow upper baritone with a nasal edge",
+    "physical": "Large floating beholder and broad mouth",
+    "demeanor": "Fussy wit and precise word choices"
+  },
+  {
+    "prompt": "Native English, General American. Male yeti wizard, mature adult. Studio quality. An enormous, broad-chested, fur-covered teacher with a very deep, soft bass and dense, rounded chest resonance. Broad vowels, a faint woolly grain and slow, weighty phrase beginnings suggest his size. His temperament is patient and quietly delighted by patterns. Let the ends of phrases soften, leave a generous thinking pause, and pronounce numbers distinctly. His great physical power feels carefully moderated for a small classroom.",
+    "pace": "105–120 words/min",
+    "anchor": "Very deep soft bass with woolly weight",
+    "physical": "Enormous broad-chested yeti",
+    "demeanor": "Patient and quietly delighted"
+  },
+  {
+    "prompt": "Native English, General American. Male chuul, mature adult. Studio quality. A large shell-covered crustacean with mouth tentacles: a low-middle voice with focused, buzzy throat resonance and a faint moist grain. Small, firm consonant attacks alternate with short, rounded vowels, suggesting careful speech through unfamiliar mouthparts. A meticulous swamp scientist whose curiosity occasionally quickens the rhythm. Separate each observation, then brighten on the question. Keep the creature texture subtle enough that a student can repeat every word accurately.",
+    "pace": "120–135 words/min",
+    "anchor": "Focused buzzy low-middle voice",
+    "physical": "Large crustacean with mouth tentacles",
+    "demeanor": "Meticulous and inquisitive"
+  },
+  {
+    "prompt": "Native English, General American. Female displacer beast, mature adult. Studio quality. A large, sleek six-legged feline with a low, supple alto and a soft purring grain underneath the vowels. Smooth connected phrases, clean incisive consonants and a poised, almost motionless delivery suggest coiled physical control. A perceptive historian with dry amusement who enjoys a disputed clue. Place a small pause before the revealing word. Speak at a comfortable conversational volume, with clear questions and an inviting finish.",
+    "pace": "120–135 words/min",
+    "anchor": "Supple purring alto with incisive diction",
+    "physical": "Large sleek feline with controlled movement",
+    "demeanor": "Poised and dryly amused"
+  },
+  {
+    "prompt": "HEAD A: Native English, General American. Male ettin head, mature adult. Studio quality. One head of an enormous two-headed giant, sharing a powerful chest. A low bass-baritone with earthy gravel, broad vowels and deliberate, weighty phrasing. A practical, grounded expedition guide. Let each statement land, then offer a warm, patient question.\n\nHEAD B: Native English, General American. Male ettin head, mature adult. Studio quality. The other head of the same enormous giant. A higher baritone with substantial body, a forward nasal ring and springier pitch. A curious, friendly counterpoint with quicker questions and amused upward turns. Retain the broad vowels and physical weight of his companion.",
+    "pace": "Head A 110–125; Head B 130–145 words/min",
+    "anchor": "A earthy bass-baritone; B ringing higher baritone",
+    "physical": "Two giant heads sharing one powerful chest",
+    "demeanor": "A grounded guide; B curious counterpoint"
+  },
+  {
+    "prompt": "Native English, General American. Female brass dragon, mature adult. Studio quality. A towering, long-necked dragon with a capacious chest: a resonant low alto with bright brassy overtones and a light, dry grain at the back of the throat. Spacious vowels and flowing, rising story phrases make her scale audible. A sociable, generous storyteller who savors a good anecdote. Shape key words with theatrical warmth, then lower the intensity when listening. Keep ordinary instructions concise and fully articulated.",
+    "pace": "125–140 words/min",
+    "anchor": "Resonant low alto with bright brassy overtones",
+    "physical": "Towering dragon with a long neck and large chest",
+    "demeanor": "Sociable and expansive"
+  },
+  {
+    "prompt": "Native English, General American. Female giant spider, mature adult. Studio quality. A broad eight-legged creature whose voice is surprisingly fine and focused: a light high mezzo with a silky, threadlike tone, soft controlled sibilants and tiny, precise consonants. Her careful mouthparts suggest delicacy within a large body. A composed, attentive wellbeing teacher. Use short, evenly supported phrases and a gentle pause after offering a choice. Warmth comes through patient timing and a clear, unforced conversational volume.",
+    "pace": "110–125 words/min",
+    "anchor": "Fine high mezzo with silky precision",
+    "physical": "Broad eight-legged spider with delicate mouthparts",
+    "demeanor": "Composed and attentive"
+  },
+  {
+    "prompt": "Native English, General American. Female gnoll, adult. Studio quality. A tall, lean, hyena-like coach with a warm middle register, a forward muzzle-shaped resonance and a dry, pleasantly ragged rasp. Short energetic phrase attacks and crisp rhythmic counting suggest her athletic body ready to move. A good-humored coach who becomes gentler during reassurance. Allow an occasional small breathy chuckle between thoughts. Keep words open and clear, the pace responsive, and encouragement at normal classroom volume.",
+    "pace": "140–155 words/min",
+    "anchor": "Warm middle voice with forward resonance and a ragged rasp",
+    "physical": "Tall lean hyena-like gnoll",
+    "demeanor": "Athletic and good-humored"
+  },
+  {
+    "prompt": "Native English, General American. Non-binary oobleck, adult; they/them pronouns. Studio quality. A medium-sized shapeshifting slime whose light middle register has a soft, rounded, gently viscous texture. Vowels stretch slightly and settle with small elastic pitch slides, while consonants remain distinct. Their fluid body suggests a voice that can reshape a phrase as an idea occurs. A playful studio teacher, easily delighted by experiments. Use buoyant melodic changes and warm, gentle phrase endings. Keep the elasticity restrained and the teaching words easy to follow.",
+    "pace": "130–145 words/min",
+    "anchor": "Soft elastic middle register with pliable vowels",
+    "physical": "Medium-sized fluid shapeshifting slime",
+    "demeanor": "Playful and easily delighted"
+  },
+  {
+    "prompt": "Native English, General American. Female goblin, adult. Studio quality. A small, wiry music teacher with a bright high alto, compact forward nasal resonance and a charmingly raspy edge. Nimble front-of-mouth consonants and quick melodic turns suggest her small jaw and lively physical energy. She is mischievous, inventive and generous with beginners. Let speech bounce lightly around the beat, then become exact and even when counting. Leave a real pause for replies and keep the brightness comfortable to hear.",
+    "pace": "145–160 words/min",
+    "anchor": "Compact bright high alto with a raspy edge",
+    "physical": "Small wiry goblin with a small jaw",
+    "demeanor": "Mischievous and musically nimble"
+  },
+  {
+    "prompt": "Native English, General American. Female Medusa, mature adult. Studio quality. A tall, slender, snake-haired drama teacher with a dark, full contralto and a smooth, sustained vocal line. A fine controlled sibilance suggests her serpentine nature, while a balanced, poised breath carries the whole phrase. She has assured stage presence, playful intelligence and precise emotional intention. Use long vowels for meaning, a clean change of intention between readings, and specific, kindly feedback. Keep the delivery intimate enough for a classroom.",
+    "pace": "115–135 words/min",
+    "anchor": "Full dark contralto with a sustained serpentine line",
+    "physical": "Tall slender Medusa with snake hair",
+    "demeanor": "Assured and theatrically playful"
+  },
+  {
+    "prompt": "Native English, General American. Non-binary mimic, adult. Studio quality. A small, stout wooden chest creature with a long flexible tongue: an androgynous middle-low voice with compact, boxy resonance, a dry woody grain and softly rounded vowels. Neat little consonant attacks suggest the careful opening of a hinged lid. A resourceful, curious technology tutor who enjoys a practical fix. Use short, deliberate instructions with a tiny upward turn when an idea works. Keep the personality expressive and the troubleshooting language precise.",
+    "pace": "130–145 words/min",
+    "anchor": "Compact boxy middle-low voice with woody grain",
+    "physical": "Small stout wooden chest and flexible tongue",
+    "demeanor": "Resourceful and quietly playful"
+  },
+  {
+    "prompt": "Native English, General American. Female lich, ancient, sounding elderly. Studio quality. A tall, slender skeletal headmaster with a light, dry low alto, narrow hollow resonance and a fine papery grain. The voice carries little fleshy weight but remains steady and supported. Exact consonants and economical breaths suggest an old scholar who has had centuries to choose her words. Composed, kindly and wry. Use deliberate pauses and a faint smile on reassurance. Let quiet authority carry the welcome with every word clearly audible.",
+    "pace": "105–120 words/min",
+    "anchor": "Light dry low alto with hollow papery resonance",
+    "physical": "Tall slender ancient skeleton",
+    "demeanor": "Economical and quietly authoritative"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "file": "faculty/06-language-arts-dragon.png",
+    "previous": "archive/2026-10-29-before-gender-revision/faculty/06-language-arts-dragon.png",
+    "previousSha256": "6d3c08dd02b3aadca8964ddfd4326d627db6cbb840203ac99a481f6ebd057a50",
+    "sha256": "539992474da9190291e64ced4548e895b3a124919c65b5ae2ea9ee2b335bdcdd"
+  },
+  {
+    "file": "faculty/08-pe-gnoll.png",
+    "previous": "archive/2026-10-29-before-gender-revision/faculty/08-pe-gnoll.png",
+    "previousSha256": "a10b6865af239fa82f20225c0600f8d7e6de48510687d9d8044f9d85ebbc3188",
+    "sha256": "7bb22d9848ae57551681ba42cdb686bdbdbcef00196570924ea94d6c913f1744"
+  },
+  {
+    "file": "faculty/09-art-oobleck.png",
+    "previous": "archive/2026-10-29-before-gender-revision/faculty/09-art-oobleck.png",
+    "previousSha256": "557654f319a27b9b56d459d30153ccf68c5532e24205da169587fb048ec93b38",
+    "sha256": "5db4e71b12055b87e816a0654f599e7ab6b6eb60a70ad759cc24fe2028e59a61"
+  }
+]

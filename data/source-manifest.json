@@ -5,19 +5,28 @@
       "path": "docs/teachers.md",
       "source_url": "https://docs.google.com/document/d/16tAwJQso9YVgmQOaAulVXguxntnb4aiGp7rxAbpczok/edit",
       "bytes": 4645,
-      "sha256": "363fde41852abe41e9be28d7b89b4e7d94067e695fdc70707ce15e7b531069a3"
+      "sha256": "363fde41852abe41e9be28d7b89b4e7d94067e695fdc70707ce15e7b531069a3",
+      "archived_path": "data/archive/2026-10-29-pre-gender-update/teachers.md",
+      "current_bytes": 5104,
+      "current_sha256": "a11a18131800480ccaf2d4c7936c291a35a354a50dc999f3b17b83d650b1f88e"
     },
     {
       "path": "docs/locations.md",
       "source_url": "https://docs.google.com/document/d/1JaRiO2mQIv98Qb-t4XnLVYjTu8Zy6LYrpK7LG4kKMpo/edit",
       "bytes": 10774,
-      "sha256": "8a73d6eeda6fb1fb875e4687f555515a66c5dfd47bfc4adc70a8aabb3b91c5ca"
+      "sha256": "8a73d6eeda6fb1fb875e4687f555515a66c5dfd47bfc4adc70a8aabb3b91c5ca",
+      "archived_path": "data/archive/2026-10-29-pre-gender-update/locations.md",
+      "current_bytes": 10986,
+      "current_sha256": "d1b2ac7002baf21177d4d12df42bbe0919aae58cb59a154c273e6c2750f2b176"
     },
     {
       "path": "data/VRSchool.xlsx",
       "source_url": "https://docs.google.com/spreadsheets/d/1-tt7W4uhQyCHlOrYm1xFS4kY2XGjGpojofm1s3k97sI/edit",
       "bytes": 6168,
-      "sha256": "7816ed9ce6f7aae9ead4167a95527889230e7db43615224d836c7f686d5d3b9a"
+      "sha256": "7816ed9ce6f7aae9ead4167a95527889230e7db43615224d836c7f686d5d3b9a",
+      "archived_path": "data/archive/2026-10-29-pre-gender-update/VRSchool.xlsx",
+      "current_bytes": 4632,
+      "current_sha256": "e66cba0f45109cb77057adb273251d01bfe96004b988d7034610b9e5bf35d411"
     },
     {
       "path": "assets/source/Untitled-1.psd",
@@ -25,5 +34,7 @@
       "bytes": 4884768,
       "sha256": "603289d8e1551d122fd2c942ddefb76f51ebfc2f32d1793b12f4838be7af9f01"
     }
-  ]
+  ],
+  "working_revision_on": "2026-10-29",
+  "revision_note": "Faculty gender update requested by the user. Original imports retained at archived_path; current file hashes recorded separately."
 }

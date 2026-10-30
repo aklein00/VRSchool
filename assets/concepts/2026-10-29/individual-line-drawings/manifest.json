@@ -1,0 +1,138 @@
+{
+  "created": "2026-10-29",
+  "tool": "image_gen.imagegen",
+  "count": 18,
+  "images": [
+    {
+      "file": "faculty/01-english-beholder.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1745599,
+      "sha256": "c35e83e4b32e111d4d536211c6dceb0258a726a478ed9087ba0e458b8a268906"
+    },
+    {
+      "file": "faculty/02-math-yeti.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1741804,
+      "sha256": "f4b4e129629f8fa35b2de22a212f4b5e5a47f6c6be3c141835a28345acaeb682"
+    },
+    {
+      "file": "faculty/03-science-chuul.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1802184,
+      "sha256": "a909fa2090e99ecf98c88298dc7875aee77a5db0a7e3da8fbd5c78582d29891b"
+    },
+    {
+      "file": "faculty/04-history-displacer.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1815679,
+      "sha256": "164d4b82318a035b33c1f0e0a68e69494201655b8fa53628ce0757c3311721a4"
+    },
+    {
+      "file": "faculty/05-geography-ettin.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1784955,
+      "sha256": "710feabd5f748e405748af0994ddfdd231ed6195f564bda5a460ca586edb772f"
+    },
+    {
+      "file": "faculty/06-language-arts-dragon.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2117711,
+      "sha256": "539992474da9190291e64ced4548e895b3a124919c65b5ae2ea9ee2b335bdcdd",
+      "supersedes": "archive/2026-10-29-before-gender-revision/faculty/06-language-arts-dragon.png"
+    },
+    {
+      "file": "faculty/07-health-spider.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1762805,
+      "sha256": "84d8e118abbfe31f3f0a8e1411d4df8f9cde02fecfe01042673555e6982142a5"
+    },
+    {
+      "file": "faculty/08-pe-gnoll.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1944497,
+      "sha256": "7bb22d9848ae57551681ba42cdb686bdbdbcef00196570924ea94d6c913f1744",
+      "supersedes": "archive/2026-10-29-before-gender-revision/faculty/08-pe-gnoll.png"
+    },
+    {
+      "file": "faculty/09-art-oobleck.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1791146,
+      "sha256": "5db4e71b12055b87e816a0654f599e7ab6b6eb60a70ad759cc24fe2028e59a61",
+      "supersedes": "archive/2026-10-29-before-gender-revision/faculty/09-art-oobleck.png"
+    },
+    {
+      "file": "faculty/10-music-goblin.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1885986,
+      "sha256": "54f777e129e18be8588d7d57728c688c5252aa0c057fc08236601eeff9dffbe5"
+    },
+    {
+      "file": "faculty/11-drama-medusa.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1538012,
+      "sha256": "21422d96588708a57b261b5f0a0a9f44feebf1a51b68005a03368d373d05c23e"
+    },
+    {
+      "file": "faculty/12-technology-mimic.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2057232,
+      "sha256": "d495ac644e68a904fc4239e83ba07ac2a12cfaf5df8219d2ef1e16412012a4ae"
+    },
+    {
+      "file": "faculty/13-headmaster-lich.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1597749,
+      "sha256": "3af2ebdd315e9e434a80590f7b305b2748644bc3e829117e9872427b6357007a"
+    },
+    {
+      "file": "players/14-player-human-wizard.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1547760,
+      "sha256": "88b24c3061a1b94191068405400dd81261cc9399a7ad7a8d734229e242f8e265"
+    },
+    {
+      "file": "players/15-player-dwarf-fighter.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1612171,
+      "sha256": "67d9d7318c3295b2a72dad067a15b277e32e4aa96a8b0167ed855d7def907e7c"
+    },
+    {
+      "file": "players/16-player-elf-ranger.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1518480,
+      "sha256": "60ad20da1aa859891fc380e842aec05627f302d481e3b5f9ba6aa7b25f0d01ed"
+    },
+    {
+      "file": "players/17-player-halfling-bard.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1666302,
+      "sha256": "e1aa7e86f464abad1c7846eb5c4ac9b06c662306add79d440f9b45a13fbb86ee"
+    },
+    {
+      "file": "players/18-player-tiefling-cleric.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1522516,
+      "sha256": "a37958978b7e4d1e95c6b01dba90bd4822bb22efd0ba4e317d63ea13002f8bc8"
+    }
+  ],
+  "revised": "2026-10-29",
+  "revision": "Female Language Arts and Physical Education; non-binary Art. Original illustrations archived."
+}

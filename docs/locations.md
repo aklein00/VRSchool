@@ -1,5 +1,7 @@
 **VRSchool Campus and Environments**
 
+Pronouns follow the [current faculty roster](teachers.md), updated 29 October 2026. The [original imported description](../data/archive/2026-10-29-pre-gender-update/locations.md) is preserved separately.
+
 The campus is located on top of a hill, overlooking a small town. The town is a typical Dungeons & Dragons mid-to-large town, with a diverse population and a vibrant vibe. The local economy depends on the campus, but the town has its own identity and sense of community.
 
 The campus itself is a beautiful and inspiring place. The buildings are made of stone and wood, and they are surrounded by lush gardens and forests. The campus is home to a variety of creatures, both magical and mundane.
@@ -30,7 +32,7 @@ The Chuul's Swamp is a dark and murky place, but it is also a place of great sci
 
 **History**
 
-The Displacer Beast's Forest is a dense and overgrown place, but it is also a place of great historical significance. The forest is located in a valley, and it is filled with all sorts of ruins and artifacts from ancient civilizations. The Displacer Beast is a historian, and he has created a series of interactive maps and timelines that help students learn about the different civilizations that have inhabited the forest over the centuries. The maps and timelines are accurate and informative, and they help students to develop their understanding of history.
+The Displacer Beast's Forest is a dense and overgrown place, but it is also a place of great historical significance. The forest is located in a valley, and it is filled with all sorts of ruins and artifacts from ancient civilizations. The Displacer Beast is a historian, and she has created a series of interactive maps and timelines that help students learn about the different civilizations that have inhabited the forest over the centuries. The maps and timelines are accurate and informative, and they help students to develop their understanding of history.
 
 **Geography**
 
@@ -38,7 +40,7 @@ The Ettin's Mountain is a tall and rugged place, but it is also a place of great
 
 **Language Arts**
 
-The Brass Dragon's Lair is a warm and inviting place, and it is the perfect place to learn about language arts. The lair is located in a cave, and it is decorated with all sorts of books, scrolls, and other objects related to language. The Brass Dragon is a gifted linguist, and he has created a series of interactive games and activities that help students learn about the different aspects of language. The games and activities are fun and engaging, and they help students to develop their language skills.
+The Brass Dragon's Lair is a warm and inviting place, and it is the perfect place to learn about language arts. The lair is located in a cave, and it is decorated with all sorts of books, scrolls, and other objects related to language. The Brass Dragon is a gifted linguist, and she has created a series of interactive games and activities that help students learn about the different aspects of language. The games and activities are fun and engaging, and they help students to develop their language skills.
 
 **Health**
 
@@ -46,11 +48,11 @@ The Giant Spider's Web is a sticky and dangerous place, but it is also a place o
 
 **Physical Education**
 
-The Gnoll's Cave is a dark and dingy place, but it is also a place of great physical activity. The cave is located in a mountain, and it is filled with all sorts of exercise equipment. The Gnoll is a personal trainer, and he has created a series of challenging exercises that help students to stay fit and healthy. The exercises are fun and engaging, and they help students to develop their physical fitness.
+The Gnoll's Cave is a dark and dingy place, but it is also a place of great physical activity. The cave is located in a mountain, and it is filled with all sorts of exercise equipment. The Gnoll is a personal trainer, and she has created a series of challenging exercises that help students to stay fit and healthy. The exercises are fun and engaging, and they help students to develop their physical fitness.
 
 **Art**
 
-Oobleck's Workshop is a messy and chaotic place, but it is also a place of great creativity. The workshop is located in a barn, and it is filled with all sorts of art supplies. Oobleck is an artist, and he has created a series of interactive art projects that help students to express themselves creatively. The art projects are fun and engaging, and they help students to develop their artistic skills.
+Oobleck's Workshop is a messy and chaotic place, but it is also a place of great creativity. The workshop is located in a barn, and it is filled with all sorts of art supplies. Oobleck is an artist, and they have created a series of interactive art projects that help students to express themselves creatively. The art projects are fun and engaging, and they help students to develop their artistic skills.
 
 **Music**
 

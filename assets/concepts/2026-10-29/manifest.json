@@ -1,0 +1,55 @@
+{
+  "generated": "2026-10-29",
+  "tool": "image_gen.imagegen",
+  "files": [
+    {
+      "file": "assets/concepts/2026-10-29/01-faculty-warm-geometry.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2527129,
+      "sha256": "5cde4eaab5d787c38bcd80027eb47fe2940b1ced8e626ee3ab0a34655668b9da"
+    },
+    {
+      "file": "assets/concepts/2026-10-29/02-faculty-angular-arcade.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2212610,
+      "sha256": "578f791b6e3072c0d34ef292be3d08c2285c745c7806bbc0b67043d5694d2d7c"
+    },
+    {
+      "file": "assets/concepts/2026-10-29/03-faculty-bizzy-dad.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3050630,
+      "sha256": "93bb4ed7873a76fd799b6f20333a15ea749b043e62b2d1416010aeb9ae06c3c2"
+    },
+    {
+      "file": "assets/concepts/2026-10-29/04-faculty-artist-pencil-wash.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3298649,
+      "sha256": "9f0b0da03aa411ed2db4bf48143a3d897ee6f7e017646e590ac9f7c3e230fd34"
+    },
+    {
+      "file": "assets/concepts/2026-10-29/05-faculty-large-primitives.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1919675,
+      "sha256": "2446ee16464fb7f903acea2406b518b63d298f1d03bcf1106424f693497a723f"
+    },
+    {
+      "file": "assets/concepts/2026-10-29/06-headmaster-style-comparison.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2555246,
+      "sha256": "5b2293dcdc43c108d4c3e8e14d8dffd7c4f43380a54c9712677e9c2fe14a13b1"
+    },
+    {
+      "file": "assets/concepts/2026-10-29/07-student-party-style-comparison.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1720690,
+      "sha256": "5900e928ba1e8cff3852920ae8df283b299f7d6f92762809f25941040701f7f3"
+    }
+  ]
+}

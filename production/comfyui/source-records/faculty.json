@@ -1,0 +1,525 @@
+[
+  {
+    "subject": "ENGLISH",
+    "creature": "BEHOLDER",
+    "gender": "Male",
+    "className": "Bard",
+    "location": "Beholder’s Library",
+    "crop": [
+      10,
+      236,
+      248,
+      568
+    ],
+    "tag": "The attentive editor",
+    "pace": "130–145 words/min",
+    "prompt": "Native English, General American. Male, 45–55. Studio quality. Persona: witty, attentive librarian. Emotion: warm, curious. A rounded mid-low baritone with crisp consonants and a smile in the vowels. Measured phrasing, gentle emphasis on key words, and a short pause before a question. Keep the voice conversational and reassuring.",
+    "motion": [
+      "Float with a slow, shallow bob. Ease into turns and stop before speaking.",
+      "The central eye attends to the speaker. Two eyestalks track the page, the rest settle.",
+      "Lift one stalk to mark a revision. Never aim a ring of eyes at one student."
+    ],
+    "test": [
+      [
+        "TEACHER · WELCOME",
+        "Welcome to English. I have several eyes, but we will examine one sentence at a time."
+      ],
+      [
+        "STUDENT",
+        "What if my first draft is bad?"
+      ],
+      [
+        "TEACHER · REASSURE",
+        "Then it is doing its job. A draft gives us something to improve."
+      ],
+      [
+        "TEACHER · PROMPT",
+        "Try this: “The door opened.” Which word would make it more precise?"
+      ]
+    ],
+    "hook": "Make one plain sentence more precise. Check: the student explains one word choice."
+  },
+  {
+    "subject": "MATH",
+    "creature": "YETI WIZARD",
+    "gender": "Male",
+    "className": "Wizard",
+    "location": "Yeti’s Lair",
+    "crop": [
+      260,
+      236,
+      506,
+      568
+    ],
+    "tag": "The patient pattern finder",
+    "pace": "115–130 words/min",
+    "prompt": "Native English, General American. Male, 50–65. Studio quality. Persona: patient mathematics mentor. Emotion: calm, quietly delighted. A deep, soft bass with a velvety texture and clear number pronunciation. Give each reasoning step its own breath. Warm chest resonance, gentle downward endings, and an unhurried pause after a question.",
+    "motion": [
+      "Heavy heel-to-toe steps with a soft knee bend. Let the coat and fur settle after each stop.",
+      "Use broad, slow hands to group objects. Tap one abacus bead per spoken count.",
+      "Lower the shoulders and bend toward the work, giving seated students equal attention."
+    ],
+    "test": [
+      [
+        "TEACHER · WELCOME",
+        "Welcome. In this room, every solution begins with a small step."
+      ],
+      [
+        "STUDENT",
+        "I am slow at math."
+      ],
+      [
+        "TEACHER · REASSURE",
+        "You may take your time. Show me one part you understand."
+      ],
+      [
+        "TEACHER · PROMPT",
+        "Two boxes hold three crystals each. How many crystals altogether? Show your groups."
+      ]
+    ],
+    "hook": "Model two groups of three using crystals. Check: show or describe why the total is six."
+  },
+  {
+    "subject": "SCIENCE",
+    "creature": "CHUUL",
+    "gender": "Male",
+    "className": "Druid",
+    "location": "Chuul’s Swamp",
+    "crop": [
+      518,
+      236,
+      762,
+      568
+    ],
+    "tag": "The careful field scientist",
+    "pace": "130–145 words/min",
+    "prompt": "Native English, General American. Male, 35–50. Studio quality. Persona: enthusiastic field scientist. Emotion: curious, thoughtful. A warm mid-range tenor with a faint grain and precise diction. Start observations lightly, then slow down for evidence. Small rises of curiosity at questions, natural pauses, and restrained excitement when a student notices something.",
+    "motion": [
+      "Walk with an alternating, stable leg pattern. Let the shell lead a slow turn.",
+      "Hold samples in the small manipulators. Keep large claws open and below shoulder height.",
+      "Antennae lean toward evidence, then pause. Mouth tentacles stay subtle during speech."
+    ],
+    "test": [
+      [
+        "TEACHER · WELCOME",
+        "Welcome to the swamp laboratory. This leaf has a mystery on it."
+      ],
+      [
+        "STUDENT",
+        "Those spots mean it is sick."
+      ],
+      [
+        "TEACHER · REDIRECT",
+        "That is one possible explanation. First, tell me what you can observe."
+      ],
+      [
+        "TEACHER · PROMPT",
+        "How could we test your idea without changing two things at once?"
+      ]
+    ],
+    "hook": "Sort a leaf observation from an explanation. Check: name one fair-test variable."
+  },
+  {
+    "subject": "HISTORY",
+    "creature": "DISPLACER BEAST",
+    "gender": "Female",
+    "className": "Rogue",
+    "location": "Displacer Beast’s Forest",
+    "crop": [
+      774,
+      236,
+      1017,
+      568
+    ],
+    "tag": "The evidence detective",
+    "pace": "125–140 words/min",
+    "prompt": "Native English, General American. Female, 35–50. Studio quality. Persona: perceptive archive detective. Emotion: composed, intrigued. A low alto with a smooth, lightly smoky texture and exact consonants. Dry humor, purposeful pauses, and soft emphasis on dates and sources. Build curiosity through timing while keeping every sentence clear and welcoming.",
+    "motion": [
+      "Use a low, six-legged feline walk with even weight. Pause with all feet grounded.",
+      "One tentacle points to a source while the other rests. Turn the ears before the head.",
+      "A faint offset silhouette may appear only during travel, then disappear before instruction."
+    ],
+    "test": [
+      [
+        "TEACHER · WELCOME",
+        "History leaves clues. Today we have a diary and a town record."
+      ],
+      [
+        "STUDENT",
+        "What if they disagree?"
+      ],
+      [
+        "TEACHER · REASSURE",
+        "Excellent. We have a question worth investigating."
+      ],
+      [
+        "TEACHER · PROMPT",
+        "Who made each source, and what could each person actually know?"
+      ]
+    ],
+    "hook": "Compare two short accounts of one school event. Check: give one reason they may differ."
+  },
+  {
+    "subject": "GEOGRAPHY",
+    "creature": "ETTIN",
+    "gender": "Male",
+    "className": "Fighter",
+    "location": "Ettin’s Mountain",
+    "crop": [
+      1028,
+      236,
+      1275,
+      568
+    ],
+    "tag": "Two viewpoints, one expedition",
+    "pace": "125–140 words/min",
+    "prompt": "HEAD A: Native English, General American. Male, 40–50. Studio quality. Warm, practical map guide. Low baritone, rounded vowels and measured phrasing.\n\nHEAD B: Native English, General American. Male, 25–35. Studio quality. Curious, friendly field partner. Bright light tenor, crisp consonants and quicker questions.",
+    "motion": [
+      "One shared, weighty walk. The torso turns first and both heads settle with a small delay.",
+      "The speaking head looks toward the student. The listening head nods and waits its turn.",
+      "One hand supports the globe while the other traces a route. Avoid tug-of-war gestures."
+    ],
+    "test": [
+      [
+        "HEAD A · WELCOME",
+        "Welcome, explorers. The map shows two paths to the tower."
+      ],
+      [
+        "HEAD B · QUESTION",
+        "One is shorter. Does that make it the easier route?"
+      ],
+      [
+        "STUDENT",
+        "Maybe the short one is steeper."
+      ],
+      [
+        "HEAD A · FOLLOW-UP",
+        "Good observation. Show us the contour lines that support your idea."
+      ]
+    ],
+    "hook": "Choose a route using distance and slope. Check: cite one visible map feature."
+  },
+  {
+    "subject": "LANGUAGE ARTS",
+    "creature": "BRASS DRAGON",
+    "gender": "Female",
+    "className": "Bard",
+    "location": "Brass Dragon’s Lair",
+    "crop": [
+      1288,
+      236,
+      1526,
+      568
+    ],
+    "tag": "The generous storyteller",
+    "pace": "125–140 words/min",
+    "prompt": "Native English, General American. Female brass dragon, mature adult. Studio quality. A towering, long-necked dragon with a capacious chest: a resonant low alto with bright brassy overtones and a light, dry grain at the back of the throat. Spacious vowels and flowing, rising story phrases make her scale audible. A sociable, generous storyteller who savors a good anecdote. Shape key words with theatrical warmth, then lower the intensity when listening. Keep ordinary instructions concise and fully articulated.",
+    "motion": [
+      "Walk with deliberate claw placement. Keep the tail behind the body and wings folded.",
+      "Open one wing slightly to reveal a story prop. Use a relaxed chin tilt when listening.",
+      "Settle the jaw between phrases. Keep breath and wing movement quiet near a learner."
+    ],
+    "test": [
+      [
+        "TEACHER · WELCOME",
+        "Every story has a listener. Today, choose one person you want to reach."
+      ],
+      [
+        "STUDENT",
+        "Can I tell a story instead of writing it?"
+      ],
+      [
+        "TEACHER · REASSURE",
+        "Certainly. Speak it, type it, or build it with pictures."
+      ],
+      [
+        "TEACHER · PROMPT",
+        "Tell us about a surprising arrival at school. What should your listener feel?"
+      ]
+    ],
+    "hook": "Share a two-sentence arrival story for a chosen audience. Check: identify the intended feeling.",
+    "pronouns": "she/her"
+  },
+  {
+    "subject": "HEALTH",
+    "creature": "GIANT SPIDER",
+    "gender": "Female",
+    "className": "Ranger",
+    "location": "Giant Spider’s Web",
+    "crop": [
+      10,
+      626,
+      248,
+      958
+    ],
+    "tag": "The calm wellbeing guide",
+    "pace": "110–125 words/min",
+    "prompt": "Native English, General American. Female, 40–55. Studio quality. Persona: calm school wellbeing guide. Emotion: attentive, reassuring. A warm lower mezzo with a soft, clear texture. Even volume, short sentences, and generous pauses. Questions sound optional and respectful. Keep concern gentle and composed, with precise articulation of practical instructions.",
+    "motion": [
+      "Use a smooth alternating leg pattern. Keep the body level and approach from the front.",
+      "Stop outside the student’s personal space. Lift one foreleg slowly to indicate a rest spot.",
+      "Keep the web as scenery. Never drop from above, wrap a learner, or touch their avatar."
+    ],
+    "test": [
+      [
+        "TEACHER · CHECK-IN",
+        "You can tell me how you feel, or you can pass."
+      ],
+      [
+        "STUDENT",
+        "The headset is making me uncomfortable."
+      ],
+      [
+        "TEACHER · SUPPORT",
+        "Pause here. You may take the headset off and ask the room facilitator for help."
+      ],
+      [
+        "TEACHER · CHOICE",
+        "Would you prefer the seated screen activity or a quiet break?"
+      ]
+    ],
+    "hook": "Practice the pause/help action. Check: identify one way to ask for a break without sharing health details."
+  },
+  {
+    "subject": "PHYSICAL EDUCATION",
+    "creature": "GNOLL",
+    "gender": "Female",
+    "className": "Barbarian",
+    "location": "Gnoll’s Cave",
+    "crop": [
+      260,
+      626,
+      506,
+      958
+    ],
+    "tag": "The encouraging movement coach",
+    "pace": "140–155 words/min",
+    "prompt": "Native English, General American. Female gnoll, adult. Studio quality. A tall, lean, hyena-like coach with a warm middle register, a forward muzzle-shaped resonance and a dry, pleasantly ragged rasp. Short energetic phrase attacks and crisp rhythmic counting suggest her athletic body ready to move. A good-humored coach who becomes gentler during reassurance. Allow an occasional small breathy chuckle between thoughts. Keep words open and clear, the pace responsive, and encouragement at normal classroom volume.",
+    "motion": [
+      "Use a relaxed digitigrade walk. Ears and tail follow the body with light delayed motion.",
+      "Demonstrate a small shoulder reach and reset. Count visibly with fingers at a steady tempo.",
+      "Celebrate with a low fist pump. Keep jumps and running out of the first VR lesson."
+    ],
+    "test": [
+      [
+        "TEACHER · WELCOME",
+        "Welcome, team. Choose a comfortable position. Seated works too."
+      ],
+      [
+        "STUDENT",
+        "Do I have to keep up with everyone?"
+      ],
+      [
+        "TEACHER · REASSURE",
+        "Choose your own pace. We are practicing control."
+      ],
+      [
+        "TEACHER · PROMPT",
+        "Reach gently within your clear space, then return to rest. Tell me when you are ready."
+      ]
+    ],
+    "hook": "Try or describe one small controlled reach. Check: return to a comfortable rest position.",
+    "pronouns": "she/her"
+  },
+  {
+    "subject": "ART",
+    "creature": "OOBLECK",
+    "gender": "Non-binary",
+    "className": "Artificer",
+    "location": "Oobleck’s Workshop",
+    "crop": [
+      518,
+      626,
+      762,
+      958
+    ],
+    "tag": "The playful experimenter",
+    "pace": "130–145 words/min",
+    "prompt": "Native English, General American. Non-binary oobleck, adult; they/them pronouns. Studio quality. A medium-sized shapeshifting slime whose light middle register has a soft, rounded, gently viscous texture. Vowels stretch slightly and settle with small elastic pitch slides, while consonants remain distinct. Their fluid body suggests a voice that can reshape a phrase as an idea occurs. A playful studio teacher, easily delighted by experiments. Use buoyant melodic changes and warm, gentle phrase endings. Keep the elasticity restrained and the teaching words easy to follow.",
+    "motion": [
+      "Flow forward as one slime mass. Compress before travel and stretch slightly on arrival.",
+      "Form a broad base before using a brush. Small drips return to the body rather than scatter.",
+      "A hand reshapes into a simple tool grip. Hold the finished mark still for students to inspect."
+    ],
+    "test": [
+      [
+        "TEACHER · WELCOME",
+        "Welcome to the studio. This shape was a square a moment ago."
+      ],
+      [
+        "STUDENT",
+        "My picture does not look real."
+      ],
+      [
+        "TEACHER · REASSURE",
+        "It can still say something. Tell me what you want it to feel like."
+      ],
+      [
+        "TEACHER · PROMPT",
+        "Choose two colors and one shape to show your first-day mood. You may keep its meaning private."
+      ]
+    ],
+    "hook": "Create a mood emblem with color and shape. Check: explain one choice, or describe a fictional mood.",
+    "pronouns": "they/them"
+  },
+  {
+    "subject": "MUSIC",
+    "creature": "GOBLIN BARD",
+    "gender": "Female",
+    "className": "Bard",
+    "location": "Goblin’s Workshop",
+    "crop": [
+      774,
+      626,
+      1017,
+      958
+    ],
+    "tag": "The welcoming rhythm maker",
+    "pace": "140–155 words/min",
+    "prompt": "Native English, General American. Female, 25–40. Studio quality. Persona: inventive music workshop leader. Emotion: bright, welcoming. A lively light alto with a faint husky edge, nimble consonants, and playful pitch changes. Speak with rhythmic clarity while leaving space for a reply. Warm encouragement, controlled volume, and clean spoken counting.",
+    "motion": [
+      "Take small, quick steps that settle into a planted stance. Tap a toe only during a beat.",
+      "Lead with a short wrist pickup, then four clear downbeats. Keep the instrument steady.",
+      "Still the hands and instrument while a student answers. Avoid constant background strumming."
+    ],
+    "test": [
+      [
+        "TEACHER · WELCOME",
+        "Welcome, musicians. Let us borrow a heartbeat and make a pattern."
+      ],
+      [
+        "STUDENT",
+        "I do not play an instrument."
+      ],
+      [
+        "TEACHER · REASSURE",
+        "You can tap, watch, or arrange the beat tiles."
+      ],
+      [
+        "TEACHER · PROMPT",
+        "Try four beats: tap, tap, rest, tap. Which beat stays silent?"
+      ]
+    ],
+    "hook": "Copy a four-beat pattern using taps or tiles. Check: identify the rest on beat three."
+  },
+  {
+    "subject": "DRAMA",
+    "creature": "MEDUSA",
+    "gender": "Female",
+    "className": "Sorcerer",
+    "location": "Medusa’s Lair",
+    "crop": [
+      1028,
+      626,
+      1275,
+      958
+    ],
+    "tag": "The attentive scene partner",
+    "pace": "120–140 words/min",
+    "prompt": "Native English, General American. Female, 35–50. Studio quality. Persona: expressive drama teacher. Emotion: poised, playful. A rich contralto with precise diction and a broad, controlled pitch range. Give a phrase a clear intention, then pause to invite a response. Intimate classroom projection, warm humor, and gentle, specific feedback.",
+    "motion": [
+      "Walk with a tall, balanced posture and small stage turns. Gesture from open palms.",
+      "Snake hair follows her attention in a slow wave, then rests while another person speaks.",
+      "Invite eye contact as a choice. Her gaze has no harmful effect and triggers no surprise visual."
+    ],
+    "test": [
+      [
+        "TEACHER · WELCOME",
+        "In drama, a small change can tell a different story."
+      ],
+      [
+        "STUDENT",
+        "I would rather watch first."
+      ],
+      [
+        "TEACHER · REASSURE",
+        "You may observe and tell us what you notice."
+      ],
+      [
+        "TEACHER · PROMPT",
+        "I will say “You came back” with relief, then surprise. What changed in my voice?"
+      ]
+    ],
+    "hook": "Compare two readings of one line. Check: name the intended emotion from voice or captions."
+  },
+  {
+    "subject": "TECHNOLOGY",
+    "creature": "MIMIC",
+    "gender": "Non-binary",
+    "className": "Rogue",
+    "location": "Mimic’s Lair",
+    "crop": [
+      1288,
+      626,
+      1526,
+      958
+    ],
+    "tag": "The friendly systems tinkerer",
+    "pace": "130–145 words/min",
+    "prompt": "Native English, General American. Androgynous adult, 25–40, with a non-binary character identity. Studio quality. Persona: friendly systems tinkerer. Emotion: curious, practical. A clear middle register with a lightly textured timbre and precise articulation. Short, well-spaced instructions, lightly playful intonation, and patient troubleshooting. Choose the voice for character fit rather than a gender stereotype.",
+    "motion": [
+      "Move on short, hinged legs with a firm planted base. Lid motion is a small jaw-like opening.",
+      "Use the tongue as a stylus only on the teacher’s own device. Tools unfold slowly from the sides.",
+      "Close the lid gently after speech. Never disguise as a student’s controls or snap near hands."
+    ],
+    "test": [
+      [
+        "TEACHER · WELCOME",
+        "Welcome to Technology. My lid is open, and so is the help menu."
+      ],
+      [
+        "STUDENT",
+        "I pressed the wrong button."
+      ],
+      [
+        "TEACHER · REASSURE",
+        "That happens. Let us find the undo action together."
+      ],
+      [
+        "TEACHER · PROMPT",
+        "Try it on this practice cube. What changed, and how could you reverse it?"
+      ]
+    ],
+    "hook": "Move a practice cube and undo the move. Check: demonstrate undo or describe the steps."
+  },
+  {
+    "subject": "HEADMASTER",
+    "creature": "LICH",
+    "gender": "Female",
+    "className": "Wizard",
+    "location": "Lich’s Tower",
+    "crop": [
+      1100,
+      10,
+      1250,
+      206
+    ],
+    "tag": "The steady keeper of the school",
+    "pace": "110–125 words/min",
+    "prompt": "Native English, General American. Female, 65–80. Studio quality. Persona: wise, welcoming headmaster. Emotion: composed, kindly amused. A low, elegant mezzo with a fine dry grain and clear consonants. Deliberate pacing, gentle authority, and a small smile in moments of reassurance. Let silence make room for the listener rather than create suspense.",
+    "motion": [
+      "Take measured steps under the long coat. Keep the spine tall and shoulders soft.",
+      "A brass hand turns one ledger page, then rests. A small head tilt acknowledges a student.",
+      "Meet a seated learner at a comfortable viewing angle. Spell effects remain still during speech."
+    ],
+    "test": [
+      [
+        "HEADMASTER · WELCOME",
+        "Welcome to VR High School. You belong here before you solve a single puzzle."
+      ],
+      [
+        "STUDENT",
+        "What if I get lost?"
+      ],
+      [
+        "HEADMASTER · REASSURE",
+        "Choose Help, or ask a teacher. We will take the next step with you."
+      ],
+      [
+        "HEADMASTER · INVITE",
+        "Today, learn one control, meet one person, and leave with one question."
+      ]
+    ],
+    "hook": "Help students choose one personal goal. Check: each can find Help and identify a next step."
+  }
+]

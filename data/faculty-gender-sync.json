@@ -1,0 +1,87 @@
+{
+  "updated": "2026-10-29",
+  "sources": [
+    {
+      "kind": "teachers",
+      "id": "16tAwJQso9YVgmQOaAulVXguxntnb4aiGp7rxAbpczok",
+      "url": "https://docs.google.com/document/d/16tAwJQso9YVgmQOaAulVXguxntnb4aiGp7rxAbpczok/edit?usp=drivesdk",
+      "changes": "3 Gender table cells"
+    },
+    {
+      "kind": "locations",
+      "id": "1JaRiO2mQIv98Qb-t4XnLVYjTu8Zy6LYrpK7LG4kKMpo",
+      "url": "https://docs.google.com/document/d/1JaRiO2mQIv98Qb-t4XnLVYjTu8Zy6LYrpK7LG4kKMpo/edit?usp=drivesdk",
+      "changes": "3 scoped pronoun replacements"
+    },
+    {
+      "kind": "sheet",
+      "id": "1-tt7W4uhQyCHlOrYm1xFS4kY2XGjGpojofm1s3k97sI",
+      "url": "https://docs.google.com/spreadsheets/d/1-tt7W4uhQyCHlOrYm1xFS4kY2XGjGpojofm1s3k97sI/edit?usp=drivesdk",
+      "changes": "Sheet1!F7, F9, F10"
+    },
+    {
+      "kind": "faculty-dossiers",
+      "id": "1C3YpvDlQBnxOZYX-XCuxbbSQw4BJHU8AbW4JNnTsklM",
+      "url": "https://docs.google.com/presentation/d/1C3YpvDlQBnxOZYX-XCuxbbSQw4BJHU8AbW4JNnTsklM",
+      "changes": "6 image placements; pages 9/11/12 gender labels, voice prompts and pace targets; source register and speaker notes"
+    }
+  ],
+  "verification": {
+    "teacherChanges": [
+      {
+        "before": "Male\n",
+        "after": "Female\n"
+      },
+      {
+        "before": "Male\n",
+        "after": "Female\n"
+      },
+      {
+        "before": "Male\n",
+        "after": "Non-binary\n"
+      }
+    ],
+    "locationParagraphChanges": 3,
+    "sheetChanges": [
+      {
+        "cell": "F7",
+        "before": "Male",
+        "after": "Female"
+      },
+      {
+        "cell": "F9",
+        "before": "Male",
+        "after": "Female"
+      },
+      {
+        "cell": "F10",
+        "before": "Male",
+        "after": "Non-binary"
+      }
+    ],
+    "unchangedFormatting": true,
+    "unchangedDocumentParagraphCounts": true,
+    "visualReview": "Authenticated Google Sheets XLSX export imported and rendered with Artifact Tool. All three revised gender values fit; existing clipping in unrelated long labels is unchanged. Native browser unavailable.",
+    "presentation": {
+      "slides": 21,
+      "changedVisiblePages": [
+        1,
+        9,
+        11,
+        12,
+        21
+      ],
+      "imagePlacements": 6,
+      "allPagesRenderedAndInspected": true,
+      "unrelatedVisibleTextAndGeometryPreserved": true,
+      "sourceNotesSynchronized": true,
+      "localPptx": "production/project-files/VRSchool-faculty-dossiers-line-drawings.pptx",
+      "localPptxSha256": "2b084db6b76a04138a92dc15fc2eff20abb75833276024e88edea2cb649a144a"
+    }
+  },
+  "archives": {
+    "illustrations": "assets/concepts/2026-10-29/individual-line-drawings/archive/2026-10-29-before-gender-revision/",
+    "documents": "production/project-files/archive/2026-10-29-before-gender-revision/",
+    "importedRosters": "data/archive/2026-10-29-pre-gender-update/"
+  }
+}

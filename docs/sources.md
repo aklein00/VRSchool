@@ -15,9 +15,9 @@ Original folder: `/Users/arthurklein/Documents/ajk_docs/personal/The work/VRScho
 
 | Original | Local copy |
 | --- | --- |
-| [VRSchool Teacher List Doc](https://docs.google.com/document/d/16tAwJQso9YVgmQOaAulVXguxntnb4aiGp7rxAbpczok/edit) | `docs/teachers.md` — native Markdown export |
-| [VRSchool Location descriptions](https://docs.google.com/document/d/1JaRiO2mQIv98Qb-t4XnLVYjTu8Zy6LYrpK7LG4kKMpo/edit) | `docs/locations.md` — native Markdown export |
-| [VRSchool spreadsheet](https://docs.google.com/spreadsheets/d/1-tt7W4uhQyCHlOrYm1xFS4kY2XGjGpojofm1s3k97sI/edit) | `data/VRSchool.xlsx` — complete workbook export |
+| [VRSchool Teacher List Doc](https://docs.google.com/document/d/16tAwJQso9YVgmQOaAulVXguxntnb4aiGp7rxAbpczok/edit) | `docs/teachers.md` — working roster; original native Markdown export archived |
+| [VRSchool Location descriptions](https://docs.google.com/document/d/1JaRiO2mQIv98Qb-t4XnLVYjTu8Zy6LYrpK7LG4kKMpo/edit) | `docs/locations.md` — working descriptions; original native Markdown export archived |
+| [VRSchool spreadsheet](https://docs.google.com/spreadsheets/d/1-tt7W4uhQyCHlOrYm1xFS4kY2XGjGpojofm1s3k97sI/edit) | `data/VRSchool.xlsx` — working roster; original complete workbook export archived |
 | [VRSchool folder](https://drive.google.com/drive/folders/1aVkUYkn4jclun7IMxFeahJdiVcGK3dmo) | Contains the matching Photoshop asset and six empty production subfolders |
 | [Untitled-1.psd](https://drive.google.com/file/d/1p9uz324AKW5bmGtFBDagVIxtRbIUWzXS/view) | Compared with the local source before deduplication |
 
@@ -35,3 +35,7 @@ The two Google Docs and spreadsheet were found separately from the Drive VRSchoo
 | `graphics/` | `production/graphics/` |
 
 Imported file sizes and SHA-256 checksums are recorded in `data/source-manifest.json`. The inventory covers the confirmed VRSchool materials found in this search.
+
+## Faculty identity revision
+
+On October 29, 2026, the user changed Language Arts / Brass Dragon to female (she/her), Physical Education / Gnoll to female (she/her), and Art / Oobleck to non-binary (they/them). The working roster, workbook, location pronouns, and art notes use this canon. Original imported copies are in [`data/archive/2026-10-29-pre-gender-update/`](../data/archive/2026-10-29-pre-gender-update/). The source manifest retains their original checksums and separately records current files. Historical illustration prompts remain verbatim with an explicit current-canon override.

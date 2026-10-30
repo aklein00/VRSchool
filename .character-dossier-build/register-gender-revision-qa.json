@@ -1,0 +1,40 @@
+{
+  "version": "1.2",
+  "pages": 18,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "changed_dossier_pages": [
+    10,
+    12,
+    13
+  ],
+  "file": "/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/project-files/VR_High_School_Character_Register_v1_2.docx",
+  "sha256": "e2181be1481706d5dcc577311813ad9d37ceeb5801a4778134a26513dc230c37",
+  "canonical_copy": "/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/project-files/VR_High_School_Character_Register.docx",
+  "checks": [
+    "all pages visually inspected",
+    "archive byte equality before removing superseded active v1_1",
+    "zip integrity",
+    "expected genders/pronouns",
+    "no superseded gender phrases"
+  ],
+  "notes": "Existing Angular Arcade motion direction preserved; current individual drawings linked from source notes."
+}
