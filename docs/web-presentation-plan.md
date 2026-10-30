@@ -2,6 +2,8 @@
 
 Revised October 29, 2026. This is a working game pitch with dedicated Art Style Guide, Prototypes, Design, and Product pages. The production case study is a supporting part of the Pitch. The Goblin Bard is male, he/him. His 3D model is one example of the broader art direction, not the organizing idea of the presentation.
 
+Planned expansion, October 29: see [the voice, workflow and Campus Passport content plan](presentation-content-expansion-plan.md). It proposes a Character Voices page, a dedicated Production Workflow destination under Art, and teacher welcome stations on Design based on slides 17–20 of the current faculty deck. These additions are planned, not implemented; the dedicated workflow page expands the earlier Pitch-only treatment below.
+
 ## Website structure
 
 | Page | Purpose | Initial content |
