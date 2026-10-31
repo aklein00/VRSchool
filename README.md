@@ -15,6 +15,7 @@ The original materials use the name **VRSchool**; this project is also referred 
 | [assets/concepts/2026-10-29/](assets/concepts/2026-10-29/) | Faculty, headmaster, and student concept sheets across geometric, painterly, and pencil styles |
 | [docs/art/concept-direction.md](docs/art/concept-direction.md) | Sheet index, art direction, source references, and Ocean wardrobe handoff |
 | [docs/art/individual-line-drawings.md](docs/art/individual-line-drawings.md) | 18 individual black-and-white faculty and player drawings, closely guided by Arthur's goblin and yeti sketches |
+| [Goblin teacher and lute turnarounds](assets/concepts/2026-10-31/goblin-turnaround/) | Separate pencil-only front, side, and back reference sheets for mobile-game modeling |
 | [assets/source/artist-sketches/](assets/source/artist-sketches/) | Four original drawings supplied by Arthur as style references |
 | [production/](production/) | Production folders retained for future media and project files |
 | [ComfyUI production starter](production/comfyui/README.md) | Importable workflow with 18 character sections, ON/OFF switches, character-sheet dialogue, prefilled actions, bundled references, and fal audio/video modes |
