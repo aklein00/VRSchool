@@ -1,4 +1,5 @@
 import * as THREE from 'three';
+import { TransformControls } from 'three/addons/controls/TransformControls.js';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
@@ -20,6 +21,9 @@ function fail(message) {
   link.textContent = 'Download the model instead.';
   status.append(link);
   fieldset.disabled = true;
+  document.querySelector('#object-select').disabled = true;
+  document.querySelector('#object-controls').disabled = true;
+  document.querySelectorAll('.history-buttons button').forEach(button => { button.disabled = true; });
 }
 
 try {
@@ -30,7 +34,7 @@ try {
   renderer.shadowMap.enabled = true;
   renderer.shadowMap.type = THREE.PCFSoftShadowMap;
   renderer.domElement.tabIndex = 0;
-  renderer.domElement.setAttribute('aria-label', 'Interactive rehearsal nook. Drag to rotate, scroll to zoom, or use the viewpoint buttons. Arrow keys pan.');
+  renderer.domElement.setAttribute('aria-label', 'Interactive rehearsal nook. Click an object to select it. Use W to move, E to rotate, R to scale, Q for global or local axes. Drag empty space to orbit, scroll to zoom. Arrow keys pan.');
   host.append(renderer.domElement);
   const scene = new THREE.Scene();
   scene.background = new THREE.Color('#e5dfd1');
@@ -68,6 +72,156 @@ try {
   ground.receiveShadow = true;
   scene.add(ground);
   let model, center = new THREE.Vector3(0, 1.65, 0), wireframe = false;
+
+  // Operate on the model's named asset roots, never on faces, lights or helpers.
+  const transform = new TransformControls(camera, renderer.domElement);
+  transform.setSize(.85);
+  scene.add(transform.getHelper());
+  const objectSelect = document.querySelector('#object-select');
+  const objectFields = document.querySelector('#object-controls');
+  const spaceSelect = document.querySelector('#transform-space');
+  const numericFields = [...document.querySelectorAll('[data-transform]')];
+  const objects = [], original = new Map(), spaces = new Map();
+  let selected = null, selectionBox = null, beforeDrag = null;
+  const undoStack = [], redoStack = [];
+  const snapshot = () => objects.map(object => ({ object, position: object.position.clone(), quaternion: object.quaternion.clone(), scale: object.scale.clone() }));
+  function historyButtons() {
+    document.querySelector('#undo-transform').disabled = !undoStack.length;
+    document.querySelector('#redo-transform').disabled = !redoStack.length;
+  }
+  function remember(before) {
+    const changed = before.some(({ object, position, quaternion, scale }) => !object.position.equals(position) || !object.quaternion.equals(quaternion) || !object.scale.equals(scale));
+    if (!changed) return;
+    undoStack.push(before);
+    if (undoStack.length > 100) undoStack.shift();
+    redoStack.length = 0;
+    historyButtons();
+  }
+  function syncFields() {
+    if (!selected) return;
+    const rotation = new THREE.Euler().setFromQuaternion(selected.quaternion, 'XYZ');
+    for (const input of numericFields) {
+      const vector = input.dataset.transform === 'rotation' ? rotation : selected[input.dataset.transform];
+      const value = input.dataset.transform === 'rotation' ? THREE.MathUtils.radToDeg(vector[input.dataset.axis]) : vector[input.dataset.axis];
+      input.value = String(Number(value.toFixed(3)));
+    }
+    selected.updateMatrixWorld(true);
+    selectionBox?.update();
+  }
+  function stopRotation() {
+    controls.autoRotate = false;
+    const button = document.querySelector('#rotation');
+    button.setAttribute('aria-pressed', 'false');
+    button.querySelector('span').textContent = '○';
+  }
+  function selectObject(object) {
+    if (transform.dragging) return;
+    if (selectionBox) { scene.remove(selectionBox); selectionBox.geometry.dispose(); selectionBox.material.dispose(); selectionBox = null; }
+    selected = object;
+    objectFields.disabled = !object;
+    objectSelect.value = object ? String(objects.indexOf(object)) : '';
+    if (!object) {
+      transform.detach();
+      document.querySelector('#selection-status').textContent = 'Click the model or choose an object above.';
+      return;
+    }
+    stopRotation();
+    transform.attach(object);
+    transform.setSpace(spaces.get(object) || 'world');
+    spaceSelect.value = transform.space;
+    selectionBox = new THREE.BoxHelper(object, 0xad7023);
+    selectionBox.material.depthTest = false;
+    selectionBox.renderOrder = 999;
+    scene.add(selectionBox);
+    document.querySelector('#selection-status').textContent = objectSelect.selectedOptions[0].textContent;
+    syncFields();
+  }
+  function setTool(mode) {
+    transform.setMode(mode);
+    document.querySelectorAll('[data-tool]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.tool === mode)));
+  }
+  function setSpace(space) {
+    if (!selected) return;
+    spaces.set(selected, space);
+    spaceSelect.value = space;
+    transform.setSpace(space);
+  }
+  function restore(state) {
+    for (const { object, position, quaternion, scale } of state) { object.position.copy(position); object.quaternion.copy(quaternion); object.scale.copy(scale); object.updateMatrixWorld(true); }
+    syncFields(); historyButtons();
+  }
+  function undo() { if (transform.dragging || !undoStack.length) return; redoStack.push(snapshot()); restore(undoStack.pop()); }
+  function redo() { if (transform.dragging || !redoStack.length) return; undoStack.push(snapshot()); restore(redoStack.pop()); }
+  transform.addEventListener('dragging-changed', event => { controls.enabled = !event.value; });
+  transform.addEventListener('mouseDown', () => { beforeDrag = snapshot(); stopRotation(); });
+  transform.addEventListener('mouseUp', () => { if (beforeDrag) remember(beforeDrag); beforeDrag = null; syncFields(); });
+  transform.addEventListener('objectChange', () => {
+    if (selected && transform.mode === 'scale') for (const axis of ['x', 'y', 'z']) selected.scale[axis] = Math.max(.01, selected.scale[axis]);
+    syncFields();
+  });
+  objectSelect.addEventListener('change', () => selectObject(objectSelect.value === '' ? null : objects[Number(objectSelect.value)]));
+  document.querySelectorAll('[data-tool]').forEach(button => button.addEventListener('click', () => setTool(button.dataset.tool)));
+  spaceSelect.addEventListener('change', () => setSpace(spaceSelect.value));
+  document.querySelector('#transform-snap').addEventListener('change', event => {
+    transform.setTranslationSnap(event.target.checked ? .1 : null);
+    transform.setRotationSnap(event.target.checked ? Math.PI / 12 : null);
+    transform.setScaleSnap(event.target.checked ? .1 : null);
+  });
+  for (const input of numericFields) {
+    let beforeEdit = null, dirty = false;
+    const applyValue = () => {
+      if (!selected || input.value.trim() === '') return;
+      const value = input.valueAsNumber, axis = input.dataset.axis;
+      if (!Number.isFinite(value) || (input.dataset.transform === 'scale' && (value < .01 || value > 100))) return;
+      if (!beforeEdit) beforeEdit = snapshot();
+      if (input.dataset.transform === 'rotation') {
+        const euler = new THREE.Euler().setFromQuaternion(selected.quaternion, 'XYZ');
+        euler[axis] = THREE.MathUtils.degToRad(value); selected.quaternion.setFromEuler(euler);
+      } else selected[input.dataset.transform][axis] = value;
+      selected.updateMatrixWorld(true); selectionBox?.update();
+    };
+    const finishEdit = () => { if (dirty) { applyValue(); if (beforeEdit) remember(beforeEdit); } beforeEdit = null; dirty = false; syncFields(); };
+    input.addEventListener('focus', () => { beforeEdit = snapshot(); dirty = false; });
+    input.addEventListener('input', () => { dirty = true; applyValue(); });
+    input.addEventListener('change', () => { dirty = true; finishEdit(); });
+    input.addEventListener('blur', finishEdit);
+  }
+  document.querySelector('#reset-object').addEventListener('click', () => {
+    if (!selected) return;
+    const before = snapshot(); restore([original.get(selected)]); remember(before);
+  });
+  document.querySelector('#reset-layout').addEventListener('click', () => { const before = snapshot(); restore([...original.values()]); remember(before); });
+  document.querySelector('#undo-transform').addEventListener('click', undo);
+  document.querySelector('#redo-transform').addEventListener('click', redo);
+  const raycaster = new THREE.Raycaster(), pointer = new THREE.Vector2();
+  let pointerStart = null;
+  renderer.domElement.addEventListener('pointerdown', event => {
+    if (event.button !== 0 || !event.isPrimary) { pointerStart = null; return; }
+    pointerStart = { x: event.clientX, y: event.clientY, id: event.pointerId, gizmo: transform.dragging || Boolean(transform.axis) };
+  });
+  renderer.domElement.addEventListener('pointercancel', () => { pointerStart = null; });
+  renderer.domElement.addEventListener('pointerup', event => {
+    const start = pointerStart; pointerStart = null;
+    if (!start || start.id !== event.pointerId || start.gizmo || transform.dragging || Math.hypot(event.clientX - start.x, event.clientY - start.y) > 5) return;
+    const rect = renderer.domElement.getBoundingClientRect();
+    pointer.set((event.clientX - rect.left) / rect.width * 2 - 1, -(event.clientY - rect.top) / rect.height * 2 + 1);
+    raycaster.setFromCamera(pointer, camera);
+    const hit = raycaster.intersectObjects(objects, true)[0];
+    let object = hit?.object;
+    while (object && !objects.includes(object)) object = object.parent;
+    selectObject(object || null);
+  });
+  document.querySelector('.model-workspace').addEventListener('keydown', event => {
+    if (event.target.matches('input, select, textarea') || event.target.isContentEditable) return;
+    const key = event.key.toLowerCase();
+    if ((event.ctrlKey || event.metaKey) && key === 'z') { event.preventDefault(); event.shiftKey ? redo() : undo(); return; }
+    if (key === 'escape') { if (transform.dragging) transform.reset(); else selectObject(null); return; }
+    if (!selected || event.ctrlKey || event.metaKey || event.altKey || transform.dragging) return;
+    const modes = { w: 'translate', e: 'rotate', r: 'scale' };
+    if (modes[key]) { event.preventDefault(); setTool(modes[key]); }
+    if (key === 'q') { event.preventDefault(); setSpace(transform.space === 'world' ? 'local' : 'world'); }
+  });
+
   const views = { corner: new THREE.Vector3(9, 7, 11), front: new THREE.Vector3(0, 4.5, 14), above: new THREE.Vector3(6.5, 12, 8) };
   let selectedView = 'corner';
   function setView(name) {
@@ -119,6 +273,20 @@ try {
     model = gltf.scene;
     model.traverse(object => { if (object.isMesh) { object.castShadow = true; object.receiveShadow = true; } });
     scene.add(model);
+    for (const object of model.children) {
+      if (!object.isMesh && !object.getObjectByProperty('isMesh', true)) continue;
+      objects.push(object);
+    }
+    objects.sort((a, b) => a.name.localeCompare(b.name));
+    for (const [index, object] of objects.entries()) {
+      const option = document.createElement('option'); option.value = String(index);
+      option.textContent = object.name.replace(/^\d+_/, '').replaceAll('_', ' ');
+      objectSelect.append(option);
+      original.set(object, { object, position: object.position.clone(), quaternion: object.quaternion.clone(), scale: object.scale.clone() });
+      spaces.set(object, 'world');
+    }
+    objectSelect.disabled = false;
+    document.querySelector('#reset-layout').disabled = false;
     new THREE.Box3().setFromObject(model).getCenter(center);
     setView('corner');
     status.hidden = true;
