@@ -33,3 +33,9 @@ The four instrument-comparison recordings for the Music lesson are separate from
 The pitch hero uses the original hatless Goblin Bard teaching flute and drum. The Art Style Guide opens with nonbinary Oobleck painting with two students; Design adds a Chuul science demonstration banner. Product uses an unlabeled three-style headmaster comparison. The repeated Goblin image in the pending 3D-model section is replaced by a model-study placeholder; the lesson and voice portraits remain for identification.
 
 Full-resolution masters are in `../assets/concepts/2026-10-30/website/`. Served WebP copies are in `dist/assets/candid/`. Generation prompts and reference paths are recorded in `../docs/art/website-candid-image-prompts.json`. Images were generated with the built-in image tool and reviewed in desktop and mobile layouts. Prior concept masters are preserved. No live deployment was made as part of this local artwork update.
+
+## 3D model test page
+
+`dist/model-test.html` is linked from the music-workshop section of Prototypes. It displays the assembled rehearsal nook as a self-contained GLB with camera presets, orbit/pan/zoom, lighting choices, wireframe, reset and optional rotation. Keyboard users can tab to the canvas and use arrow keys to pan, or use the labeled viewpoint buttons. A poster, loading status, model download and explicit error state support slower connections or unavailable WebGL.
+
+The served model is `dist/assets/models/rehearsal-nook.glb` (37 meshes, 82,772 triangles, approximately 18 MB), exported from the local Blender scene. All model textures are embedded. `dist/assets/vendor/three/` contains the required MIT-licensed Three.js 0.181.1 files from the official npm package, including its license. The viewer has no runtime CDN dependency and requires no build step. Serve `dist` over HTTP to preview; browser modules do not run from a file URL. The browser lighting is arranged separately from the Blender render.
