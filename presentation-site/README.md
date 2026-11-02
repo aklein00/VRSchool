@@ -46,8 +46,16 @@ The default GLB now contains the user's approved object arrangement captured fro
 
 ## Environment concept gallery
 
-The Environments discipline in the Art Style Guide has a compact screenshot link to the dedicated rehearsal-nook editor, followed by three existing exterior concepts: Meadow Cloister, Lakeside Abbey and High Pass School. The guide does not embed or preload the 18 MB 3D scene; the separate editor provides room for its object controls. Interior concept studies are no longer displayed in this section. The three served images are direct crops of the top row of the original six-study Alpine monastery sheet from 30 October 2026, without repainting or upscaling. The master is preserved at `assets/concepts/2026-10-30/environments/05-alpine-monastery-exterior-six-concepts.png`, with crop provenance in `exterior-web-selection.json`. The full-size concept viewer retains previous/next buttons, arrow keys, Escape and focus restoration.
+The Environments discipline in the Art Style Guide has a large editor screenshot directly beneath its heading, with an explicit “Open 3D viewer” button. Three existing exterior concepts follow: Meadow Cloister, Lakeside Abbey and High Pass School. The guide does not embed or preload the 18 MB 3D scene; the separate editor provides room for its object controls. Interior concept studies are no longer displayed in this section. The three served images are direct crops of the top row of the original six-study Alpine monastery sheet from 30 October 2026, without repainting or upscaling. The master is preserved at `assets/concepts/2026-10-30/environments/05-alpine-monastery-exterior-six-concepts.png`, with crop provenance in `exterior-web-selection.json`. The full-size concept viewer retains previous/next buttons, arrow keys, Escape and focus restoration.
 
 ## Animation study
 
 The Animation discipline in the Art Style Guide includes the supplied Goblin Bard victory-emote test: a five-second portrait MP4, served unchanged from `dist/assets/animation/`, with a still from the clip as its poster. Native playback controls, inline mobile playback and a download link require no added JavaScript. The clip does not autoplay. `animation-study.css` is loaded only on the Art Style Guide. The accompanying copy explains early appeal testing, stakeholder buy-in, audience anticipation and establishing art direction, plus using video generation to explore and plan character animation, VFX and cinematics.
+
+## VFX studies
+
+The VFX discipline presents the supplied four-treatment Goblin Bard concept sheet, followed by two five-second motion studies: in-world musical effects and a reward-stars overlay. The sheet is served as a full-resolution WebP with a full-size link; its original PNG is preserved in `assets/concepts/2026-11-01/vfx/`. Both MP4s are served unchanged in `dist/assets/vfx/`, with posters extracted from the clips, native playback controls and individual download links. Videos do not autoplay or preload; the sheet loads lazily. `vfx-studies.css` keeps the paired videos in two columns on desktop and stacks them on mobile. This is a local update awaiting publishing approval.
+
+## Character study placement
+
+The Yeti, Mimic and student-party studies from “Direction across the cast” now sit inside the Characters discipline, below its direction and review criteria. The standalone pre-navigation cast section has been removed.

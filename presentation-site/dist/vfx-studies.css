@@ -1,0 +1,15 @@
+.vfx-discipline{row-gap:44px}
+.vfx-studies{grid-column:1/-1;min-width:0}
+.vfx-study-heading{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;margin-bottom:22px}
+.vfx-study-heading .eyebrow{margin-bottom:10px}
+.vfx-study-heading h3{font:500 28px/1.15 var(--serif);letter-spacing:-.025em}
+.vfx-study-heading .text-link{flex-shrink:0}
+.vfx-sheet-art{display:block;border:1px solid var(--line)}
+.vfx-sheet-art img{width:100%}
+.vfx-motion-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:36px;margin-top:42px}
+.vfx-motion-study{min-width:0;border-top:1px solid var(--line);padding-top:24px}
+.vfx-motion-study video{display:block;width:100%;height:auto;aspect-ratio:7/4;background:#211b16;border:1px solid var(--line)}
+.vfx-duration{flex-shrink:0;font-size:11px;color:var(--muted)}
+.vfx-download{margin-top:14px}
+@media(max-width:700px){.vfx-discipline{row-gap:30px}.vfx-study-heading{align-items:flex-start;flex-wrap:wrap;gap:14px}.vfx-study-heading h3{font-size:25px}.vfx-motion-grid{grid-template-columns:1fr;gap:32px;margin-top:30px}.vfx-duration{padding-top:2px}.vfx-motion-study .vfx-study-heading{flex-wrap:nowrap}}
+@media print{.vfx-discipline{break-inside:auto}.vfx-sheet,.vfx-motion-study{break-inside:avoid}.vfx-study-heading .text-link,.vfx-download{display:none}.vfx-motion-grid{gap:24px}.vfx-study-heading h3{font-size:21px}}

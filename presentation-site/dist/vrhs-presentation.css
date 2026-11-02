@@ -33,3 +33,9 @@
 .headmaster-triptych{align-self:center}
 @media(max-width:1000px){.illustrated-intro{gap:28px}.foundations-pair>div:last-child{grid-column:auto}.foundations-pair{gap:45px}}
 @media(max-width:700px){.hero:has(.candid-hero),.illustrated-intro,.product-intro{grid-template-columns:1fr;gap:25px}.candid-hero{padding:0;margin:15px 0 0;max-width:none}.illustrated-intro h1{font-size:clamp(45px,10vw,70px)}.illustrated-intro .intro-copy{max-width:none}.foundations-pair{display:grid;grid-template-columns:1fr;gap:30px}.teaching-banner{margin-top:28px}}
+
+/* Cast studies belong to the Characters discipline. */
+.character-art{grid-column:1/-1;min-width:0}
+.character-art .section-heading h3{font:500 clamp(30px,3.4vw,48px)/1.06 var(--serif);letter-spacing:-.035em}
+.character-art .ensemble-studies{margin-bottom:35px}
+@media print{#discipline-01{break-inside:auto}.character-art figure{break-inside:avoid}}
