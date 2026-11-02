@@ -1,0 +1,38 @@
+{
+  "source": "assets/concepts/2026-10-30/environments/05-alpine-monastery-exterior-six-concepts.png",
+  "source_created": "2026-10-30",
+  "operation": "Crop the top three existing study panels; no new image generation, repainting, recoloring, or upscaling.",
+  "studies": [
+    {
+      "name": "meadow-cloister",
+      "crop": [
+        0,
+        0,
+        512,
+        480
+      ],
+      "output": "presentation-site/dist/assets/environments/exteriors/meadow-cloister.webp"
+    },
+    {
+      "name": "lakeside-abbey",
+      "crop": [
+        512,
+        0,
+        1024,
+        480
+      ],
+      "output": "presentation-site/dist/assets/environments/exteriors/lakeside-abbey.webp"
+    },
+    {
+      "name": "high-pass-school",
+      "crop": [
+        1024,
+        0,
+        1536,
+        480
+      ],
+      "output": "presentation-site/dist/assets/environments/exteriors/high-pass-school.webp"
+    }
+  ],
+  "generation_policy": "Reuse existing exterior artwork. Discuss with the user before generating any new exterior images."
+}
