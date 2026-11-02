@@ -1,0 +1,26 @@
+UNWRAP 01_Face 18
+ATLAS 01_Face 4096 px 2048 px/m
+UNWRAP 02_Hands 2
+ATLAS 02_Hands 1024 px 2048 px/m
+UNWRAP 03_Upper 18
+ATLAS 03_Upper 2048 px 1024 px/m
+UNWRAP 04_Scarf 5
+ATLAS 04_Scarf 1024 px 1536 px/m
+UNWRAP 05_Lower 16
+ATLAS 05_Lower 2048 px 1024 px/m
+UNWRAP 06_Shoes 14
+ATLAS 06_Shoes 2048 px 1536 px/m
+UNWRAP 07_Hair 19
+ATLAS 07_Hair 4096 px 1536 px/m
+UNWRAP 08_EyesTeeth 6
+ATLAS 08_EyesTeeth 2048 px 4096 px/m
+UNWRAP 09_Accessories 23
+ATLAS 09_Accessories 2048 px 2048 px/m
+UNWRAP 10_Lute 14
+ATLAS 10_Lute 2048 px 2048 px/m
+Info: Saved as "Goblin_UV_Source.blend"
+UV_COMPLETE
+Blender 4.5.10 LTS (hash 6dc0b208d1b5 built 2026-05-19 01:45:15)
+Read blend: "/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/source/Goblin_Model_Source.blend"
+
+Blender quit

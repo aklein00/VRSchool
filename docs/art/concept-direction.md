@@ -1,5 +1,13 @@
 # VR High School — character concept directions
 
+## Current environment drawing guidance — 30 October 2026
+
+The user's latest direction keeps rich, purposeful set dressing and substantial readable objects while reducing intricate ornament. Avoid both highly ornate surfaces and overly sparse blockouts. The approved detail reference is `assets/source/artist-sketches/11-environment-detail-balance-reference.png`; the balanced music-room explorations are in `assets/concepts/2026-10-30/environments/music-corners-v3/`.
+
+For subsequent drawings, use cleaner, quieter color washes. Avoid uniform mottling, distressed speckles, chipped-paint highlights and all-over texture distortion. Emphasize expressive sketched graphite/plum lines with varied weights, strong overlaps and silhouettes, fine interior construction marks and selective directional hatching, following the original character sketches. Color should support the drawing with broad calm transparent fills.
+
+For a 3D-generation reference, arrange the rehearsal nook as a self-contained cutaway module: two perpendicular walls, a bounded floor slab, open front and no roof. Keep piano, bench, window seat and grouped musical props grounded and legibly separated. Check composition, access and object overlap visually before delivery.
+
 ## Current faculty identities
 
 The [current roster](../teachers.md) and [gender record](../../data/faculty-gender-canon.json) supersede earlier concept-sheet and generation-prompt gender labels. Language Arts / Brass Dragon is female (she/her), Physical Education / Gnoll is female (she/her), and Art / Oobleck is non-binary (they/them). Keep their established silhouettes, creature anatomy, subjects, and costume functions. The individual black-and-white revisions use subtle feminine styling without changing Oobleck's non-binary identity. Earlier sheets remain visual explorations rather than current gender references. The [gender-revision prompts](gender-revision-prompts.json) record the three current illustration edits.

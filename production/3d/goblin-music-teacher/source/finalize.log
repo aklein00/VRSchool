@@ -1,0 +1,1071 @@
+INFO Draco mesh compression is available, use library at /Applications/Blender.app/Contents/Resources/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.dylib
+17:33:47 | INFO: Starting glTF 2.0 export
+17:33:47 | INFO: Extracting primitive: Sphere
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Sphere.007
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Ear.R
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Ear inset.R
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Ear helix.R
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Upper eyelid.R
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Lower eyelid.R
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Under eye crease.R
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Nostril.R
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Ear.L
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Ear inset.L
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Ear helix.L
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Upper eyelid.L
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Lower eyelid.L
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Under eye crease.L
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Nostril.L
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Smile crease
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Lower lip
+17:33:49 | INFO: Primitives created: 1
+17:33:49 | INFO: Extracting primitive: Waistcoat torso
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Waistcoat pointed hem
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Coat front.R
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Lapel.R
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Coat tail.R
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Coat sleeve.R
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Turned cuff.R
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Coat front.L
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Lapel.L
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Coat tail.L
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Coat sleeve.L
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Turned cuff.L
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Scarf wrap
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Scarf fold 0
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Scarf fold 1
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Scarf fold 2
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Scarf hanging end
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Shirt collar
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Shirt collar.001
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Coat back
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Breeches.R
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Breeches knee band.R
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Stocking.R
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Stocking knit.R0
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Stocking knit.R1
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Stocking knit.R2
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Stocking knit.R3
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Breeches.L
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Breeches knee band.L
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Stocking.L
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Stocking knit.L0
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Stocking knit.L1
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Stocking knit.L2
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Stocking knit.L3
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Shoe upper.R
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Shoe sole.R
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Boot ankle.R
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Boot turned cuff.R
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Boot lace.R0
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Boot lace.R1
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Boot lace.R2
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Shoe upper.L
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Shoe sole.L
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Boot ankle.L
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Boot turned cuff.L
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Boot lace.L0
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Boot lace.L1
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Boot lace.L2
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Sphere.023
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Sphere.032
+17:33:50 | INFO: Primitives created: 1
+17:33:50 | INFO: Extracting primitive: Sphere.008
+17:33:51 | INFO: Primitives created: 1
+17:33:51 | INFO: Extracting primitive: Sphere.012
+17:33:51 | INFO: Primitives created: 1
+17:33:51 | INFO: Extracting primitive: Fang.R1
+17:33:51 | INFO: Primitives created: 1
+17:33:51 | INFO: Extracting primitive: Fang.R2
+17:33:51 | INFO: Primitives created: 1
+17:33:51 | INFO: Extracting primitive: Fang.L1
+17:33:51 | INFO: Primitives created: 1
+17:33:51 | INFO: Extracting primitive: Fang.L2
+17:33:51 | INFO: Primitives created: 1
+17:33:51 | INFO: Extracting primitive: Hair cap
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Swept forelock 00
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Hair brush ridge 00
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Swept forelock 01
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Hair brush ridge 01
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Swept forelock 02
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Hair brush ridge 02
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Swept forelock 03
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Hair brush ridge 03
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Swept forelock 04
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Hair brush ridge 04
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Temple lock.R0
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Temple lock.R1
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Temple lock.R2
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Temple lock.L0
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Temple lock.L1
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Temple lock.L2
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Eyebrow.R
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Eyebrow.L
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.016
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.017
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.018
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.019
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.020
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.021
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.022
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.028
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.029
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.030
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.031
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.037
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Torus
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Torus.001
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.038
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Torus.002
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Torus.003
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Torus.004
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.039
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Torus.005
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Lute shoulder strap
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Belt tab
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Torus.006
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Lute bowl
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Lute soundboard
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Lute binding
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.040
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Torus.007
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Rosette carved spoke
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Lute neck
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Lute fingerboard
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Lute peghead
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Lute bridge
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Lute fret
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Lute string
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Lute peg stem
+17:33:52 | INFO: Primitives created: 1
+17:33:52 | INFO: Extracting primitive: Sphere.041
+17:33:52 | INFO: Primitives created: 1
+17:33:53 | INFO: Finished glTF 2.0 export in 5.236060857772827 s
+Blender 4.5.10 LTS (hash 6dc0b208d1b5 built 2026-05-19 01:45:15)
+Read blend: "/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/source/Goblin_UV_Source.blend"
+Fra:1 Mem:47.96M (Peak 47.96M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Head | sculpted face
+Fra:1 Mem:47.96M (Peak 47.96M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear inset.R
+Fra:1 Mem:47.96M (Peak 47.96M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lower eyelid.R
+Fra:1 Mem:48.75M (Peak 48.75M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Under eye crease.R
+Fra:1 Mem:48.76M (Peak 48.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear helix.L
+Fra:1 Mem:48.81M (Peak 48.81M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Upper eyelid.L
+Fra:1 Mem:48.82M (Peak 48.82M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lower eyelid.L
+Fra:1 Mem:49.22M (Peak 49.22M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Under eye crease.L
+Fra:1 Mem:49.39M (Peak 49.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Smile crease
+Fra:1 Mem:51.69M (Peak 51.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lower lip
+Fra:1 Mem:51.72M (Peak 51.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat pointed hem
+Fra:1 Mem:51.74M (Peak 51.74M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front.R
+Fra:1 Mem:51.42M (Peak 51.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat sleeve.R
+Fra:1 Mem:51.80M (Peak 51.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Studio floor
+Fra:1 Mem:51.71M (Peak 51.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Turned cuff.R
+Fra:1 Mem:51.73M (Peak 51.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair rim
+Fra:1 Mem:51.73M (Peak 51.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front.L
+Fra:1 Mem:51.74M (Peak 51.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cool fill
+Fra:1 Mem:51.74M (Peak 51.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Warm key
+Fra:1 Mem:51.74M (Peak 51.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute tuning pegs
+Fra:1 Mem:51.78M (Peak 51.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute peg stems
+Fra:1 Mem:51.79M (Peak 51.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute strings
+Fra:1 Mem:51.84M (Peak 51.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lapel.L
+Fra:1 Mem:51.85M (Peak 51.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf fold 1
+Fra:1 Mem:51.90M (Peak 51.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute frets
+Fra:1 Mem:51.93M (Peak 51.93M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf hanging end
+Fra:1 Mem:51.96M (Peak 51.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shirt collar.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat back
+Fra:1 Mem:52.07M (Peak 52.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches.R
+Fra:1 Mem:52.10M (Peak 52.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute bridge
+Fra:1 Mem:52.23M (Peak 52.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches knee band.R
+Fra:1 Mem:52.37M (Peak 52.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking.R
+Fra:1 Mem:52.37M (Peak 52.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R0
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R1
+Fra:1 Mem:52.58M (Peak 52.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R3
+Fra:1 Mem:52.70M (Peak 52.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches knee band.L
+Fra:1 Mem:52.74M (Peak 52.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking.L
+Fra:1 Mem:52.75M (Peak 52.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L0
+Fra:1 Mem:52.93M (Peak 52.93M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L1
+Fra:1 Mem:52.94M (Peak 52.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L2
+Fra:1 Mem:52.96M (Peak 52.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L3
+Fra:1 Mem:52.97M (Peak 52.97M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe upper.R
+Fra:1 Mem:53.15M (Peak 53.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe sole.R
+Fra:1 Mem:53.35M (Peak 53.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute peghead
+Fra:1 Mem:53.42M (Peak 53.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot ankle.R
+Fra:1 Mem:53.22M (Peak 53.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.R0
+Fra:1 Mem:53.24M (Peak 53.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.R1
+Fra:1 Mem:53.27M (Peak 53.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.R2
+Fra:1 Mem:53.28M (Peak 53.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe upper.L
+Fra:1 Mem:53.29M (Peak 53.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe sole.L
+Fra:1 Mem:53.36M (Peak 53.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot ankle.L
+Fra:1 Mem:53.36M (Peak 53.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot turned cuff.L
+Fra:1 Mem:53.46M (Peak 53.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.L0
+Fra:1 Mem:53.47M (Peak 53.47M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.L1
+Fra:1 Mem:53.48M (Peak 53.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.L2
+Fra:1 Mem:53.67M (Peak 53.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hand.R | five fingers and nails
+Fra:1 Mem:53.80M (Peak 53.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hand.L | five fingers and nails
+Fra:1 Mem:53.99M (Peak 53.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute neck
+Fra:1 Mem:54.15M (Peak 54.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute rosette carving
+Fra:1 Mem:54.03M (Peak 54.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Eye.L | globe iris pupil
+Fra:1 Mem:54.25M (Peak 54.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Fang.R1
+Fra:1 Mem:54.50M (Peak 54.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute rosette
+Fra:1 Mem:54.50M (Peak 54.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Fang.L1
+Fra:1 Mem:54.54M (Peak 54.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair cap
+Fra:1 Mem:54.55M (Peak 54.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 00
+Fra:1 Mem:54.60M (Peak 54.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 00
+Fra:1 Mem:54.69M (Peak 54.69M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 01
+Fra:1 Mem:54.79M (Peak 54.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 01
+Fra:1 Mem:54.81M (Peak 54.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 02
+Fra:1 Mem:54.99M (Peak 54.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 02
+Fra:1 Mem:54.99M (Peak 54.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute binding
+Fra:1 Mem:55.05M (Peak 55.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 03
+Fra:1 Mem:55.43M (Peak 55.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 03
+Fra:1 Mem:55.51M (Peak 55.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 04
+Fra:1 Mem:55.76M (Peak 55.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.R0
+Fra:1 Mem:55.82M (Peak 55.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.R1
+Fra:1 Mem:56.06M (Peak 56.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.R2
+Fra:1 Mem:56.08M (Peak 56.08M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.L1
+Fra:1 Mem:56.10M (Peak 56.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.L2
+Fra:1 Mem:56.01M (Peak 56.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Eyebrow.R
+Fra:1 Mem:56.04M (Peak 56.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat button.001
+Fra:1 Mem:56.11M (Peak 56.11M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat button.002
+Fra:1 Mem:56.21M (Peak 56.21M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front button.R
+Fra:1 Mem:56.22M (Peak 56.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.R0
+Fra:1 Mem:56.24M (Peak 56.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.R1
+Fra:1 Mem:56.26M (Peak 56.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot buckle.R
+Fra:1 Mem:56.14M (Peak 56.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute soundboard
+Fra:1 Mem:56.15M (Peak 56.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.L0
+Fra:1 Mem:56.16M (Peak 56.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.L1
+Fra:1 Mem:56.19M (Peak 56.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot buckle.L
+Fra:1 Mem:56.20M (Peak 56.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear hoop.R0
+Fra:1 Mem:56.21M (Peak 56.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear stud.R
+Fra:1 Mem:56.29M (Peak 56.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear pendant.R
+Fra:1 Mem:56.29M (Peak 56.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear stud.L
+Fra:1 Mem:56.33M (Peak 56.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear pendant.L
+Fra:1 Mem:56.34M (Peak 56.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute shoulder strap
+Fra:1 Mem:56.35M (Peak 56.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Belt tab
+Fra:1 Mem:56.50M (Peak 56.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Belt ring
+Fra:1 Mem:56.77M (Peak 56.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:56.21M (Peak 56.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading 10_Lute_Roughness.png
+Fra:1 Mem:56.21M (Peak 56.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading 05_Lower_BaseColor.png
+Fra:1 Mem:352.24M (Peak 356.23M) | Time:00:00.03 | Mem:4.00M, Peak:4.00M | Scene, ViewLayer | Updating Images | Loading 05_Lower_Roughness.png
+Fra:1 Mem:368.24M (Peak 372.25M) | Time:00:00.04 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Updating Images | Loading 06_Shoes_BaseColor.png
+Fra:1 Mem:384.24M (Peak 400.25M) | Time:00:00.05 | Mem:24.00M, Peak:24.00M | Scene, ViewLayer | Updating Images | Loading 10_Lute_BaseColor.png
+Fra:1 Mem:400.24M (Peak 416.25M) | Time:00:00.06 | Mem:40.00M, Peak:40.00M | Scene, ViewLayer | Updating Images | Loading 06_Shoes_Roughness.png
+Fra:1 Mem:432.25M (Peak 448.26M) | Time:00:00.09 | Mem:56.00M, Peak:56.00M | Scene, ViewLayer | Updating Images | Loading 02_Hands_BaseColor.png
+Fra:1 Mem:420.24M (Peak 448.26M) | Time:00:00.10 | Mem:72.00M, Peak:72.00M | Scene, ViewLayer | Updating Images | Loading 02_Hands_Roughness.png
+Fra:1 Mem:440.25M (Peak 448.26M) | Time:00:00.12 | Mem:76.00M, Peak:76.00M | Scene, ViewLayer | Updating Images | Loading 08_EyesTeeth_BaseColor.png
+Fra:1 Mem:456.25M (Peak 460.26M) | Time:00:00.12 | Mem:80.00M, Peak:80.00M | Scene, ViewLayer | Updating Images | Loading 08_EyesTeeth_Roughness.png
+Fra:1 Mem:472.25M (Peak 488.26M) | Time:00:00.13 | Mem:96.00M, Peak:96.00M | Scene, ViewLayer | Updating Images | Loading 07_Hair_BaseColor.png
+Fra:1 Mem:584.25M (Peak 600.26M) | Time:00:00.15 | Mem:112.00M, Peak:112.00M | Scene, ViewLayer | Updating Images | Loading 09_Accessories_Roughness.png
+Fra:1 Mem:600.25M (Peak 616.26M) | Time:00:00.15 | Mem:128.00M, Peak:128.00M | Scene, ViewLayer | Updating Images | Loading 07_Hair_Roughness.png
+Fra:1 Mem:664.25M (Peak 664.26M) | Time:00:00.15 | Mem:192.00M, Peak:192.00M | Scene, ViewLayer | Updating Images | Loading 09_Accessories_BaseColor.png
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.37 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.37 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.37 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.37 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.37 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.37 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.37 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.37 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.37 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.37 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.37 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.37 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.37 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.37 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.37 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:614.85M (Peak 808.26M) | Time:00:00.37 | Mem:560.05M, Peak:560.05M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.37 | Mem:563.18M, Peak:563.18M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.37 | Mem:563.18M, Peak:563.18M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.38 | Mem:566.50M, Peak:566.50M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.39 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.39 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:617.77M (Peak 808.26M) | Time:00:00.39 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:617.77M (Peak 808.26M) | Time:00:00.39 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:780.20M (Peak 808.26M) | Time:00:01.22 | Remaining:00:38.91 | Mem:735.49M, Peak:735.49M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:780.20M (Peak 808.26M) | Time:00:27.84 | Remaining:00:12.47 | Mem:735.49M, Peak:735.49M | Scene, ViewLayer | Sample 33/48
+Fra:1 Mem:848.56M (Peak 951.11M) | Time:00:48.71 | Mem:735.49M, Peak:735.49M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:848.56M (Peak 951.11M) | Time:00:48.71 | Mem:735.49M, Peak:735.49M | Scene, ViewLayer | Finished
+Saved: '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/previews/02_painted_character.png'
+Time: 00:49.15 (Saving: 00:00.36)
+
+Fra:1 Mem:49.96M (Peak 49.96M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Head | sculpted face
+Fra:1 Mem:49.96M (Peak 49.96M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Upper eyelid.R
+Fra:1 Mem:50.38M (Peak 50.38M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lower eyelid.R
+Fra:1 Mem:50.67M (Peak 50.67M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Nostril.R
+Fra:1 Mem:50.69M (Peak 50.69M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear inset.L
+Fra:1 Mem:50.70M (Peak 50.70M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear helix.L
+Fra:1 Mem:51.12M (Peak 51.12M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lower eyelid.L
+Fra:1 Mem:51.16M (Peak 51.16M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Under eye crease.L
+Fra:1 Mem:51.22M (Peak 51.22M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Smile crease
+Fra:1 Mem:51.23M (Peak 51.23M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lower lip
+Fra:1 Mem:51.27M (Peak 51.27M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat torso
+Fra:1 Mem:51.28M (Peak 51.28M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat pointed hem
+Fra:1 Mem:51.34M (Peak 51.34M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front.R
+Fra:1 Mem:51.34M (Peak 51.34M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lapel.R
+Fra:1 Mem:51.51M (Peak 51.51M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat sleeve.R
+Fra:1 Mem:51.42M (Peak 51.51M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front.L
+Fra:1 Mem:51.82M (Peak 51.82M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lapel.L
+Fra:1 Mem:51.83M (Peak 51.83M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat tail.L
+Fra:1 Mem:51.46M (Peak 51.83M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat sleeve.L
+Fra:1 Mem:51.77M (Peak 51.83M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Turned cuff.L
+Fra:1 Mem:51.93M (Peak 51.93M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf wrap
+Fra:1 Mem:52.18M (Peak 52.18M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf fold 0
+Fra:1 Mem:52.14M (Peak 52.18M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf fold 2
+Fra:1 Mem:52.17M (Peak 52.18M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shirt collar
+Fra:1 Mem:52.17M (Peak 52.18M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair rim
+Fra:1 Mem:52.17M (Peak 52.18M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cool fill
+Fra:1 Mem:52.17M (Peak 52.18M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Warm key
+Fra:1 Mem:52.17M (Peak 52.18M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute tuning pegs
+Fra:1 Mem:52.22M (Peak 52.22M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute peg stems
+Fra:1 Mem:52.26M (Peak 52.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute strings
+Fra:1 Mem:52.27M (Peak 52.27M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches knee band.R
+Fra:1 Mem:52.31M (Peak 52.31M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking.R
+Fra:1 Mem:52.33M (Peak 52.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R0
+Fra:1 Mem:52.35M (Peak 52.35M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R1
+Fra:1 Mem:52.55M (Peak 52.55M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R2
+Fra:1 Mem:52.89M (Peak 52.89M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R3
+Fra:1 Mem:52.95M (Peak 52.95M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches.L
+Fra:1 Mem:53.17M (Peak 53.17M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches knee band.L
+Fra:1 Mem:53.14M (Peak 53.17M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking.L
+Fra:1 Mem:53.20M (Peak 53.20M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L0
+Fra:1 Mem:53.04M (Peak 53.20M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L2
+Fra:1 Mem:53.08M (Peak 53.20M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe upper.R
+Fra:1 Mem:53.21M (Peak 53.21M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe sole.R
+Fra:1 Mem:53.30M (Peak 53.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot ankle.R
+Fra:1 Mem:53.31M (Peak 53.31M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.R1
+Fra:1 Mem:53.36M (Peak 53.36M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.R2
+Fra:1 Mem:53.39M (Peak 53.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe sole.L
+Fra:1 Mem:53.48M (Peak 53.48M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute bridge
+Fra:1 Mem:53.49M (Peak 53.49M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot ankle.L
+Fra:1 Mem:53.53M (Peak 53.53M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute peghead
+Fra:1 Mem:53.55M (Peak 53.55M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot turned cuff.L
+Fra:1 Mem:53.67M (Peak 53.67M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.L1
+Fra:1 Mem:53.78M (Peak 53.78M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.L2
+Fra:1 Mem:53.79M (Peak 53.79M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hand.L | five fingers and nails
+Fra:1 Mem:53.81M (Peak 53.81M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Eye.L | globe iris pupil
+Fra:1 Mem:53.82M (Peak 53.82M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Fang.R1
+Fra:1 Mem:53.84M (Peak 53.84M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Fang.L1
+Fra:1 Mem:53.84M (Peak 53.84M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Fang.L2
+Fra:1 Mem:53.85M (Peak 53.85M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair cap
+Fra:1 Mem:53.85M (Peak 53.85M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute fingerboard
+Fra:1 Mem:54.06M (Peak 54.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute neck
+Fra:1 Mem:54.01M (Peak 54.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 00
+Fra:1 Mem:54.13M (Peak 54.13M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 01
+Fra:1 Mem:54.38M (Peak 54.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 01
+Fra:1 Mem:54.48M (Peak 54.48M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 02
+Fra:1 Mem:54.76M (Peak 54.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute rosette carving
+Fra:1 Mem:54.87M (Peak 54.87M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 03
+Fra:1 Mem:55.22M (Peak 55.22M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 04
+Fra:1 Mem:55.20M (Peak 55.22M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 04
+Fra:1 Mem:55.32M (Peak 55.32M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.R1
+Fra:1 Mem:55.49M (Peak 55.49M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.R2
+Fra:1 Mem:55.45M (Peak 55.49M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.L1
+Fra:1 Mem:55.48M (Peak 55.49M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute soundhole
+Fra:1 Mem:55.52M (Peak 55.52M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat button
+Fra:1 Mem:55.54M (Peak 55.54M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute binding
+Fra:1 Mem:55.57M (Peak 55.57M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat button.002
+Fra:1 Mem:55.60M (Peak 55.60M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat button.003
+Fra:1 Mem:55.60M (Peak 55.60M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front button.R
+Fra:1 Mem:55.61M (Peak 55.61M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.R0
+Fra:1 Mem:55.64M (Peak 55.64M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.R1
+Fra:1 Mem:55.65M (Peak 55.65M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot buckle.R
+Fra:1 Mem:55.67M (Peak 55.67M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.L0
+Fra:1 Mem:55.75M (Peak 55.75M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.L1
+Fra:1 Mem:55.80M (Peak 55.80M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear hoop.R0
+Fra:1 Mem:55.81M (Peak 55.81M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear hoop.R1
+Fra:1 Mem:55.87M (Peak 55.87M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear stud.R
+Fra:1 Mem:55.89M (Peak 55.89M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear pendant.R
+Fra:1 Mem:55.90M (Peak 55.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear hoop.L1
+Fra:1 Mem:56.11M (Peak 56.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear stud.L
+Fra:1 Mem:56.16M (Peak 56.16M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear pendant.L
+Fra:1 Mem:56.24M (Peak 56.24M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute shoulder strap
+Fra:1 Mem:56.28M (Peak 56.28M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Belt tab
+Fra:1 Mem:56.47M (Peak 56.47M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute bowl
+Fra:1 Mem:56.47M (Peak 56.47M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute soundboard
+Fra:1 Mem:56.77M (Peak 56.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:56.22M (Peak 56.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading 01_Face_BaseColor.png
+Fra:1 Mem:56.22M (Peak 56.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading 04_Scarf_Roughness.png
+Fra:1 Mem:352.24M (Peak 356.23M) | Time:00:00.02 | Mem:4.00M, Peak:4.00M | Scene, ViewLayer | Updating Images | Loading 05_Lower_Roughness.png
+Fra:1 Mem:368.24M (Peak 372.25M) | Time:00:00.03 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Updating Images | Loading 06_Shoes_BaseColor.png
+Fra:1 Mem:400.25M (Peak 400.26M) | Time:00:00.05 | Mem:24.00M, Peak:24.00M | Scene, ViewLayer | Updating Images | Loading 10_Lute_BaseColor.png
+Fra:1 Mem:400.24M (Peak 416.25M) | Time:00:00.06 | Mem:40.00M, Peak:40.00M | Scene, ViewLayer | Updating Images | Loading 06_Shoes_Roughness.png
+Fra:1 Mem:416.24M (Peak 432.25M) | Time:00:00.09 | Mem:56.00M, Peak:56.00M | Scene, ViewLayer | Updating Images | Loading 02_Hands_BaseColor.png
+Fra:1 Mem:452.26M (Peak 456.27M) | Time:00:00.11 | Mem:60.00M, Peak:60.00M | Scene, ViewLayer | Updating Images | Loading 02_Hands_Roughness.png
+Fra:1 Mem:460.26M (Peak 472.27M) | Time:00:00.12 | Mem:76.00M, Peak:76.00M | Scene, ViewLayer | Updating Images | Loading 09_Accessories_Roughness.png
+Fra:1 Mem:472.26M (Peak 476.27M) | Time:00:00.12 | Mem:80.00M, Peak:80.00M | Scene, ViewLayer | Updating Images | Loading 08_EyesTeeth_BaseColor.png
+Fra:1 Mem:584.26M (Peak 600.27M) | Time:00:00.13 | Mem:96.00M, Peak:96.00M | Scene, ViewLayer | Updating Images | Loading 08_EyesTeeth_Roughness.png
+Fra:1 Mem:600.25M (Peak 600.27M) | Time:00:00.13 | Mem:112.00M, Peak:112.00M | Scene, ViewLayer | Updating Images | Loading 07_Hair_BaseColor.png
+Fra:1 Mem:600.25M (Peak 664.26M) | Time:00:00.14 | Mem:176.00M, Peak:176.00M | Scene, ViewLayer | Updating Images | Loading 07_Hair_Roughness.png
+Fra:1 Mem:664.25M (Peak 664.26M) | Time:00:00.14 | Mem:192.00M, Peak:192.00M | Scene, ViewLayer | Updating Images | Loading 09_Accessories_BaseColor.png
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.38 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.38 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.38 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.38 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.38 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.38 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.38 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.38 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.38 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.38 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.38 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.38 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.38 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.38 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.38 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:614.85M (Peak 808.26M) | Time:00:00.38 | Mem:560.05M, Peak:560.05M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.38 | Mem:563.18M, Peak:563.18M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.38 | Mem:563.18M, Peak:563.18M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.38 | Mem:566.50M, Peak:566.50M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.39 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.39 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.39 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:617.77M (Peak 808.26M) | Time:00:00.39 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:617.77M (Peak 808.26M) | Time:00:00.39 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Sample 0/32
+Fra:1 Mem:722.22M (Peak 808.26M) | Time:00:01.04 | Remaining:00:20.16 | Mem:677.51M, Peak:677.51M | Scene, ViewLayer | Sample 1/32
+Fra:1 Mem:766.17M (Peak 832.09M) | Time:00:27.18 | Mem:677.51M, Peak:677.51M | Scene, ViewLayer | Sample 32/32
+Fra:1 Mem:766.17M (Peak 832.09M) | Time:00:27.18 | Mem:677.51M, Peak:677.51M | Scene, ViewLayer | Finished
+Saved: '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/previews/03_face_detail.png'
+Time: 00:27.48 (Saving: 00:00.22)
+
+Fra:1 Mem:49.96M (Peak 49.96M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Head | sculpted face
+Fra:1 Mem:49.96M (Peak 49.96M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear helix.R
+Fra:1 Mem:50.38M (Peak 50.38M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lower eyelid.R
+Fra:1 Mem:50.52M (Peak 50.52M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Under eye crease.R
+Fra:1 Mem:50.58M (Peak 50.58M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Nostril.R
+Fra:1 Mem:50.74M (Peak 50.74M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear.L
+Fra:1 Mem:50.76M (Peak 50.76M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear helix.L
+Fra:1 Mem:50.77M (Peak 50.77M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lower eyelid.L
+Fra:1 Mem:51.18M (Peak 51.18M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Under eye crease.L
+Fra:1 Mem:51.22M (Peak 51.22M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Nostril.L
+Fra:1 Mem:51.25M (Peak 51.25M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lower lip
+Fra:1 Mem:51.39M (Peak 51.39M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat pointed hem
+Fra:1 Mem:51.27M (Peak 51.39M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front.R
+Fra:1 Mem:51.28M (Peak 51.39M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat tail.R
+Fra:1 Mem:51.29M (Peak 51.39M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat sleeve.R
+Fra:1 Mem:51.51M (Peak 51.51M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Turned cuff.R
+Fra:1 Mem:51.63M (Peak 51.63M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front.L
+Fra:1 Mem:51.66M (Peak 51.66M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lapel.L
+Fra:1 Mem:51.71M (Peak 51.71M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat tail.L
+Fra:1 Mem:51.73M (Peak 51.73M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf wrap
+Fra:1 Mem:51.74M (Peak 51.74M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf fold 0
+Fra:1 Mem:51.78M (Peak 51.78M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf fold 1
+Fra:1 Mem:51.95M (Peak 51.95M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf fold 2
+Fra:1 Mem:52.02M (Peak 52.02M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shirt collar
+Fra:1 Mem:52.20M (Peak 52.20M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair rim
+Fra:1 Mem:52.26M (Peak 52.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cool fill
+Fra:1 Mem:52.26M (Peak 52.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shirt collar.001
+Fra:1 Mem:52.19M (Peak 52.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches.R
+Fra:1 Mem:52.26M (Peak 52.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches knee band.R
+Fra:1 Mem:52.30M (Peak 52.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking.R
+Fra:1 Mem:52.36M (Peak 52.36M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R0
+Fra:1 Mem:52.39M (Peak 52.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R2
+Fra:1 Mem:52.59M (Peak 52.59M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R3
+Fra:1 Mem:52.65M (Peak 52.65M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches.L
+Fra:1 Mem:52.89M (Peak 52.89M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches knee band.L
+Fra:1 Mem:52.93M (Peak 52.93M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L1
+Fra:1 Mem:52.99M (Peak 52.99M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L2
+Fra:1 Mem:53.12M (Peak 53.12M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L3
+Fra:1 Mem:53.13M (Peak 53.13M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe upper.R
+Fra:1 Mem:53.17M (Peak 53.17M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot ankle.R
+Fra:1 Mem:53.25M (Peak 53.25M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot turned cuff.R
+Fra:1 Mem:53.18M (Peak 53.25M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.R0
+Fra:1 Mem:53.21M (Peak 53.25M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.R1
+Fra:1 Mem:53.22M (Peak 53.25M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.R2
+Fra:1 Mem:53.24M (Peak 53.25M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe upper.L
+Fra:1 Mem:53.28M (Peak 53.28M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe sole.L
+Fra:1 Mem:53.30M (Peak 53.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot ankle.L
+Fra:1 Mem:53.34M (Peak 53.34M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute peg stems
+Fra:1 Mem:53.35M (Peak 53.35M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute strings
+Fra:1 Mem:53.41M (Peak 53.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute frets
+Fra:1 Mem:53.49M (Peak 53.49M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute bridge
+Fra:1 Mem:53.68M (Peak 53.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute peghead
+Fra:1 Mem:53.78M (Peak 53.78M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.L0
+Fra:1 Mem:53.72M (Peak 53.78M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.L2
+Fra:1 Mem:53.73M (Peak 53.78M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hand.R | five fingers and nails
+Fra:1 Mem:53.92M (Peak 53.92M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Eye.R | globe iris pupil
+Fra:1 Mem:54.07M (Peak 54.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Eye.L | globe iris pupil
+Fra:1 Mem:54.16M (Peak 54.16M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute neck
+Fra:1 Mem:54.29M (Peak 54.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Fang.R2
+Fra:1 Mem:54.27M (Peak 54.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Fang.L1
+Fra:1 Mem:54.27M (Peak 54.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair cap
+Fra:1 Mem:54.41M (Peak 54.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 00
+Fra:1 Mem:54.51M (Peak 54.51M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute rosette carving
+Fra:1 Mem:54.56M (Peak 54.56M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 00
+Fra:1 Mem:54.79M (Peak 54.79M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 01
+Fra:1 Mem:54.94M (Peak 54.94M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 01
+Fra:1 Mem:54.99M (Peak 54.99M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute rosette
+Fra:1 Mem:55.13M (Peak 55.13M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 02
+Fra:1 Mem:55.13M (Peak 55.13M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 03
+Fra:1 Mem:55.17M (Peak 55.17M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 04
+Fra:1 Mem:55.14M (Peak 55.17M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.R0
+Fra:1 Mem:55.23M (Peak 55.23M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.R2
+Fra:1 Mem:55.25M (Peak 55.25M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.L0
+Fra:1 Mem:55.29M (Peak 55.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.L1
+Fra:1 Mem:55.30M (Peak 55.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.L2
+Fra:1 Mem:55.53M (Peak 55.53M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Eyebrow.R
+Fra:1 Mem:55.60M (Peak 55.60M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat button
+Fra:1 Mem:55.61M (Peak 55.61M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat button.001
+Fra:1 Mem:55.65M (Peak 55.65M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat button.003
+Fra:1 Mem:55.71M (Peak 55.71M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front button.R
+Fra:1 Mem:55.66M (Peak 55.71M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.R1
+Fra:1 Mem:55.73M (Peak 55.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot buckle.R
+Fra:1 Mem:55.74M (Peak 55.74M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front button.L
+Fra:1 Mem:55.75M (Peak 55.75M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.L0
+Fra:1 Mem:55.77M (Peak 55.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.L1
+Fra:1 Mem:55.79M (Peak 55.79M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot buckle.L
+Fra:1 Mem:55.80M (Peak 55.80M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear hoop.R0
+Fra:1 Mem:55.82M (Peak 55.82M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear hoop.R1
+Fra:1 Mem:55.82M (Peak 55.82M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear stud.R
+Fra:1 Mem:56.06M (Peak 56.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear pendant.R
+Fra:1 Mem:56.12M (Peak 56.12M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear stud.L
+Fra:1 Mem:56.19M (Peak 56.19M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear pendant.L
+Fra:1 Mem:56.33M (Peak 56.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute shoulder strap
+Fra:1 Mem:56.38M (Peak 56.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Belt tab
+Fra:1 Mem:56.44M (Peak 56.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute bowl
+Fra:1 Mem:56.55M (Peak 56.55M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute soundboard
+Fra:1 Mem:56.77M (Peak 56.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:56.22M (Peak 56.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading 01_Face_BaseColor.png
+Fra:1 Mem:56.22M (Peak 56.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading 05_Lower_BaseColor.png
+Fra:1 Mem:352.24M (Peak 356.24M) | Time:00:00.02 | Mem:4.00M, Peak:4.00M | Scene, ViewLayer | Updating Images | Loading 05_Lower_Roughness.png
+Fra:1 Mem:368.24M (Peak 372.25M) | Time:00:00.03 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Updating Images | Loading 06_Shoes_BaseColor.png
+Fra:1 Mem:400.25M (Peak 416.26M) | Time:00:00.05 | Mem:24.00M, Peak:24.00M | Scene, ViewLayer | Updating Images | Loading 10_Lute_BaseColor.png
+Fra:1 Mem:400.24M (Peak 416.26M) | Time:00:00.06 | Mem:40.00M, Peak:40.00M | Scene, ViewLayer | Updating Images | Loading 06_Shoes_Roughness.png
+Fra:1 Mem:432.25M (Peak 448.26M) | Time:00:00.09 | Mem:56.00M, Peak:56.00M | Scene, ViewLayer | Updating Images | Loading 02_Hands_BaseColor.png
+Fra:1 Mem:420.24M (Peak 448.26M) | Time:00:00.10 | Mem:72.00M, Peak:72.00M | Scene, ViewLayer | Updating Images | Loading 02_Hands_Roughness.png
+Fra:1 Mem:456.26M (Peak 460.27M) | Time:00:00.12 | Mem:76.00M, Peak:76.00M | Scene, ViewLayer | Updating Images | Loading 08_EyesTeeth_BaseColor.png
+Fra:1 Mem:472.26M (Peak 476.27M) | Time:00:00.12 | Mem:80.00M, Peak:80.00M | Scene, ViewLayer | Updating Images | Loading 08_EyesTeeth_Roughness.png
+Fra:1 Mem:472.25M (Peak 488.26M) | Time:00:00.13 | Mem:96.00M, Peak:96.00M | Scene, ViewLayer | Updating Images | Loading 07_Hair_BaseColor.png
+Fra:1 Mem:520.24M (Peak 536.25M) | Time:00:00.13 | Mem:112.00M, Peak:112.00M | Scene, ViewLayer | Updating Images | Loading 09_Accessories_Roughness.png
+Fra:1 Mem:664.26M (Peak 680.27M) | Time:00:00.15 | Mem:128.00M, Peak:128.00M | Scene, ViewLayer | Updating Images | Loading 07_Hair_Roughness.png
+Fra:1 Mem:728.26M (Peak 744.27M) | Time:00:00.16 | Mem:144.00M, Peak:144.00M | Scene, ViewLayer | Updating Images | Loading 09_Accessories_BaseColor.png
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.39 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.39 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.39 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.39 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.39 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.39 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.39 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.39 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.39 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.39 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.39 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.39 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.39 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.39 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.39 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:614.85M (Peak 808.26M) | Time:00:00.40 | Mem:560.05M, Peak:560.05M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.40 | Mem:563.18M, Peak:563.18M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.40 | Mem:563.18M, Peak:563.18M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.40 | Mem:566.50M, Peak:566.50M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.40 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.40 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.41 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.41 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.41 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.41 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.41 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.41 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.41 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.41 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.41 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.41 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.41 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.41 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.41 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:617.77M (Peak 808.26M) | Time:00:00.41 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:617.77M (Peak 808.26M) | Time:00:00.41 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Sample 0/32
+Fra:1 Mem:704.82M (Peak 808.26M) | Time:00:00.88 | Remaining:00:14.79 | Mem:660.12M, Peak:660.12M | Scene, ViewLayer | Sample 1/32
+Fra:1 Mem:741.45M (Peak 808.26M) | Time:00:19.86 | Mem:660.12M, Peak:660.12M | Scene, ViewLayer | Sample 32/32
+Fra:1 Mem:741.45M (Peak 808.26M) | Time:00:19.86 | Mem:660.12M, Peak:660.12M | Scene, ViewLayer | Finished
+Saved: '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/previews/04_front.png'
+Time: 00:20.13 (Saving: 00:00.18)
+
+Fra:1 Mem:49.96M (Peak 49.96M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Head | sculpted face
+Fra:1 Mem:49.96M (Peak 49.96M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear helix.R
+Fra:1 Mem:50.38M (Peak 50.38M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lower eyelid.R
+Fra:1 Mem:50.54M (Peak 50.54M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Under eye crease.R
+Fra:1 Mem:50.67M (Peak 50.67M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Nostril.R
+Fra:1 Mem:50.72M (Peak 50.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear.L
+Fra:1 Mem:50.73M (Peak 50.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear inset.L
+Fra:1 Mem:51.14M (Peak 51.14M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear helix.L
+Fra:1 Mem:51.16M (Peak 51.16M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Upper eyelid.L
+Fra:1 Mem:51.30M (Peak 51.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Under eye crease.L
+Fra:1 Mem:51.21M (Peak 51.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Nostril.L
+Fra:1 Mem:51.23M (Peak 51.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Smile crease
+Fra:1 Mem:51.23M (Peak 51.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat torso
+Fra:1 Mem:51.26M (Peak 51.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat pointed hem
+Fra:1 Mem:51.32M (Peak 51.32M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front.R
+Fra:1 Mem:51.32M (Peak 51.32M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lapel.R
+Fra:1 Mem:51.37M (Peak 51.37M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat tail.R
+Fra:1 Mem:51.39M (Peak 51.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Turned cuff.R
+Fra:1 Mem:51.41M (Peak 51.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front.L
+Fra:1 Mem:51.43M (Peak 51.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lapel.L
+Fra:1 Mem:51.44M (Peak 51.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Studio floor
+Fra:1 Mem:51.44M (Peak 51.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat sleeve.L
+Fra:1 Mem:51.61M (Peak 51.61M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair rim
+Fra:1 Mem:51.84M (Peak 51.84M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Turned cuff.L
+Fra:1 Mem:51.74M (Peak 51.84M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf fold 0
+Fra:1 Mem:51.75M (Peak 51.84M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf fold 1
+Fra:1 Mem:51.80M (Peak 51.84M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf fold 2
+Fra:1 Mem:51.82M (Peak 51.84M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf hanging end
+Fra:1 Mem:51.82M (Peak 51.84M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shirt collar
+Fra:1 Mem:51.85M (Peak 51.85M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shirt collar.001
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat back
+Fra:1 Mem:52.20M (Peak 52.20M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches knee band.R
+Fra:1 Mem:52.57M (Peak 52.57M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Warm key
+Fra:1 Mem:52.57M (Peak 52.57M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute tuning pegs
+Fra:1 Mem:52.76M (Peak 52.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute peg stems
+Fra:1 Mem:53.07M (Peak 53.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R0
+Fra:1 Mem:52.84M (Peak 53.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R3
+Fra:1 Mem:52.84M (Peak 53.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches knee band.L
+Fra:1 Mem:52.87M (Peak 53.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking.L
+Fra:1 Mem:52.90M (Peak 53.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L0
+Fra:1 Mem:52.92M (Peak 53.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L1
+Fra:1 Mem:52.93M (Peak 53.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L2
+Fra:1 Mem:52.99M (Peak 53.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe upper.R
+Fra:1 Mem:52.99M (Peak 53.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe sole.R
+Fra:1 Mem:53.28M (Peak 53.28M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot ankle.R
+Fra:1 Mem:53.38M (Peak 53.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot turned cuff.R
+Fra:1 Mem:53.36M (Peak 53.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.R1
+Fra:1 Mem:53.37M (Peak 53.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.R2
+Fra:1 Mem:53.39M (Peak 53.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe upper.L
+Fra:1 Mem:53.46M (Peak 53.46M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe sole.L
+Fra:1 Mem:53.64M (Peak 53.64M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot ankle.L
+Fra:1 Mem:53.68M (Peak 53.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot turned cuff.L
+Fra:1 Mem:53.70M (Peak 53.70M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute bridge
+Fra:1 Mem:53.71M (Peak 53.71M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.L2
+Fra:1 Mem:53.78M (Peak 53.78M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hand.R | five fingers and nails
+Fra:1 Mem:53.78M (Peak 53.78M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Eye.R | globe iris pupil
+Fra:1 Mem:54.10M (Peak 54.10M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Fang.R1
+Fra:1 Mem:54.11M (Peak 54.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Fang.R2
+Fra:1 Mem:54.12M (Peak 54.12M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Fang.L1
+Fra:1 Mem:54.12M (Peak 54.12M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair cap
+Fra:1 Mem:54.13M (Peak 54.13M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 00
+Fra:1 Mem:54.24M (Peak 54.24M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute peghead
+Fra:1 Mem:54.35M (Peak 54.35M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 00
+Fra:1 Mem:54.30M (Peak 54.35M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute fingerboard
+Fra:1 Mem:54.71M (Peak 54.71M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 01
+Fra:1 Mem:54.72M (Peak 54.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 02
+Fra:1 Mem:54.86M (Peak 54.86M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 02
+Fra:1 Mem:54.90M (Peak 54.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 03
+Fra:1 Mem:55.10M (Peak 55.10M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 04
+Fra:1 Mem:55.16M (Peak 55.16M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.R0
+Fra:1 Mem:55.29M (Peak 55.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.R2
+Fra:1 Mem:55.26M (Peak 55.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.L0
+Fra:1 Mem:55.27M (Peak 55.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.L2
+Fra:1 Mem:55.28M (Peak 55.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Eyebrow.R
+Fra:1 Mem:55.32M (Peak 55.32M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Eyebrow.L
+Fra:1 Mem:55.34M (Peak 55.34M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat button.001
+Fra:1 Mem:55.37M (Peak 55.37M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat button.003
+Fra:1 Mem:55.38M (Peak 55.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front button.R
+Fra:1 Mem:55.40M (Peak 55.40M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.R0
+Fra:1 Mem:55.40M (Peak 55.40M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute neck
+Fra:1 Mem:55.42M (Peak 55.42M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.R1
+Fra:1 Mem:55.44M (Peak 55.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute rosette carving
+Fra:1 Mem:55.45M (Peak 55.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front button.L
+Fra:1 Mem:55.59M (Peak 55.59M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.L0
+Fra:1 Mem:55.69M (Peak 55.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.L1
+Fra:1 Mem:55.66M (Peak 55.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear hoop.R1
+Fra:1 Mem:55.67M (Peak 55.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear stud.R
+Fra:1 Mem:55.69M (Peak 55.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear pendant.R
+Fra:1 Mem:55.70M (Peak 55.70M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear hoop.L0
+Fra:1 Mem:55.74M (Peak 55.74M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear hoop.L1
+Fra:1 Mem:55.76M (Peak 55.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear stud.L
+Fra:1 Mem:55.92M (Peak 55.92M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute shoulder strap
+Fra:1 Mem:55.92M (Peak 55.92M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute bowl
+Fra:1 Mem:56.00M (Peak 56.00M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute soundboard
+Fra:1 Mem:56.04M (Peak 56.04M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute soundhole
+Fra:1 Mem:56.10M (Peak 56.10M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute binding
+Fra:1 Mem:56.77M (Peak 56.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:56.22M (Peak 56.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading 10_Lute_Roughness.png
+Fra:1 Mem:56.22M (Peak 56.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading 05_Lower_BaseColor.png
+Fra:1 Mem:352.24M (Peak 356.24M) | Time:00:00.02 | Mem:4.00M, Peak:4.00M | Scene, ViewLayer | Updating Images | Loading 05_Lower_Roughness.png
+Fra:1 Mem:368.24M (Peak 372.25M) | Time:00:00.03 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Updating Images | Loading 06_Shoes_BaseColor.png
+Fra:1 Mem:400.25M (Peak 400.26M) | Time:00:00.05 | Mem:24.00M, Peak:24.00M | Scene, ViewLayer | Updating Images | Loading 10_Lute_BaseColor.png
+Fra:1 Mem:400.24M (Peak 416.25M) | Time:00:00.06 | Mem:40.00M, Peak:40.00M | Scene, ViewLayer | Updating Images | Loading 06_Shoes_Roughness.png
+Fra:1 Mem:416.24M (Peak 432.25M) | Time:00:00.10 | Mem:56.00M, Peak:56.00M | Scene, ViewLayer | Updating Images | Loading 02_Hands_BaseColor.png
+Fra:1 Mem:468.27M (Peak 472.28M) | Time:00:00.12 | Mem:60.00M, Peak:60.00M | Scene, ViewLayer | Updating Images | Loading 02_Hands_Roughness.png
+Fra:1 Mem:456.26M (Peak 472.28M) | Time:00:00.13 | Mem:76.00M, Peak:76.00M | Scene, ViewLayer | Updating Images | Loading 08_EyesTeeth_BaseColor.png
+Fra:1 Mem:460.26M (Peak 472.28M) | Time:00:00.13 | Mem:92.00M, Peak:92.00M | Scene, ViewLayer | Updating Images | Loading 08_EyesTeeth_Roughness.png
+Fra:1 Mem:472.25M (Peak 476.26M) | Time:00:00.13 | Mem:96.00M, Peak:96.00M | Scene, ViewLayer | Updating Images | Loading 07_Hair_BaseColor.png
+Fra:1 Mem:520.24M (Peak 536.25M) | Time:00:00.14 | Mem:112.00M, Peak:112.00M | Scene, ViewLayer | Updating Images | Loading 09_Accessories_Roughness.png
+Fra:1 Mem:680.26M (Peak 696.27M) | Time:00:00.17 | Mem:128.00M, Peak:128.00M | Scene, ViewLayer | Updating Images | Loading 07_Hair_Roughness.png
+Fra:1 Mem:744.26M (Peak 760.27M) | Time:00:00.18 | Mem:144.00M, Peak:144.00M | Scene, ViewLayer | Updating Images | Loading 09_Accessories_BaseColor.png
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.41 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.41 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.41 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:611.57M (Peak 808.26M) | Time:00:00.41 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.41 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.41 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.41 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.41 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.41 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:611.66M (Peak 808.26M) | Time:00:00.41 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.41 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.41 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.41 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.41 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:611.69M (Peak 808.26M) | Time:00:00.41 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:614.85M (Peak 808.26M) | Time:00:00.41 | Mem:560.05M, Peak:560.05M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.41 | Mem:563.18M, Peak:563.18M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.41 | Mem:563.18M, Peak:563.18M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.41 | Mem:566.50M, Peak:566.50M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.42 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:614.83M (Peak 808.26M) | Time:00:00.42 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.42 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.42 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.42 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.42 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.42 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.42 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.42 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.42 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.42 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.42 | Mem:573.12M, Peak:573.44M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.42 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.42 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:617.76M (Peak 808.26M) | Time:00:00.42 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:617.77M (Peak 808.26M) | Time:00:00.42 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:617.77M (Peak 808.26M) | Time:00:00.42 | Mem:573.13M, Peak:573.44M | Scene, ViewLayer | Sample 0/32
+Fra:1 Mem:704.83M (Peak 808.26M) | Time:00:00.90 | Remaining:00:14.68 | Mem:660.12M, Peak:660.12M | Scene, ViewLayer | Sample 1/32
+Fra:1 Mem:741.45M (Peak 808.26M) | Time:00:18.88 | Mem:660.12M, Peak:660.12M | Scene, ViewLayer | Sample 32/32
+Fra:1 Mem:741.45M (Peak 808.26M) | Time:00:18.88 | Mem:660.12M, Peak:660.12M | Scene, ViewLayer | Finished
+Saved: '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/previews/05_back.png'
+Time: 00:19.15 (Saving: 00:00.18)
+
+Fra:1 Mem:50.18M (Peak 50.18M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Head | sculpted face
+Fra:1 Mem:50.18M (Peak 50.18M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Upper eyelid.R
+Fra:1 Mem:50.63M (Peak 50.63M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lower eyelid.R
+Fra:1 Mem:50.78M (Peak 50.78M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Under eye crease.R
+Fra:1 Mem:50.91M (Peak 50.91M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Nostril.R
+Fra:1 Mem:50.94M (Peak 50.94M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear.L
+Fra:1 Mem:50.96M (Peak 50.96M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear inset.L
+Fra:1 Mem:51.36M (Peak 51.36M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear helix.L
+Fra:1 Mem:51.38M (Peak 51.38M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Upper eyelid.L
+Fra:1 Mem:51.40M (Peak 51.40M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lower eyelid.L
+Fra:1 Mem:51.41M (Peak 51.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Nostril.L
+Fra:1 Mem:51.45M (Peak 51.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Smile crease
+Fra:1 Mem:51.47M (Peak 51.47M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lower lip
+Fra:1 Mem:51.51M (Peak 51.50M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat pointed hem
+Fra:1 Mem:51.52M (Peak 51.52M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lapel.R
+Fra:1 Mem:51.54M (Peak 51.54M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat tail.R
+Fra:1 Mem:51.55M (Peak 51.55M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat sleeve.R
+Fra:1 Mem:51.74M (Peak 51.74M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Turned cuff.R
+Fra:1 Mem:51.94M (Peak 51.94M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat front.L
+Fra:1 Mem:51.86M (Peak 51.94M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lapel.L
+Fra:1 Mem:51.89M (Peak 51.94M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Coat sleeve.L
+Fra:1 Mem:51.90M (Peak 51.94M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf wrap
+Fra:1 Mem:51.98M (Peak 51.98M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf fold 0
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Scarf fold 2
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair rim
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cool fill
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Warm key
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute tuning pegs
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute peg stems
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shirt collar
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shirt collar.001
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches.R
+Fra:1 Mem:52.22M (Peak 52.22M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches knee band.R
+Fra:1 Mem:52.25M (Peak 52.25M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking.R
+Fra:1 Mem:52.28M (Peak 52.28M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R0
+Fra:1 Mem:52.29M (Peak 52.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R1
+Fra:1 Mem:52.31M (Peak 52.31M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R2
+Fra:1 Mem:52.32M (Peak 52.32M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.R3
+Fra:1 Mem:52.35M (Peak 52.35M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Breeches knee band.L
+Fra:1 Mem:52.40M (Peak 52.40M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking.L
+Fra:1 Mem:52.43M (Peak 52.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L0
+Fra:1 Mem:52.45M (Peak 52.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L2
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Stocking knit.L3
+Fra:1 Mem:52.64M (Peak 52.64M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe upper.R
+Fra:1 Mem:52.76M (Peak 52.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe sole.R
+Fra:1 Mem:52.86M (Peak 52.86M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot turned cuff.R
+Fra:1 Mem:52.91M (Peak 52.91M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.R1
+Fra:1 Mem:53.29M (Peak 53.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.R2
+Fra:1 Mem:53.63M (Peak 53.63M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe upper.L
+Fra:1 Mem:53.75M (Peak 53.75M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shoe sole.L
+Fra:1 Mem:53.91M (Peak 53.91M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot turned cuff.L
+Fra:1 Mem:54.09M (Peak 54.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot lace.L1
+Fra:1 Mem:53.90M (Peak 54.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hand.R | five fingers and nails
+Fra:1 Mem:54.06M (Peak 54.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Eye.R | globe iris pupil
+Fra:1 Mem:54.14M (Peak 54.14M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Eye.L | globe iris pupil
+Fra:1 Mem:54.15M (Peak 54.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute bridge
+Fra:1 Mem:54.15M (Peak 54.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Fang.R1
+Fra:1 Mem:54.19M (Peak 54.19M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Fang.L1
+Fra:1 Mem:54.44M (Peak 54.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Fang.L2
+Fra:1 Mem:54.56M (Peak 54.56M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair cap
+Fra:1 Mem:54.73M (Peak 54.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 00
+Fra:1 Mem:54.73M (Peak 54.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 01
+Fra:1 Mem:54.90M (Peak 54.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 01
+Fra:1 Mem:55.20M (Peak 55.20M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 02
+Fra:1 Mem:55.28M (Peak 55.28M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hair brush ridge 02
+Fra:1 Mem:55.52M (Peak 55.52M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute peghead
+Fra:1 Mem:55.45M (Peak 55.52M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Swept forelock 04
+Fra:1 Mem:55.38M (Peak 55.52M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.R0
+Fra:1 Mem:55.42M (Peak 55.52M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.R1
+Fra:1 Mem:55.44M (Peak 55.52M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.R2
+Fra:1 Mem:55.46M (Peak 55.52M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.L0
+Fra:1 Mem:55.47M (Peak 55.52M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute fingerboard
+Fra:1 Mem:55.48M (Peak 55.52M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Temple lock.L2
+Fra:1 Mem:55.50M (Peak 55.52M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute neck
+Fra:1 Mem:55.51M (Peak 55.52M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Eyebrow.R
+Fra:1 Mem:55.53M (Peak 55.53M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute rosette carving
+Fra:1 Mem:55.55M (Peak 55.55M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Eyebrow.L
+Fra:1 Mem:55.68M (Peak 55.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat button
+Fra:1 Mem:55.77M (Peak 55.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat button.001
+Fra:1 Mem:55.73M (Peak 55.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute rosette
+Fra:1 Mem:55.75M (Peak 55.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Waistcoat button.003
+Fra:1 Mem:55.78M (Peak 55.78M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute soundhole
+Fra:1 Mem:55.85M (Peak 55.85M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.R0
+Fra:1 Mem:55.88M (Peak 55.88M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.R1
+Fra:1 Mem:56.00M (Peak 56.00M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot buckle.R
+Fra:1 Mem:55.98M (Peak 56.00M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.L0
+Fra:1 Mem:55.99M (Peak 56.00M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Cuff button.L1
+Fra:1 Mem:56.01M (Peak 56.01M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Boot buckle.L
+Fra:1 Mem:56.01M (Peak 56.01M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear hoop.R0
+Fra:1 Mem:56.23M (Peak 56.23M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear hoop.R1
+Fra:1 Mem:56.25M (Peak 56.25M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear stud.R
+Fra:1 Mem:56.33M (Peak 56.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear pendant.R
+Fra:1 Mem:56.35M (Peak 56.35M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear hoop.L1
+Fra:1 Mem:56.51M (Peak 56.51M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ear stud.L
+Fra:1 Mem:56.57M (Peak 56.57M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute shoulder strap
+Fra:1 Mem:56.60M (Peak 56.60M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Belt tab
+Fra:1 Mem:56.72M (Peak 56.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Belt ring
+Fra:1 Mem:56.83M (Peak 56.83M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Lute soundboard
+Fra:1 Mem:56.99M (Peak 56.99M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:56.43M (Peak 56.99M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading 04_Scarf_Roughness.png
+Fra:1 Mem:56.43M (Peak 56.99M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading 05_Lower_BaseColor.png
+Fra:1 Mem:352.46M (Peak 356.45M) | Time:00:00.02 | Mem:4.00M, Peak:4.00M | Scene, ViewLayer | Updating Images | Loading 05_Lower_Roughness.png
+Fra:1 Mem:368.46M (Peak 372.47M) | Time:00:00.03 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Updating Images | Loading 06_Shoes_BaseColor.png
+Fra:1 Mem:384.46M (Peak 400.47M) | Time:00:00.05 | Mem:24.00M, Peak:24.00M | Scene, ViewLayer | Updating Images | Loading 10_Lute_BaseColor.png
+Fra:1 Mem:400.46M (Peak 416.47M) | Time:00:00.06 | Mem:40.00M, Peak:40.00M | Scene, ViewLayer | Updating Images | Loading 06_Shoes_Roughness.png
+Fra:1 Mem:416.46M (Peak 432.47M) | Time:00:00.09 | Mem:56.00M, Peak:56.00M | Scene, ViewLayer | Updating Images | Loading 02_Hands_BaseColor.png
+Fra:1 Mem:452.47M (Peak 456.48M) | Time:00:00.12 | Mem:60.00M, Peak:60.00M | Scene, ViewLayer | Updating Images | Loading 02_Hands_Roughness.png
+Fra:1 Mem:440.47M (Peak 456.48M) | Time:00:00.13 | Mem:76.00M, Peak:76.00M | Scene, ViewLayer | Updating Images | Loading 09_Accessories_Roughness.png
+Fra:1 Mem:456.47M (Peak 456.48M) | Time:00:00.13 | Mem:92.00M, Peak:92.00M | Scene, ViewLayer | Updating Images | Loading 08_EyesTeeth_BaseColor.png
+Fra:1 Mem:472.47M (Peak 476.48M) | Time:00:00.13 | Mem:96.00M, Peak:96.00M | Scene, ViewLayer | Updating Images | Loading 08_EyesTeeth_Roughness.png
+Fra:1 Mem:616.48M (Peak 616.49M) | Time:00:00.15 | Mem:112.00M, Peak:112.00M | Scene, ViewLayer | Updating Images | Loading 07_Hair_BaseColor.png
+Fra:1 Mem:664.48M (Peak 696.49M) | Time:00:00.16 | Mem:128.00M, Peak:128.00M | Scene, ViewLayer | Updating Images | Loading 09_Accessories_BaseColor.png
+Fra:1 Mem:680.47M (Peak 696.49M) | Time:00:00.17 | Mem:144.00M, Peak:144.00M | Scene, ViewLayer | Updating Images | Loading 07_Hair_Roughness.png
+Fra:1 Mem:611.72M (Peak 808.48M) | Time:00:00.42 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:611.72M (Peak 808.48M) | Time:00:00.42 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:611.72M (Peak 808.48M) | Time:00:00.42 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:611.72M (Peak 808.48M) | Time:00:00.42 | Mem:560.00M, Peak:560.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:611.81M (Peak 808.48M) | Time:00:00.42 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:611.81M (Peak 808.48M) | Time:00:00.42 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:611.81M (Peak 808.48M) | Time:00:00.42 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:611.81M (Peak 808.48M) | Time:00:00.42 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:611.81M (Peak 808.48M) | Time:00:00.42 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:611.81M (Peak 808.48M) | Time:00:00.42 | Mem:560.01M, Peak:560.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:611.84M (Peak 808.48M) | Time:00:00.42 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:611.84M (Peak 808.48M) | Time:00:00.42 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:611.84M (Peak 808.48M) | Time:00:00.42 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:611.84M (Peak 808.48M) | Time:00:00.42 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:611.84M (Peak 808.48M) | Time:00:00.42 | Mem:560.04M, Peak:560.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:615.00M (Peak 808.48M) | Time:00:00.42 | Mem:560.05M, Peak:560.05M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:614.98M (Peak 808.48M) | Time:00:00.42 | Mem:563.18M, Peak:563.18M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:614.98M (Peak 808.48M) | Time:00:00.42 | Mem:563.18M, Peak:563.18M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:614.98M (Peak 808.48M) | Time:00:00.42 | Mem:566.50M, Peak:566.50M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:614.98M (Peak 808.48M) | Time:00:00.43 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:614.98M (Peak 808.48M) | Time:00:00.43 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:617.90M (Peak 808.48M) | Time:00:00.43 | Mem:570.11M, Peak:573.44M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:617.90M (Peak 808.48M) | Time:00:00.43 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:617.90M (Peak 808.48M) | Time:00:00.43 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:617.90M (Peak 808.48M) | Time:00:00.43 | Mem:573.04M, Peak:573.44M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:337.90M (Peak 808.48M) | Time:00:00.48 | Mem:293.04M, Peak:573.44M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:337.90M (Peak 808.48M) | Time:00:00.48 | Mem:293.04M, Peak:573.44M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:337.90M (Peak 808.48M) | Time:00:00.48 | Mem:293.12M, Peak:573.44M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:337.90M (Peak 808.48M) | Time:00:00.48 | Mem:293.12M, Peak:573.44M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:337.91M (Peak 808.48M) | Time:00:00.48 | Mem:293.12M, Peak:573.44M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:337.91M (Peak 808.48M) | Time:00:00.48 | Mem:293.12M, Peak:573.44M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:337.91M (Peak 808.48M) | Time:00:00.48 | Mem:293.04M, Peak:573.44M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:337.91M (Peak 808.48M) | Time:00:00.48 | Mem:293.13M, Peak:573.44M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:337.91M (Peak 808.48M) | Time:00:00.48 | Mem:293.13M, Peak:573.44M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:337.92M (Peak 808.48M) | Time:00:00.48 | Mem:293.13M, Peak:573.44M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:337.92M (Peak 808.48M) | Time:00:00.48 | Mem:293.13M, Peak:573.44M | Scene, ViewLayer | Sample 0/32
+Fra:1 Mem:424.97M (Peak 808.48M) | Time:00:00.94 | Remaining:00:14.38 | Mem:380.12M, Peak:573.44M | Scene, ViewLayer | Sample 1/32
+Fra:1 Mem:461.60M (Peak 808.48M) | Time:00:19.06 | Mem:380.12M, Peak:573.44M | Scene, ViewLayer | Sample 32/32
+Fra:1 Mem:461.60M (Peak 808.48M) | Time:00:19.06 | Mem:380.12M, Peak:573.44M | Scene, ViewLayer | Finished
+Saved: '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/previews/06_UV_checker.png'
+Time: 00:19.29 (Saving: 00:00.19)
+
+
+
+FBX export starting... '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/exports/Goblin_Music_Teacher.fbx'
+export finished in 0.1763 sec.
+
+FBX export starting... '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/exports/parts/01_Head.fbx'
+export finished in 0.0346 sec.
+
+FBX export starting... '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/exports/parts/02_Upper_body.fbx'
+export finished in 0.0309 sec.
+
+FBX export starting... '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/exports/parts/03_Lower_body.fbx'
+export finished in 0.0165 sec.
+
+FBX export starting... '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/exports/parts/04_Shoes.fbx'
+export finished in 0.0178 sec.
+
+FBX export starting... '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/exports/parts/05_Hands.fbx'
+export finished in 0.0083 sec.
+
+FBX export starting... '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/exports/parts/06_Eyes.fbx'
+export finished in 0.0080 sec.
+
+FBX export starting... '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/exports/parts/07_Teeth.fbx'
+export finished in 0.0070 sec.
+
+FBX export starting... '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/exports/parts/08_Hair.fbx'
+export finished in 0.0232 sec.
+
+FBX export starting... '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/exports/parts/09_Eyebrows.fbx'
+export finished in 0.0066 sec.
+
+FBX export starting... '/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/exports/parts/10_Accessories.fbx'
+export finished in 0.0441 sec.
+Info: Saved as "Goblin_Music_Teacher.blend"
+FINAL_COMPLETE
+
+Blender quit

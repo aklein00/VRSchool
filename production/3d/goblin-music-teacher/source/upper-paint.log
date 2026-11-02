@@ -1,0 +1,2 @@
+PAINT 03_Upper 4096 19668
+PAINT_DONE 03_Upper {'resolution': 4096, 'layers': 8, 'covered_pixels': 1971127, 'overlap_pixels_interior': 0, 'overlap_percent': 0.0, 'maximum_dilation_pixels': 8}

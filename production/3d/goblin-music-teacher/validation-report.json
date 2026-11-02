@@ -1,0 +1,51 @@
+{
+  "checks": [
+    {
+      "check": "Blender mesh separation, UV0, finite geometry, packed texture links",
+      "passed": true,
+      "objects": 130
+    },
+    {
+      "check": "Native GIMP XCF save and reopen",
+      "passed": true,
+      "files": 10,
+      "layers_per_file": 8
+    },
+    {
+      "check": "UV raster overlap measurement",
+      "results": {
+        "01_Face": 3.4363753387836535e-05,
+        "02_Hands": 0.0,
+        "03_Upper": 0.0,
+        "04_Scarf": 0.0,
+        "05_Lower": 0.0,
+        "06_Shoes": 0.0,
+        "07_Hair": 0.0,
+        "08_EyesTeeth": 0.0,
+        "09_Accessories": 0.0,
+        "10_Lute": 0.0006431798813333119
+      }
+    },
+    {
+      "check": "Per-object texel density matches category target",
+      "passed": true,
+      "max_error_px_per_m": 0.007556529539215262
+    },
+    {
+      "check": "GLB reimport",
+      "passed": true,
+      "mesh_count": 130,
+      "bounding_box_error_m": 0.0
+    },
+    {
+      "check": "FBX reimport",
+      "passed": true,
+      "mesh_count": 130,
+      "bounding_box_error_m": 4.470348358154297e-08
+    }
+  ],
+  "object_count": 130,
+  "triangles": 108874,
+  "height_m": 1.4735348927788436,
+  "scope": "Static unrigged character. Sculpt-derived and generated surfaces; not certified deformation topology or headset performance."
+}

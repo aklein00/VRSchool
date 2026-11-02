@@ -1,0 +1,20 @@
+PAINT 01_Face 4096 22402
+PAINT_DONE 01_Face {'resolution': 4096, 'layers': 8, 'covered_pixels': 2910043, 'overlap_pixels_interior': 1, 'overlap_percent': 3.4363753387836535e-05, 'maximum_dilation_pixels': 8}
+PAINT 02_Hands 1024 5136
+PAINT_DONE 02_Hands {'resolution': 1024, 'layers': 8, 'covered_pixels': 315586, 'overlap_pixels_interior': 0, 'overlap_percent': 0.0, 'maximum_dilation_pixels': 8}
+PAINT 03_Upper 2048 13076
+PAINT_DONE 03_Upper {'resolution': 2048, 'layers': 8, 'covered_pixels': 1624606, 'overlap_pixels_interior': 0, 'overlap_percent': 0.0, 'maximum_dilation_pixels': 8}
+PAINT 04_Scarf 1024 3084
+PAINT_DONE 04_Scarf {'resolution': 1024, 'layers': 8, 'covered_pixels': 441520, 'overlap_pixels_interior': 0, 'overlap_percent': 0.0, 'maximum_dilation_pixels': 8}
+PAINT 05_Lower 2048 6880
+PAINT_DONE 05_Lower {'resolution': 2048, 'layers': 8, 'covered_pixels': 690642, 'overlap_pixels_interior': 0, 'overlap_percent': 0.0, 'maximum_dilation_pixels': 8}
+PAINT 06_Shoes 2048 9296
+PAINT_DONE 06_Shoes {'resolution': 2048, 'layers': 8, 'covered_pixels': 814704, 'overlap_pixels_interior': 0, 'overlap_percent': 0.0, 'maximum_dilation_pixels': 8}
+PAINT 07_Hair 4096 16496
+PAINT_DONE 07_Hair {'resolution': 4096, 'layers': 8, 'covered_pixels': 1508254, 'overlap_pixels_interior': 0, 'overlap_percent': 0.0, 'maximum_dilation_pixels': 8}
+PAINT 08_EyesTeeth 2048 4800
+PAINT_DONE 08_EyesTeeth {'resolution': 2048, 'layers': 8, 'covered_pixels': 519100, 'overlap_pixels_interior': 0, 'overlap_percent': 0.0, 'maximum_dilation_pixels': 8}
+PAINT 09_Accessories 2048 7612
+PAINT_DONE 09_Accessories {'resolution': 2048, 'layers': 8, 'covered_pixels': 615876, 'overlap_pixels_interior': 0, 'overlap_percent': 0.0, 'maximum_dilation_pixels': 8}
+PAINT 10_Lute 2048 16060
+PAINT_DONE 10_Lute {'resolution': 2048, 'layers': 8, 'covered_pixels': 932865, 'overlap_pixels_interior': 6, 'overlap_percent': 0.0006431798813333119, 'maximum_dilation_pixels': 8}

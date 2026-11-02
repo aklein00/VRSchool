@@ -1,0 +1,462 @@
+{
+  "passed": true,
+  "object_count": 37,
+  "texture_png_count": 111,
+  "triangle_count": 82772,
+  "embedded_fbx_checks": [
+    {
+      "file": "fbx/objects/01_Floor_Base.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 1197005,
+      "size_bytes": 1356668
+    },
+    {
+      "file": "fbx/objects/02_Left_Stone_Wall.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 1238913,
+      "size_bytes": 1375020
+    },
+    {
+      "file": "fbx/objects/03_Arched_Window_Wall.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 1334385,
+      "size_bytes": 1475820
+    },
+    {
+      "file": "fbx/objects/04_Painted_Alpine_View.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 292441,
+      "size_bytes": 315724
+    },
+    {
+      "file": "fbx/objects/05_Upright_Piano.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 1199304,
+      "size_bytes": 1373404
+    },
+    {
+      "file": "fbx/objects/06_Piano_Score.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 305595,
+      "size_bytes": 387900
+    },
+    {
+      "file": "fbx/objects/07_Piano_Bench.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 396092,
+      "size_bytes": 440236
+    },
+    {
+      "file": "fbx/objects/08_Window_Seat.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 418252,
+      "size_bytes": 461964
+    },
+    {
+      "file": "fbx/objects/09_Seat_Cushion_1.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 98133,
+      "size_bytes": 123852
+    },
+    {
+      "file": "fbx/objects/09_Seat_Cushion_2.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 112941,
+      "size_bytes": 138620
+    },
+    {
+      "file": "fbx/objects/09_Seat_Cushion_3.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 98098,
+      "size_bytes": 123772
+    },
+    {
+      "file": "fbx/objects/10_Back_Cushion_1.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 113173,
+      "size_bytes": 140268
+    },
+    {
+      "file": "fbx/objects/10_Back_Cushion_2.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 112852,
+      "size_bytes": 139884
+    },
+    {
+      "file": "fbx/objects/10_Back_Cushion_3.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 113312,
+      "size_bytes": 140396
+    },
+    {
+      "file": "fbx/objects/11_Window_Throw.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 306732,
+      "size_bytes": 380524
+    },
+    {
+      "file": "fbx/objects/12_Practice_Stool.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 440032,
+      "size_bytes": 495532
+    },
+    {
+      "file": "fbx/objects/13_Music_Stand.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 312823,
+      "size_bytes": 383628
+    },
+    {
+      "file": "fbx/objects/14_Stand_Score.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 310038,
+      "size_bytes": 392300
+    },
+    {
+      "file": "fbx/objects/15_Rehearsal_Rug.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 235185,
+      "size_bytes": 267180
+    },
+    {
+      "file": "fbx/objects/16_Cello.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 742130,
+      "size_bytes": 895308
+    },
+    {
+      "file": "fbx/objects/17_Cello_Stand.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 72809,
+      "size_bytes": 99548
+    },
+    {
+      "file": "fbx/objects/18_Cello_Case.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 253446,
+      "size_bytes": 291980
+    },
+    {
+      "file": "fbx/objects/19_Wall_Lute.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 327651,
+      "size_bytes": 445756
+    },
+    {
+      "file": "fbx/objects/20_Tall_Bookshelf.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 410980,
+      "size_bytes": 448876
+    },
+    {
+      "file": "fbx/objects/21_Book_Group_1.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 222105,
+      "size_bytes": 280636
+    },
+    {
+      "file": "fbx/objects/21_Book_Group_2.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 240129,
+      "size_bytes": 311324
+    },
+    {
+      "file": "fbx/objects/21_Book_Group_3.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 241615,
+      "size_bytes": 312428
+    },
+    {
+      "file": "fbx/objects/21_Book_Group_4.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 221576,
+      "size_bytes": 280476
+    },
+    {
+      "file": "fbx/objects/22_Piano_Lamp.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 299631,
+      "size_bytes": 338332
+    },
+    {
+      "file": "fbx/objects/23_Woven_Basket.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 338291,
+      "size_bytes": 468444
+    },
+    {
+      "file": "fbx/objects/24_Basket_Cloth.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 156515,
+      "size_bytes": 232620
+    },
+    {
+      "file": "fbx/objects/25_Frame_Drum.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 541830,
+      "size_bytes": 609532
+    },
+    {
+      "file": "fbx/objects/26_Piano_Plant.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 342320,
+      "size_bytes": 432204
+    },
+    {
+      "file": "fbx/objects/27_Window_Plant.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 332464,
+      "size_bytes": 422252
+    },
+    {
+      "file": "fbx/objects/28_Shelf_Trailing_Plant.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 339846,
+      "size_bytes": 430028
+    },
+    {
+      "file": "fbx/objects/29_Wall_Ivy.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 127242,
+      "size_bytes": 158444
+    },
+    {
+      "file": "fbx/objects/30_Framed_Music.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 3,
+      "embedded_bytes": 144179,
+      "size_bytes": 173340
+    },
+    {
+      "file": "fbx/Rehearsal_Nook_Assembled.fbx",
+      "fbx_version": 7400,
+      "embedded_images": 111,
+      "embedded_bytes": 13990065,
+      "size_bytes": 16045420
+    }
+  ],
+  "assembled_reimport_checks": [
+    {
+      "name": "01_Floor_Base",
+      "uv_vertices": 17496,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "02_Left_Stone_Wall",
+      "uv_vertices": 13824,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "03_Arched_Window_Wall",
+      "uv_vertices": 11886,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "04_Painted_Alpine_View",
+      "uv_vertices": 66,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "05_Upright_Piano",
+      "uv_vertices": 17280,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "06_Piano_Score",
+      "uv_vertices": 4944,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "07_Piano_Bench",
+      "uv_vertices": 2328,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "08_Window_Seat",
+      "uv_vertices": 2376,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "09_Seat_Cushion_1",
+      "uv_vertices": 384,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "09_Seat_Cushion_2",
+      "uv_vertices": 384,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "09_Seat_Cushion_3",
+      "uv_vertices": 384,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "10_Back_Cushion_1",
+      "uv_vertices": 384,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "10_Back_Cushion_2",
+      "uv_vertices": 384,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "10_Back_Cushion_3",
+      "uv_vertices": 384,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "11_Window_Throw",
+      "uv_vertices": 4912,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "12_Practice_Stool",
+      "uv_vertices": 2928,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "13_Music_Stand",
+      "uv_vertices": 3756,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "14_Stand_Score",
+      "uv_vertices": 4944,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "15_Rehearsal_Rug",
+      "uv_vertices": 1080,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "16_Cello",
+      "uv_vertices": 9972,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "17_Cello_Stand",
+      "uv_vertices": 360,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "18_Cello_Case",
+      "uv_vertices": 1404,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "19_Wall_Lute",
+      "uv_vertices": 8448,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "20_Tall_Bookshelf",
+      "uv_vertices": 1728,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "21_Book_Group_1",
+      "uv_vertices": 3888,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "21_Book_Group_2",
+      "uv_vertices": 5184,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "21_Book_Group_3",
+      "uv_vertices": 5184,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "21_Book_Group_4",
+      "uv_vertices": 3888,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "22_Piano_Lamp",
+      "uv_vertices": 1392,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "23_Woven_Basket",
+      "uv_vertices": 10176,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "24_Basket_Cloth",
+      "uv_vertices": 4912,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "25_Frame_Drum",
+      "uv_vertices": 3984,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "26_Piano_Plant",
+      "uv_vertices": 4480,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "27_Window_Plant",
+      "uv_vertices": 4480,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "28_Shelf_Trailing_Plant",
+      "uv_vertices": 4480,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "29_Wall_Ivy",
+      "uv_vertices": 704,
+      "loaded_material_images": 3
+    },
+    {
+      "name": "30_Framed_Music",
+      "uv_vertices": 684,
+      "loaded_material_images": 3
+    }
+  ],
+  "standalone_piano_origin_verified": true
+}

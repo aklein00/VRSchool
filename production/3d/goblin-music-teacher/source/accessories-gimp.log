@@ -1,0 +1,16 @@
+GIMP is started as MacOS application
+GIMP was built with MacPorts
+/private/tmp/vrhs-gimp-mount/GIMP.app/Contents/MacOS/gimp-console: LibGimpBase-WARNING: gimp: gimp_wire_read(): unexpected EOF
+/private/tmp/vrhs-gimp-mount/GIMP.app/Contents/MacOS/gimp-console: LibGimpBase-WARNING: gimp: gimp_wire_read(): unexpected EOF
+
+(script-fu:56996): scriptfu-WARNING **: 17:27:28.094: script_fu_add_resource_arg declared resource name is invalid Default
+
+(script-fu:56996): scriptfu-WARNING **: 17:27:28.099: script_fu_add_resource_arg declared resource name is invalid Incandescent
+
+(script-fu:56996): scriptfu-WARNING **: 17:27:28.103: script_fu_add_resource_arg declared resource name is invalid Coffee
+GIMP-Warning: Welcome to GIMP 3.0.8!
+
+XCF_VERIFIED 09_Accessories_Paint.xcf
+batch command executed successfully
+
+(gimp:56977): GLib-GObject-CRITICAL **: 17:27:38.098: g_object_unref: assertion 'G_IS_OBJECT (object)' failed

@@ -1,0 +1,562 @@
+{
+  "01_Face": {
+    "xcf": "01_Face_Paint.xcf",
+    "width": 4096,
+    "height": 4096,
+    "reopened_in_gimp": true,
+    "layers": [
+      {
+        "name": "UV guide - HIDDEN for export",
+        "visible": false,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Your paint edits",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Selective brush strokes",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Warm facial accents",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Warm edge highlights",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Broad pigment washes",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Cool form shadows",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Base color palette",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      }
+    ]
+  },
+  "02_Hands": {
+    "xcf": "02_Hands_Paint.xcf",
+    "width": 1024,
+    "height": 1024,
+    "reopened_in_gimp": true,
+    "layers": [
+      {
+        "name": "UV guide - HIDDEN for export",
+        "visible": false,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Your paint edits",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Selective brush strokes",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Warm facial accents",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Warm edge highlights",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Broad pigment washes",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Cool form shadows",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Base color palette",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      }
+    ]
+  },
+  "03_Upper": {
+    "xcf": "03_Upper_Paint.xcf",
+    "width": 4096,
+    "height": 4096,
+    "reopened_in_gimp": true,
+    "layers": [
+      {
+        "name": "UV guide - HIDDEN for export",
+        "visible": false,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Your paint edits",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Selective brush strokes",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Warm facial accents",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Warm edge highlights",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Broad pigment washes",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Cool form shadows",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Base color palette",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      }
+    ]
+  },
+  "04_Scarf": {
+    "xcf": "04_Scarf_Paint.xcf",
+    "width": 1024,
+    "height": 1024,
+    "reopened_in_gimp": true,
+    "layers": [
+      {
+        "name": "UV guide - HIDDEN for export",
+        "visible": false,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Your paint edits",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Selective brush strokes",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Warm facial accents",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Warm edge highlights",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Broad pigment washes",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Cool form shadows",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "Base color palette",
+        "visible": true,
+        "width": 1024,
+        "height": 1024
+      }
+    ]
+  },
+  "05_Lower": {
+    "xcf": "05_Lower_Paint.xcf",
+    "width": 2048,
+    "height": 2048,
+    "reopened_in_gimp": true,
+    "layers": [
+      {
+        "name": "UV guide - HIDDEN for export",
+        "visible": false,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Your paint edits",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Selective brush strokes",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Warm facial accents",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Warm edge highlights",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Broad pigment washes",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Cool form shadows",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Base color palette",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      }
+    ]
+  },
+  "06_Shoes": {
+    "xcf": "06_Shoes_Paint.xcf",
+    "width": 2048,
+    "height": 2048,
+    "reopened_in_gimp": true,
+    "layers": [
+      {
+        "name": "UV guide - HIDDEN for export",
+        "visible": false,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Your paint edits",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Selective brush strokes",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Warm facial accents",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Warm edge highlights",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Broad pigment washes",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Cool form shadows",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Base color palette",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      }
+    ]
+  },
+  "07_Hair": {
+    "xcf": "07_Hair_Paint.xcf",
+    "width": 4096,
+    "height": 4096,
+    "reopened_in_gimp": true,
+    "layers": [
+      {
+        "name": "UV guide - HIDDEN for export",
+        "visible": false,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Your paint edits",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Selective brush strokes",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Warm facial accents",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Warm edge highlights",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Broad pigment washes",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Cool form shadows",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      },
+      {
+        "name": "Base color palette",
+        "visible": true,
+        "width": 4096,
+        "height": 4096
+      }
+    ]
+  },
+  "08_EyesTeeth": {
+    "xcf": "08_EyesTeeth_Paint.xcf",
+    "width": 2048,
+    "height": 2048,
+    "reopened_in_gimp": true,
+    "layers": [
+      {
+        "name": "UV guide - HIDDEN for export",
+        "visible": false,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Your paint edits",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Selective brush strokes",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Warm facial accents",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Warm edge highlights",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Broad pigment washes",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Cool form shadows",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Base color palette",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      }
+    ]
+  },
+  "09_Accessories": {
+    "xcf": "09_Accessories_Paint.xcf",
+    "width": 2048,
+    "height": 2048,
+    "reopened_in_gimp": true,
+    "layers": [
+      {
+        "name": "UV guide - HIDDEN for export",
+        "visible": false,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Your paint edits",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Selective brush strokes",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Warm facial accents",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Warm edge highlights",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Broad pigment washes",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Cool form shadows",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Base color palette",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      }
+    ]
+  },
+  "10_Lute": {
+    "xcf": "10_Lute_Paint.xcf",
+    "width": 2048,
+    "height": 2048,
+    "reopened_in_gimp": true,
+    "layers": [
+      {
+        "name": "UV guide - HIDDEN for export",
+        "visible": false,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Your paint edits",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Selective brush strokes",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Warm facial accents",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Warm edge highlights",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Broad pigment washes",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Cool form shadows",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "name": "Base color palette",
+        "visible": true,
+        "width": 2048,
+        "height": 2048
+      }
+    ]
+  }
+}

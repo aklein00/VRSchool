@@ -1,0 +1,7 @@
+.animation-study{max-width:360px;margin-top:30px}
+.animation-study video{display:block;width:100%;height:auto;aspect-ratio:4/7;background:#211b16;border:1px solid var(--line)}
+.animation-download{margin-top:16px}
+.animation-discipline .discipline-body>p:not(.large){font-size:15px;margin-top:22px}
+.animation-discipline .animation-planning-title{margin-top:30px}
+@media(max-width:700px){.animation-study{margin:25px auto 0}.animation-discipline .discipline-name{display:block}.animation-discipline .discipline-name>span{display:inline-block;margin-right:20px}.animation-discipline .discipline-name>h2{display:inline}}
+@media print{.animation-study video{max-height:320px;object-fit:contain}.animation-download{display:none}.animation-discipline{break-inside:auto}}

@@ -1,0 +1,138 @@
+17:34:11 | INFO: Data are loaded, start creating Blender stuff
+17:34:11 | INFO: Blender create Mesh node Sphere
+17:34:11 | INFO: Blender create Mesh node Sphere.007
+17:34:11 | INFO: Blender create Mesh node Ear.R
+17:34:11 | INFO: Blender create Mesh node Ear inset.R
+17:34:11 | INFO: Blender create Mesh node Ear helix.R
+17:34:11 | INFO: Blender create Mesh node Upper eyelid.R
+17:34:11 | INFO: Blender create Mesh node Lower eyelid.R
+17:34:11 | INFO: Blender create Mesh node Under eye crease.R
+17:34:11 | INFO: Blender create Mesh node Nostril.R
+17:34:11 | INFO: Blender create Mesh node Ear.L
+17:34:11 | INFO: Blender create Mesh node Ear inset.L
+17:34:11 | INFO: Blender create Mesh node Ear helix.L
+17:34:11 | INFO: Blender create Mesh node Upper eyelid.L
+17:34:11 | INFO: Blender create Mesh node Lower eyelid.L
+17:34:11 | INFO: Blender create Mesh node Under eye crease.L
+17:34:11 | INFO: Blender create Mesh node Nostril.L
+17:34:11 | INFO: Blender create Mesh node Smile crease
+17:34:11 | INFO: Blender create Mesh node Lower lip
+17:34:11 | INFO: Blender create Mesh node Waistcoat torso
+17:34:11 | INFO: Blender create Mesh node Waistcoat pointed hem
+17:34:11 | INFO: Blender create Mesh node Coat front.R
+17:34:11 | INFO: Blender create Mesh node Lapel.R
+17:34:11 | INFO: Blender create Mesh node Coat tail.R
+17:34:11 | INFO: Blender create Mesh node Coat sleeve.R
+17:34:11 | INFO: Blender create Mesh node Turned cuff.R
+17:34:11 | INFO: Blender create Mesh node Coat front.L
+17:34:11 | INFO: Blender create Mesh node Lapel.L
+17:34:11 | INFO: Blender create Mesh node Coat tail.L
+17:34:11 | INFO: Blender create Mesh node Coat sleeve.L
+17:34:11 | INFO: Blender create Mesh node Turned cuff.L
+17:34:11 | INFO: Blender create Mesh node Scarf wrap
+17:34:11 | INFO: Blender create Mesh node Scarf fold 0
+17:34:11 | INFO: Blender create Mesh node Scarf fold 1
+17:34:11 | INFO: Blender create Mesh node Scarf fold 2
+17:34:11 | INFO: Blender create Mesh node Scarf hanging end
+17:34:11 | INFO: Blender create Mesh node Shirt collar
+17:34:11 | INFO: Blender create Mesh node Shirt collar.001
+17:34:11 | INFO: Blender create Mesh node Coat back
+17:34:11 | INFO: Blender create Mesh node Breeches.R
+17:34:11 | INFO: Blender create Mesh node Breeches knee band.R
+17:34:11 | INFO: Blender create Mesh node Stocking.R
+17:34:11 | INFO: Blender create Mesh node Stocking knit.R0
+17:34:11 | INFO: Blender create Mesh node Stocking knit.R1
+17:34:11 | INFO: Blender create Mesh node Stocking knit.R2
+17:34:11 | INFO: Blender create Mesh node Stocking knit.R3
+17:34:11 | INFO: Blender create Mesh node Breeches.L
+17:34:11 | INFO: Blender create Mesh node Breeches knee band.L
+17:34:11 | INFO: Blender create Mesh node Stocking.L
+17:34:11 | INFO: Blender create Mesh node Stocking knit.L0
+17:34:11 | INFO: Blender create Mesh node Stocking knit.L1
+17:34:11 | INFO: Blender create Mesh node Stocking knit.L2
+17:34:11 | INFO: Blender create Mesh node Stocking knit.L3
+17:34:11 | INFO: Blender create Mesh node Shoe upper.R
+17:34:11 | INFO: Blender create Mesh node Shoe sole.R
+17:34:11 | INFO: Blender create Mesh node Boot ankle.R
+17:34:11 | INFO: Blender create Mesh node Boot turned cuff.R
+17:34:11 | INFO: Blender create Mesh node Boot lace.R0
+17:34:11 | INFO: Blender create Mesh node Boot lace.R1
+17:34:11 | INFO: Blender create Mesh node Boot lace.R2
+17:34:11 | INFO: Blender create Mesh node Shoe upper.L
+17:34:11 | INFO: Blender create Mesh node Shoe sole.L
+17:34:11 | INFO: Blender create Mesh node Boot ankle.L
+17:34:11 | INFO: Blender create Mesh node Boot turned cuff.L
+17:34:11 | INFO: Blender create Mesh node Boot lace.L0
+17:34:11 | INFO: Blender create Mesh node Boot lace.L1
+17:34:11 | INFO: Blender create Mesh node Boot lace.L2
+17:34:11 | INFO: Blender create Mesh node Sphere.023
+17:34:11 | INFO: Blender create Mesh node Sphere.032
+17:34:11 | INFO: Blender create Mesh node Sphere.008
+17:34:11 | INFO: Blender create Mesh node Sphere.012
+17:34:11 | INFO: Blender create Mesh node Fang.R1
+17:34:11 | INFO: Blender create Mesh node Fang.R2
+17:34:11 | INFO: Blender create Mesh node Fang.L1
+17:34:11 | INFO: Blender create Mesh node Fang.L2
+17:34:11 | INFO: Blender create Mesh node Hair cap
+17:34:11 | INFO: Blender create Mesh node Swept forelock 00
+17:34:11 | INFO: Blender create Mesh node Hair brush ridge 00
+17:34:11 | INFO: Blender create Mesh node Swept forelock 01
+17:34:11 | INFO: Blender create Mesh node Hair brush ridge 01
+17:34:11 | INFO: Blender create Mesh node Swept forelock 02
+17:34:11 | INFO: Blender create Mesh node Hair brush ridge 02
+17:34:11 | INFO: Blender create Mesh node Swept forelock 03
+17:34:11 | INFO: Blender create Mesh node Hair brush ridge 03
+17:34:11 | INFO: Blender create Mesh node Swept forelock 04
+17:34:11 | INFO: Blender create Mesh node Hair brush ridge 04
+17:34:11 | INFO: Blender create Mesh node Temple lock.R0
+17:34:11 | INFO: Blender create Mesh node Temple lock.R1
+17:34:11 | INFO: Blender create Mesh node Temple lock.R2
+17:34:11 | INFO: Blender create Mesh node Temple lock.L0
+17:34:11 | INFO: Blender create Mesh node Temple lock.L1
+17:34:11 | INFO: Blender create Mesh node Temple lock.L2
+17:34:11 | INFO: Blender create Mesh node Eyebrow.R
+17:34:11 | INFO: Blender create Mesh node Eyebrow.L
+17:34:11 | INFO: Blender create Mesh node Sphere.016
+17:34:12 | INFO: Blender create Mesh node Sphere.017
+17:34:12 | INFO: Blender create Mesh node Sphere.018
+17:34:12 | INFO: Blender create Mesh node Sphere.019
+17:34:12 | INFO: Blender create Mesh node Sphere.020
+17:34:12 | INFO: Blender create Mesh node Sphere.021
+17:34:12 | INFO: Blender create Mesh node Sphere.022
+17:34:12 | INFO: Blender create Mesh node Sphere.028
+17:34:12 | INFO: Blender create Mesh node Sphere.029
+17:34:12 | INFO: Blender create Mesh node Sphere.030
+17:34:12 | INFO: Blender create Mesh node Sphere.031
+17:34:12 | INFO: Blender create Mesh node Sphere.037
+17:34:12 | INFO: Blender create Mesh node Torus
+17:34:12 | INFO: Blender create Mesh node Torus.001
+17:34:12 | INFO: Blender create Mesh node Sphere.038
+17:34:12 | INFO: Blender create Mesh node Torus.002
+17:34:12 | INFO: Blender create Mesh node Torus.003
+17:34:12 | INFO: Blender create Mesh node Torus.004
+17:34:12 | INFO: Blender create Mesh node Sphere.039
+17:34:12 | INFO: Blender create Mesh node Torus.005
+17:34:12 | INFO: Blender create Mesh node Lute shoulder strap
+17:34:12 | INFO: Blender create Mesh node Belt tab
+17:34:12 | INFO: Blender create Mesh node Torus.006
+17:34:12 | INFO: Blender create Mesh node Lute bowl
+17:34:12 | INFO: Blender create Mesh node Lute soundboard
+17:34:12 | INFO: Blender create Mesh node Lute binding
+17:34:12 | INFO: Blender create Mesh node Sphere.040
+17:34:12 | INFO: Blender create Mesh node Torus.007
+17:34:12 | INFO: Blender create Mesh node Rosette carved spoke
+17:34:12 | INFO: Blender create Mesh node Lute neck
+17:34:12 | INFO: Blender create Mesh node Lute fingerboard
+17:34:12 | INFO: Blender create Mesh node Lute peghead
+17:34:12 | INFO: Blender create Mesh node Lute bridge
+17:34:12 | INFO: Blender create Mesh node Lute fret
+17:34:12 | INFO: Blender create Mesh node Lute string
+17:34:12 | INFO: Blender create Mesh node Lute peg stem
+17:34:12 | INFO: Blender create Mesh node Sphere.041
+17:34:12 | INFO: glTF import finished in 0.43s
+FBX version: 7400
+VALIDATION_PASSED
+Blender 4.5.10 LTS (hash 6dc0b208d1b5 built 2026-05-19 01:45:15)
+Read blend: "/Users/arthurklein/Documents/Work/2026Nov/VR HS/production/3d/goblin-music-teacher/Goblin_Music_Teacher.blend"
+
+Blender quit

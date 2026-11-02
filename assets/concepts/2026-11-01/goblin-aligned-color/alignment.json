@@ -1,0 +1,77 @@
+{
+  "canvas": [
+    1024,
+    1024
+  ],
+  "landmark_rows": {
+    "ear_tip": 100,
+    "shoulder": 360,
+    "waist": 550,
+    "knee_cuff_bottom": 768,
+    "boot_cuff_top": 830,
+    "boot_sole_bottom": 944
+  },
+  "method": "Manual anatomical landmark placement; monotonic piecewise vertical registration with a uniform horizontal scale; white exterior cleanup. These are aligned concept references, not measured orthographic geometry.",
+  "views": {
+    "front": {
+      "source_rows": [
+        43,
+        389,
+        650,
+        960,
+        1030,
+        1202
+      ],
+      "target_rows": [
+        100,
+        360,
+        550,
+        768,
+        830,
+        944
+      ],
+      "horizontal_scale": 0.728213977566868,
+      "source_center_x": 611.0
+    },
+    "left_side": {
+      "source_rows": [
+        35,
+        354,
+        635,
+        963,
+        1030,
+        1214
+      ],
+      "target_rows": [
+        100,
+        360,
+        550,
+        768,
+        830,
+        944
+      ],
+      "horizontal_scale": 0.7158608990670059,
+      "source_center_x": 641.0
+    },
+    "back": {
+      "source_rows": [
+        43,
+        389,
+        580,
+        960,
+        1030,
+        1192
+      ],
+      "target_rows": [
+        100,
+        360,
+        550,
+        768,
+        830,
+        944
+      ],
+      "horizontal_scale": 0.7345517841601392,
+      "source_center_x": 622.5
+    }
+  }
+}

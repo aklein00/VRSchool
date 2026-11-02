@@ -1,0 +1,1538 @@
+{
+  "height_m": 1.4735348927788436,
+  "atlases": {
+    "01_Face": {
+      "resolution": 4096,
+      "target_px_per_m": 2048,
+      "measured_px_per_m": 2048,
+      "surface_m2": 0.6938483590953419,
+      "uv_coverage_percent": 17.346208977383547,
+      "packing_margin_px": 10.0903081286055,
+      "objects": [
+        "Ear helix.L",
+        "Ear helix.R",
+        "Ear inset.L",
+        "Ear inset.R",
+        "Ear.L",
+        "Ear.R",
+        "Head | sculpted face",
+        "Lower eyelid.L",
+        "Lower eyelid.R",
+        "Lower lip",
+        "Neck",
+        "Nostril.L",
+        "Nostril.R",
+        "Smile crease",
+        "Under eye crease.L",
+        "Under eye crease.R",
+        "Upper eyelid.L",
+        "Upper eyelid.R"
+      ]
+    },
+    "02_Hands": {
+      "resolution": 1024,
+      "target_px_per_m": 2048,
+      "measured_px_per_m": 2048,
+      "surface_m2": 0.0752366815561345,
+      "uv_coverage_percent": 30.0946726224538,
+      "packing_margin_px": 3.3436375930337516,
+      "objects": [
+        "Hand.L | five fingers and nails",
+        "Hand.R | five fingers and nails"
+      ]
+    },
+    "03_Upper": {
+      "resolution": 4096,
+      "target_px_per_m": 1024,
+      "measured_px_per_m": 1024,
+      "surface_m2": 1.8556608663881207,
+      "uv_coverage_percent": 11.59788073719561,
+      "packing_margin_px": 8.59210815617924,
+      "objects": [
+        "Coat back",
+        "Coat front.L",
+        "Coat front.R",
+        "Coat sleeve.L",
+        "Coat sleeve.R",
+        "Coat tail.L",
+        "Coat tail.R",
+        "Lapel.L",
+        "Lapel.R",
+        "Shirt collar",
+        "Shirt collar.001",
+        "Turned cuff.L",
+        "Turned cuff.R",
+        "Waistcoat pointed hem",
+        "Waistcoat torso"
+      ]
+    },
+    "04_Scarf": {
+      "resolution": 1024,
+      "target_px_per_m": 1536,
+      "measured_px_per_m": 1536,
+      "surface_m2": 0.18706481346242754,
+      "uv_coverage_percent": 42.089583029046196,
+      "packing_margin_px": 3.691626705109184,
+      "objects": [
+        "Scarf fold 0",
+        "Scarf fold 1",
+        "Scarf fold 2",
+        "Scarf hanging end",
+        "Scarf wrap"
+      ]
+    },
+    "05_Lower": {
+      "resolution": 2048,
+      "target_px_per_m": 1024,
+      "measured_px_per_m": 1024,
+      "surface_m2": 0.6524192415761263,
+      "uv_coverage_percent": 16.31047973730233,
+      "packing_margin_px": 4.574784815707524,
+      "objects": [
+        "Breeches knee band.L",
+        "Breeches knee band.R",
+        "Breeches.L",
+        "Breeches.R",
+        "Stocking knit.L0",
+        "Stocking knit.L1",
+        "Stocking knit.L2",
+        "Stocking knit.L3",
+        "Stocking knit.R0",
+        "Stocking knit.R1",
+        "Stocking knit.R2",
+        "Stocking knit.R3",
+        "Stocking.L",
+        "Stocking.R"
+      ]
+    },
+    "06_Shoes": {
+      "resolution": 2048,
+      "target_px_per_m": 1536,
+      "measured_px_per_m": 1536,
+      "surface_m2": 0.34539270235451225,
+      "uv_coverage_percent": 19.42833950744131,
+      "packing_margin_px": 5.398500293441691,
+      "objects": [
+        "Boot ankle.L",
+        "Boot ankle.R",
+        "Boot lace.L0",
+        "Boot lace.L1",
+        "Boot lace.L2",
+        "Boot lace.R0",
+        "Boot lace.R1",
+        "Boot lace.R2",
+        "Boot turned cuff.L",
+        "Boot turned cuff.R",
+        "Shoe sole.L",
+        "Shoe sole.R",
+        "Shoe upper.L",
+        "Shoe upper.R"
+      ]
+    },
+    "07_Hair": {
+      "resolution": 4096,
+      "target_px_per_m": 1536,
+      "measured_px_per_m": 1536,
+      "surface_m2": 0.6392961905581842,
+      "uv_coverage_percent": 8.990102679724464,
+      "packing_margin_px": 8.167600997642857,
+      "objects": [
+        "Eyebrow.L",
+        "Eyebrow.R",
+        "Hair brush ridge 00",
+        "Hair brush ridge 01",
+        "Hair brush ridge 02",
+        "Hair brush ridge 03",
+        "Hair brush ridge 04",
+        "Hair cap",
+        "Swept forelock 00",
+        "Swept forelock 01",
+        "Swept forelock 02",
+        "Swept forelock 03",
+        "Swept forelock 04",
+        "Temple lock.L0",
+        "Temple lock.L1",
+        "Temple lock.L2",
+        "Temple lock.R0",
+        "Temple lock.R1",
+        "Temple lock.R2"
+      ]
+    },
+    "08_EyesTeeth": {
+      "resolution": 2048,
+      "target_px_per_m": 4096,
+      "measured_px_per_m": 4096,
+      "surface_m2": 0.030946034233981123,
+      "uv_coverage_percent": 12.378413693592451,
+      "packing_margin_px": 4.05245461020813,
+      "objects": [
+        "Eye.L | globe iris pupil",
+        "Eye.R | globe iris pupil",
+        "Fang.L1",
+        "Fang.L2",
+        "Fang.R1",
+        "Fang.R2"
+      ]
+    },
+    "09_Accessories": {
+      "resolution": 2048,
+      "target_px_per_m": 2048,
+      "measured_px_per_m": 2048,
+      "surface_m2": 0.1527120975846401,
+      "uv_coverage_percent": 15.271209758464007,
+      "packing_margin_px": 5.985593336347046,
+      "objects": [
+        "Belt ring",
+        "Belt tab",
+        "Boot buckle.L",
+        "Boot buckle.R",
+        "Coat front button.L",
+        "Coat front button.R",
+        "Cuff button.L0",
+        "Cuff button.L1",
+        "Cuff button.R0",
+        "Cuff button.R1",
+        "Ear hoop.L0",
+        "Ear hoop.L1",
+        "Ear hoop.R0",
+        "Ear hoop.R1",
+        "Ear pendant.L",
+        "Ear pendant.R",
+        "Ear stud.L",
+        "Ear stud.R",
+        "Lute shoulder strap",
+        "Waistcoat button",
+        "Waistcoat button.001",
+        "Waistcoat button.002",
+        "Waistcoat button.003"
+      ]
+    },
+    "10_Lute": {
+      "resolution": 2048,
+      "target_px_per_m": 2048,
+      "measured_px_per_m": 2048,
+      "surface_m2": 0.2227957286013691,
+      "uv_coverage_percent": 22.279572860136913,
+      "packing_margin_px": 6.322272890236571,
+      "objects": [
+        "Lute binding",
+        "Lute bowl",
+        "Lute bridge",
+        "Lute fingerboard",
+        "Lute frets",
+        "Lute neck",
+        "Lute peg stems",
+        "Lute peghead",
+        "Lute rosette",
+        "Lute rosette carving",
+        "Lute soundboard",
+        "Lute soundhole",
+        "Lute strings",
+        "Lute tuning pegs"
+      ]
+    }
+  },
+  "objects": [
+    {
+      "name": "Ear helix.L",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 200,
+      "triangles": 384,
+      "surface_m2": 0.011688752409099834,
+      "uv_area": 0.0029221900190350425,
+      "texel_density_px_per_m": 2048.0006716754483
+    },
+    {
+      "name": "Ear helix.R",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 200,
+      "triangles": 384,
+      "surface_m2": 0.011688752048939932,
+      "uv_area": 0.0029221871020581602,
+      "texel_density_px_per_m": 2047.999681053671
+    },
+    {
+      "name": "Ear inset.L",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 54,
+      "triangles": 104,
+      "surface_m2": 0.023995003192027742,
+      "uv_area": 0.00599875015943363,
+      "texel_density_px_per_m": 2047.9998909941246
+    },
+    {
+      "name": "Ear inset.R",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 54,
+      "triangles": 104,
+      "surface_m2": 0.023995003192027742,
+      "uv_area": 0.00599874735416428,
+      "texel_density_px_per_m": 2047.999412128374
+    },
+    {
+      "name": "Ear.L",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 282,
+      "triangles": 560,
+      "surface_m2": 0.06265260647705873,
+      "uv_area": 0.015663156569644343,
+      "texel_density_px_per_m": 2048.0003236378284
+    },
+    {
+      "name": "Ear.R",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 282,
+      "triangles": 560,
+      "surface_m2": 0.06265260647705873,
+      "uv_area": 0.015663154069443408,
+      "texel_density_px_per_m": 2048.0001601837853
+    },
+    {
+      "name": "Head | sculpted face",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 8131,
+      "triangles": 16258,
+      "surface_m2": 0.36799696312147034,
+      "uv_area": 0.09199925839126877,
+      "texel_density_px_per_m": 2048.000196018595
+    },
+    {
+      "name": "Lower eyelid.L",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 200,
+      "triangles": 384,
+      "surface_m2": 0.0032970311331155244,
+      "uv_area": 0.0008242568742389267,
+      "texel_density_px_per_m": 2047.9988706722718
+    },
+    {
+      "name": "Lower eyelid.R",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 200,
+      "triangles": 384,
+      "surface_m2": 0.003297030099929543,
+      "uv_area": 0.0008242567369620701,
+      "texel_density_px_per_m": 2047.9990210183448
+    },
+    {
+      "name": "Lower lip",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0033156506897285,
+      "uv_area": 0.0008289121053621784,
+      "texel_density_px_per_m": 2047.999299468154
+    },
+    {
+      "name": "Neck",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 362,
+      "triangles": 720,
+      "surface_m2": 0.09937514054945495,
+      "uv_area": 0.0248437873410694,
+      "texel_density_px_per_m": 2048.0000908313505
+    },
+    {
+      "name": "Nostril.L",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0007025340757991216,
+      "uv_area": 0.00017563292871614067,
+      "texel_density_px_per_m": 2047.9965587448312
+    },
+    {
+      "name": "Nostril.R",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0007025340059954033,
+      "uv_area": 0.00017563326321123895,
+      "texel_density_px_per_m": 2047.9986107058435
+    },
+    {
+      "name": "Smile crease",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 264,
+      "triangles": 512,
+      "surface_m2": 0.005487349270424602,
+      "uv_area": 0.0013718368483068843,
+      "texel_density_px_per_m": 2047.9996496942579
+    },
+    {
+      "name": "Under eye crease.L",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0009815852465635544,
+      "uv_area": 0.00024539665207612416,
+      "texel_density_px_per_m": 2048.001420581907
+    },
+    {
+      "name": "Under eye crease.R",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0009815853395593876,
+      "uv_area": 0.0002453964390838337,
+      "texel_density_px_per_m": 2048.0004347849417
+    },
+    {
+      "name": "Upper eyelid.L",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 200,
+      "triangles": 384,
+      "surface_m2": 0.005519115477000014,
+      "uv_area": 0.0013797799367694097,
+      "texel_density_px_per_m": 2048.00079225714
+    },
+    {
+      "name": "Upper eyelid.R",
+      "category": "01 Head",
+      "atlas": "01_Face",
+      "vertices": 200,
+      "triangles": 384,
+      "surface_m2": 0.005519116290088277,
+      "uv_area": 0.0013797793576486583,
+      "texel_density_px_per_m": 2048.000211606059
+    },
+    {
+      "name": "Hand.L | five fingers and nails",
+      "category": "05 Hands",
+      "atlas": "02_Hands",
+      "vertices": 1304,
+      "triangles": 2568,
+      "surface_m2": 0.03761965602484452,
+      "uv_area": 0.15047862894311947,
+      "texel_density_px_per_m": 2048.0000329614336
+    },
+    {
+      "name": "Hand.R | five fingers and nails",
+      "category": "05 Hands",
+      "atlas": "02_Hands",
+      "vertices": 1304,
+      "triangles": 2568,
+      "surface_m2": 0.03761702553128998,
+      "uv_area": 0.15046812265131848,
+      "texel_density_px_per_m": 2048.000139689312
+    },
+    {
+      "name": "Scarf fold 0",
+      "category": "02 Upper body",
+      "atlas": "04_Scarf",
+      "vertices": 264,
+      "triangles": 512,
+      "surface_m2": 0.0066712737307170755,
+      "uv_area": 0.015010359862571931,
+      "texel_density_px_per_m": 1535.9996913983068
+    },
+    {
+      "name": "Scarf fold 1",
+      "category": "02 Upper body",
+      "atlas": "04_Scarf",
+      "vertices": 264,
+      "triangles": 512,
+      "surface_m2": 0.006671274747532152,
+      "uv_area": 0.015010371866083005,
+      "texel_density_px_per_m": 1536.0001884974427
+    },
+    {
+      "name": "Scarf fold 2",
+      "category": "02 Upper body",
+      "atlas": "04_Scarf",
+      "vertices": 264,
+      "triangles": 512,
+      "surface_m2": 0.006671274375548819,
+      "uv_area": 0.015010373850600445,
+      "texel_density_px_per_m": 1536.0003328574262
+    },
+    {
+      "name": "Scarf hanging end",
+      "category": "02 Upper body",
+      "atlas": "04_Scarf",
+      "vertices": 56,
+      "triangles": 108,
+      "surface_m2": 0.013167046106616453,
+      "uv_area": 0.029625865567709297,
+      "texel_density_px_per_m": 1536.000306616197
+    },
+    {
+      "name": "Scarf wrap",
+      "category": "02 Upper body",
+      "atlas": "04_Scarf",
+      "vertices": 722,
+      "triangles": 1440,
+      "surface_m2": 0.15388394450201304,
+      "uv_area": 0.3462388460538932,
+      "texel_density_px_per_m": 1535.999935506696
+    },
+    {
+      "name": "Breeches knee band.L",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 242,
+      "triangles": 480,
+      "surface_m2": 0.03550678895589954,
+      "uv_area": 0.008876696458173683,
+      "texel_density_px_per_m": 1023.9999549640803
+    },
+    {
+      "name": "Breeches knee band.R",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 242,
+      "triangles": 480,
+      "surface_m2": 0.03550679151703662,
+      "uv_area": 0.00887669745770836,
+      "texel_density_px_per_m": 1023.9999756853266
+    },
+    {
+      "name": "Breeches.L",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 578,
+      "triangles": 1152,
+      "surface_m2": 0.24157283082604408,
+      "uv_area": 0.06039320350646449,
+      "texel_density_px_per_m": 1023.9999643929517
+    },
+    {
+      "name": "Breeches.R",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 578,
+      "triangles": 1152,
+      "surface_m2": 0.24157359964010539,
+      "uv_area": 0.06039339514791209,
+      "texel_density_px_per_m": 1023.9999596279965
+    },
+    {
+      "name": "Stocking knit.L0",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0006990860611040262,
+      "uv_area": 0.00017477190834824796,
+      "texel_density_px_per_m": 1024.0011515198808
+    },
+    {
+      "name": "Stocking knit.L1",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0006990861329541076,
+      "uv_area": 0.00017477214134942187,
+      "texel_density_px_per_m": 1024.0017814829546
+    },
+    {
+      "name": "Stocking knit.L2",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0006990861397753179,
+      "uv_area": 0.0001747709292772015,
+      "texel_density_px_per_m": 1023.9982256745511
+    },
+    {
+      "name": "Stocking knit.L3",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0006990862759721495,
+      "uv_area": 0.00017477087493489307,
+      "texel_density_px_per_m": 1023.9979667280855
+    },
+    {
+      "name": "Stocking knit.R0",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0006990857255004812,
+      "uv_area": 0.00017477180375635726,
+      "texel_density_px_per_m": 1024.0010909053628
+    },
+    {
+      "name": "Stocking knit.R1",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0006990860911173513,
+      "uv_area": 0.0001747709792994101,
+      "texel_density_px_per_m": 1023.9984078530936
+    },
+    {
+      "name": "Stocking knit.R2",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0006990858012159151,
+      "uv_area": 0.0001747708051311747,
+      "texel_density_px_per_m": 1023.9981099385514
+    },
+    {
+      "name": "Stocking knit.R3",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.000699086230042667,
+      "uv_area": 0.0001747713183135602,
+      "texel_density_px_per_m": 1023.9992992626363
+    },
+    {
+      "name": "Stocking.L",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 202,
+      "triangles": 400,
+      "surface_m2": 0.04633318310516188,
+      "uv_area": 0.011583294045522052,
+      "texel_density_px_per_m": 1023.9999234972947
+    },
+    {
+      "name": "Stocking.R",
+      "category": "03 Lower body",
+      "atlas": "05_Lower",
+      "vertices": 202,
+      "triangles": 400,
+      "surface_m2": 0.04633335907419678,
+      "uv_area": 0.011583339996832365,
+      "texel_density_px_per_m": 1024.000010090439
+    },
+    {
+      "name": "Boot ankle.L",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 202,
+      "triangles": 400,
+      "surface_m2": 0.03281042077287566,
+      "uv_area": 0.018455865446412645,
+      "texel_density_px_per_m": 1536.0001565336006
+    },
+    {
+      "name": "Boot ankle.R",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 202,
+      "triangles": 400,
+      "surface_m2": 0.0328104203363182,
+      "uv_area": 0.018455861510119576,
+      "texel_density_px_per_m": 1536.0000029520363
+    },
+    {
+      "name": "Boot lace.L0",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0009583707271758612,
+      "uv_area": 0.0005390840777863559,
+      "texel_density_px_per_m": 1536.000774647745
+    },
+    {
+      "name": "Boot lace.L1",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0009583709338585322,
+      "uv_area": 0.0005390834770651054,
+      "texel_density_px_per_m": 1535.9997532091809
+    },
+    {
+      "name": "Boot lace.L2",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0009583707908404904,
+      "uv_area": 0.0005390832346847674,
+      "texel_density_px_per_m": 1535.999522513308
+    },
+    {
+      "name": "Boot lace.R0",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0009583709427261056,
+      "uv_area": 0.000539084111323973,
+      "texel_density_px_per_m": 1536.0006496933383
+    },
+    {
+      "name": "Boot lace.R1",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0009583710600509221,
+      "uv_area": 0.0005390839198753383,
+      "texel_density_px_per_m": 1536.0002829286834
+    },
+    {
+      "name": "Boot lace.R2",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0009583710516380961,
+      "uv_area": 0.0005390834904801522,
+      "texel_density_px_per_m": 1535.9996779370003
+    },
+    {
+      "name": "Boot turned cuff.L",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 70,
+      "triangles": 136,
+      "surface_m2": 0.010144810039326428,
+      "uv_area": 0.005706458986033169,
+      "texel_density_px_per_m": 1536.0004493654628
+    },
+    {
+      "name": "Boot turned cuff.R",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 70,
+      "triangles": 136,
+      "surface_m2": 0.010144810039326428,
+      "uv_area": 0.00570646015358367,
+      "texel_density_px_per_m": 1536.0006064995107
+    },
+    {
+      "name": "Shoe sole.L",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 266,
+      "triangles": 528,
+      "surface_m2": 0.054586315523351914,
+      "uv_area": 0.03070481091322108,
+      "texel_density_px_per_m": 1536.0002108877047
+    },
+    {
+      "name": "Shoe sole.R",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 266,
+      "triangles": 528,
+      "surface_m2": 0.05453269902977809,
+      "uv_area": 0.030674641958967186,
+      "texel_density_px_per_m": 1535.9999688218918
+    },
+    {
+      "name": "Shoe upper.L",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 1410,
+      "triangles": 2816,
+      "surface_m2": 0.07232134915284405,
+      "uv_area": 0.04068075867758125,
+      "texel_density_px_per_m": 1535.9999958298165
+    },
+    {
+      "name": "Shoe upper.R",
+      "category": "04 Shoes",
+      "atlas": "06_Shoes",
+      "vertices": 1410,
+      "triangles": 2816,
+      "surface_m2": 0.07229165195440146,
+      "uv_area": 0.040664048109533724,
+      "texel_density_px_per_m": 1535.9998845127523
+    },
+    {
+      "name": "Eyebrow.L",
+      "category": "09 Eyebrows",
+      "atlas": "07_Hair",
+      "vertices": 146,
+      "triangles": 288,
+      "surface_m2": 0.0069020498031022726,
+      "uv_area": 0.0009706008270597977,
+      "texel_density_px_per_m": 1536.0000581566394
+    },
+    {
+      "name": "Eyebrow.R",
+      "category": "09 Eyebrows",
+      "atlas": "07_Hair",
+      "vertices": 146,
+      "triangles": 288,
+      "surface_m2": 0.006902537285668586,
+      "uv_area": 0.0009706715694619561,
+      "texel_density_px_per_m": 1536.0017910255851
+    },
+    {
+      "name": "Hair brush ridge 00",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.001465791795453697,
+      "uv_area": 0.00020612645676010288,
+      "texel_density_px_per_m": 1535.9980831354362
+    },
+    {
+      "name": "Hair brush ridge 01",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0014657899996564083,
+      "uv_area": 0.00020612469057823546,
+      "texel_density_px_per_m": 1535.9924434704608
+    },
+    {
+      "name": "Hair brush ridge 02",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0014657962806268188,
+      "uv_area": 0.00020612617737469918,
+      "texel_density_px_per_m": 1535.9946921915969
+    },
+    {
+      "name": "Hair brush ridge 03",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0014657937681477051,
+      "uv_area": 0.0002061282139038667,
+      "texel_density_px_per_m": 1536.003596406368
+    },
+    {
+      "name": "Hair brush ridge 04",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 136,
+      "triangles": 256,
+      "surface_m2": 0.0014657939464086667,
+      "uv_area": 0.00020612759368532352,
+      "texel_density_px_per_m": 1536.0011921668233
+    },
+    {
+      "name": "Hair cap",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 2880,
+      "triangles": 5760,
+      "surface_m2": 0.3888169766481724,
+      "uv_area": 0.05467738409100065,
+      "texel_density_px_per_m": 1535.999954348328
+    },
+    {
+      "name": "Swept forelock 00",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 722,
+      "triangles": 1440,
+      "surface_m2": 0.029952748655887262,
+      "uv_area": 0.004212105669395783,
+      "texel_density_px_per_m": 1536.0000710476377
+    },
+    {
+      "name": "Swept forelock 01",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 722,
+      "triangles": 1440,
+      "surface_m2": 0.029835996362976402,
+      "uv_area": 0.004195687983724383,
+      "texel_density_px_per_m": 1536.0001821629762
+    },
+    {
+      "name": "Swept forelock 02",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 722,
+      "triangles": 1440,
+      "surface_m2": 0.029735173231642875,
+      "uv_area": 0.004181507458540068,
+      "texel_density_px_per_m": 1535.9997654294668
+    },
+    {
+      "name": "Swept forelock 03",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 722,
+      "triangles": 1440,
+      "surface_m2": 0.029650709021325383,
+      "uv_area": 0.004169633538978701,
+      "texel_density_px_per_m": 1536.0004757332758
+    },
+    {
+      "name": "Swept forelock 04",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 722,
+      "triangles": 1440,
+      "surface_m2": 0.02958283619523172,
+      "uv_area": 0.004160088172028509,
+      "texel_density_px_per_m": 1536.000338221998
+    },
+    {
+      "name": "Temple lock.L0",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 142,
+      "triangles": 280,
+      "surface_m2": 0.012697484406999138,
+      "uv_area": 0.001785585173081472,
+      "texel_density_px_per_m": 1536.0006143483595
+    },
+    {
+      "name": "Temple lock.L1",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 142,
+      "triangles": 280,
+      "surface_m2": 0.013404364975031058,
+      "uv_area": 0.0018849882229687864,
+      "texel_density_px_per_m": 1535.9997548720942
+    },
+    {
+      "name": "Temple lock.L2",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 142,
+      "triangles": 280,
+      "surface_m2": 0.014189568643359962,
+      "uv_area": 0.0019954054688469114,
+      "texel_density_px_per_m": 1535.9989909787782
+    },
+    {
+      "name": "Temple lock.R0",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 142,
+      "triangles": 280,
+      "surface_m2": 0.012698701848421479,
+      "uv_area": 0.0017857574746358296,
+      "texel_density_px_per_m": 1536.0010868737133
+    },
+    {
+      "name": "Temple lock.R1",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 142,
+      "triangles": 280,
+      "surface_m2": 0.013406147063960816,
+      "uv_area": 0.0018852386374419439,
+      "texel_density_px_per_m": 1535.9996767771725
+    },
+    {
+      "name": "Temple lock.R2",
+      "category": "08 Hair",
+      "atlas": "07_Hair",
+      "vertices": 142,
+      "triangles": 280,
+      "surface_m2": 0.01419193062611157,
+      "uv_area": 0.001995741715177246,
+      "texel_density_px_per_m": 1536.0005660234945
+    },
+    {
+      "name": "Eye.L | globe iris pupil",
+      "category": "06 Eyes",
+      "atlas": "08_EyesTeeth",
+      "vertices": 1152,
+      "triangles": 2288,
+      "surface_m2": 0.012119288706983866,
+      "uv_area": 0.04847715327682067,
+      "texel_density_px_per_m": 4095.9999344705125
+    },
+    {
+      "name": "Eye.R | globe iris pupil",
+      "category": "06 Eyes",
+      "atlas": "08_EyesTeeth",
+      "vertices": 1152,
+      "triangles": 2288,
+      "surface_m2": 0.01211928867695633,
+      "uv_area": 0.04847716229463117,
+      "texel_density_px_per_m": 4096.000320517528
+    },
+    {
+      "name": "Fang.L1",
+      "category": "07 Teeth",
+      "atlas": "08_EyesTeeth",
+      "vertices": 30,
+      "triangles": 56,
+      "surface_m2": 0.002059177432510495,
+      "uv_area": 0.008236708671731208,
+      "texel_density_px_per_m": 4095.999736858454
+    },
+    {
+      "name": "Fang.L2",
+      "category": "07 Teeth",
+      "atlas": "08_EyesTeeth",
+      "vertices": 30,
+      "triangles": 56,
+      "surface_m2": 0.0012945904791692442,
+      "uv_area": 0.005178364250781442,
+      "texel_density_px_per_m": 4096.000923119219
+    },
+    {
+      "name": "Fang.R1",
+      "category": "07 Teeth",
+      "atlas": "08_EyesTeeth",
+      "vertices": 30,
+      "triangles": 56,
+      "surface_m2": 0.0020592354719646266,
+      "uv_area": 0.008236943203939973,
+      "texel_density_px_per_m": 4096.000327225173
+    },
+    {
+      "name": "Fang.R2",
+      "category": "07 Teeth",
+      "atlas": "08_EyesTeeth",
+      "vertices": 30,
+      "triangles": 56,
+      "surface_m2": 0.0012944534663965612,
+      "uv_area": 0.005177816143557834,
+      "texel_density_px_per_m": 4096.000901014487
+    },
+    {
+      "name": "Lute binding",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 3080,
+      "triangles": 6144,
+      "surface_m2": 0.012058934947788202,
+      "uv_area": 0.012058934008734923,
+      "texel_density_px_per_m": 2047.999920259079
+    },
+    {
+      "name": "Lute bowl",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 1441,
+      "triangles": 2688,
+      "surface_m2": 0.06321749358176021,
+      "uv_area": 0.06321748651862436,
+      "texel_density_px_per_m": 2047.9998855909826
+    },
+    {
+      "name": "Lute bridge",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 56,
+      "triangles": 108,
+      "surface_m2": 0.0025403006266913053,
+      "uv_area": 0.0025403041191367493,
+      "texel_density_px_per_m": 2048.0014078108975
+    },
+    {
+      "name": "Lute fingerboard",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 56,
+      "triangles": 108,
+      "surface_m2": 0.01584516123710955,
+      "uv_area": 0.015845159908920436,
+      "texel_density_px_per_m": 2047.9999141652356
+    },
+    {
+      "name": "Lute frets",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 648,
+      "triangles": 1152,
+      "surface_m2": 0.0014821332792962494,
+      "uv_area": 0.0014821381098499842,
+      "texel_density_px_per_m": 2048.0033374076834
+    },
+    {
+      "name": "Lute neck",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 56,
+      "triangles": 108,
+      "surface_m2": 0.023880892695501643,
+      "uv_area": 0.023880883868514502,
+      "texel_density_px_per_m": 2047.9996215034428
+    },
+    {
+      "name": "Lute peg stems",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 64,
+      "triangles": 112,
+      "surface_m2": 0.001560893351552295,
+      "uv_area": 0.001560889050779224,
+      "texel_density_px_per_m": 2047.9971785422406
+    },
+    {
+      "name": "Lute peghead",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 56,
+      "triangles": 108,
+      "surface_m2": 0.00981310626116283,
+      "uv_area": 0.009813112034407823,
+      "texel_density_px_per_m": 2048.000602439416
+    },
+    {
+      "name": "Lute rosette",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 256,
+      "triangles": 512,
+      "surface_m2": 0.0027825788702102727,
+      "uv_area": 0.0027825830961774045,
+      "texel_density_px_per_m": 2048.0015551719835
+    },
+    {
+      "name": "Lute rosette carving",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 1088,
+      "triangles": 2048,
+      "surface_m2": 0.0020720486857044307,
+      "uv_area": 0.002072043672626478,
+      "texel_density_px_per_m": 2047.9975225510077
+    },
+    {
+      "name": "Lute soundboard",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 288,
+      "triangles": 572,
+      "surface_m2": 0.07490317115752987,
+      "uv_area": 0.07490317836709437,
+      "texel_density_px_per_m": 2048.0000985618335
+    },
+    {
+      "name": "Lute soundhole",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 354,
+      "triangles": 704,
+      "surface_m2": 0.004602022906510683,
+      "uv_area": 0.00460202177021074,
+      "texel_density_px_per_m": 2047.9997471609252
+    },
+    {
+      "name": "Lute strings",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 544,
+      "triangles": 1024,
+      "surface_m2": 0.005238139338473502,
+      "uv_area": 0.005238145720738885,
+      "texel_density_px_per_m": 2048.001247663977
+    },
+    {
+      "name": "Lute tuning pegs",
+      "category": "10 Accessories",
+      "atlas": "10_Lute",
+      "vertices": 344,
+      "triangles": 672,
+      "surface_m2": 0.00279885166207805,
+      "uv_area": 0.0027988507812324315,
+      "texel_density_px_per_m": 2047.9996777299787
+    },
+    {
+      "name": "Coat back",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 3298,
+      "triangles": 6592,
+      "surface_m2": 0.3312632227634822,
+      "uv_area": 0.02070395262035163,
+      "texel_density_px_per_m": 1024.000029616984
+    },
+    {
+      "name": "Coat front.L",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 74,
+      "triangles": 144,
+      "surface_m2": 0.12202337291455478,
+      "uv_area": 0.007626459347420678,
+      "texel_density_px_per_m": 1023.999902000886
+    },
+    {
+      "name": "Coat front.R",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 74,
+      "triangles": 144,
+      "surface_m2": 0.12202337291455478,
+      "uv_area": 0.007626460879407659,
+      "texel_density_px_per_m": 1024.0000048503452
+    },
+    {
+      "name": "Coat sleeve.L",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 2082,
+      "triangles": 4160,
+      "surface_m2": 0.17601528963677993,
+      "uv_area": 0.011000956434997988,
+      "texel_density_px_per_m": 1024.0000387549971
+    },
+    {
+      "name": "Coat sleeve.R",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 2082,
+      "triangles": 4160,
+      "surface_m2": 0.17601726402244822,
+      "uv_area": 0.011001077302637441,
+      "texel_density_px_per_m": 1023.9999209379365
+    },
+    {
+      "name": "Coat tail.L",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 76,
+      "triangles": 148,
+      "surface_m2": 0.1467779319100373,
+      "uv_area": 0.00917361821348095,
+      "texel_density_px_per_m": 1023.999858745083
+    },
+    {
+      "name": "Coat tail.R",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 76,
+      "triangles": 148,
+      "surface_m2": 0.1467779319100373,
+      "uv_area": 0.00917361925246496,
+      "texel_density_px_per_m": 1023.9999167330777
+    },
+    {
+      "name": "Lapel.L",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 76,
+      "triangles": 148,
+      "surface_m2": 0.048911703279827634,
+      "uv_area": 0.0030569817874095406,
+      "texel_density_px_per_m": 1024.0000556755735
+    },
+    {
+      "name": "Lapel.R",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 76,
+      "triangles": 148,
+      "surface_m2": 0.048911703279827634,
+      "uv_area": 0.0030569839723995074,
+      "texel_density_px_per_m": 1024.0004216295772
+    },
+    {
+      "name": "Shirt collar",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 56,
+      "triangles": 108,
+      "surface_m2": 0.008157322599174677,
+      "uv_area": 0.0005098315928222519,
+      "texel_density_px_per_m": 1023.9989258262087
+    },
+    {
+      "name": "Shirt collar.001",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 56,
+      "triangles": 108,
+      "surface_m2": 0.008157322599174677,
+      "uv_area": 0.0005098325885306565,
+      "texel_density_px_per_m": 1023.9999257680065
+    },
+    {
+      "name": "Turned cuff.L",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 226,
+      "triangles": 448,
+      "surface_m2": 0.059818602461746195,
+      "uv_area": 0.0037386614985734923,
+      "texel_density_px_per_m": 1023.9998417866626
+    },
+    {
+      "name": "Turned cuff.R",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 226,
+      "triangles": 448,
+      "surface_m2": 0.059820255904924124,
+      "uv_area": 0.003738767479944727,
+      "texel_density_px_per_m": 1024.000203482661
+    },
+    {
+      "name": "Waistcoat pointed hem",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 56,
+      "triangles": 108,
+      "surface_m2": 0.05206586684289505,
+      "uv_area": 0.0032541187517267645,
+      "texel_density_px_per_m": 1024.0003263285855
+    },
+    {
+      "name": "Waistcoat torso",
+      "category": "02 Upper body",
+      "atlas": "03_Upper",
+      "vertices": 434,
+      "triangles": 864,
+      "surface_m2": 0.3489197033486562,
+      "uv_area": 0.02180748564978785,
+      "texel_density_px_per_m": 1024.0000983852392
+    },
+    {
+      "name": "Belt ring",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 256,
+      "triangles": 512,
+      "surface_m2": 0.0010821138291703392,
+      "uv_area": 0.0010821117755313026,
+      "texel_density_px_per_m": 2047.9980566486495
+    },
+    {
+      "name": "Belt tab",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 56,
+      "triangles": 108,
+      "surface_m2": 0.005408940395227546,
+      "uv_area": 0.005408941897371733,
+      "texel_density_px_per_m": 2048.000284380198
+    },
+    {
+      "name": "Boot buckle.L",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 114,
+      "triangles": 224,
+      "surface_m2": 0.0007088421106118403,
+      "uv_area": 0.0007088410524147548,
+      "texel_density_px_per_m": 2047.998471317937
+    },
+    {
+      "name": "Boot buckle.R",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 114,
+      "triangles": 224,
+      "surface_m2": 0.0007088420712761945,
+      "uv_area": 0.0007088417811473846,
+      "texel_density_px_per_m": 2047.9995808771182
+    },
+    {
+      "name": "Coat front button.L",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 114,
+      "triangles": 224,
+      "surface_m2": 0.000813519591702061,
+      "uv_area": 0.0008135194948408753,
+      "texel_density_px_per_m": 2047.9998780780966
+    },
+    {
+      "name": "Coat front button.R",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 114,
+      "triangles": 224,
+      "surface_m2": 0.0008135196039802395,
+      "uv_area": 0.0008135204046766376,
+      "texel_density_px_per_m": 2048.001007858822
+    },
+    {
+      "name": "Cuff button.L0",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 114,
+      "triangles": 224,
+      "surface_m2": 0.0005217056198034697,
+      "uv_area": 0.0005217053696355833,
+      "texel_density_px_per_m": 2047.9995089722313
+    },
+    {
+      "name": "Cuff button.L1",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 114,
+      "triangles": 224,
+      "surface_m2": 0.00052170632227444,
+      "uv_area": 0.0005217077062980024,
+      "texel_density_px_per_m": 2048.0027165459333
+    },
+    {
+      "name": "Cuff button.R0",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 114,
+      "triangles": 224,
+      "surface_m2": 0.0005217056211677118,
+      "uv_area": 0.000521703791150685,
+      "texel_density_px_per_m": 2047.9964080527354
+    },
+    {
+      "name": "Cuff button.R1",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 114,
+      "triangles": 224,
+      "surface_m2": 0.0005217062636120318,
+      "uv_area": 0.0005217066618570243,
+      "texel_density_px_per_m": 2048.000781671264
+    },
+    {
+      "name": "Ear hoop.L0",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 256,
+      "triangles": 512,
+      "surface_m2": 0.00237034054043761,
+      "uv_area": 0.0023703387696514255,
+      "texel_density_px_per_m": 2047.9992350105986
+    },
+    {
+      "name": "Ear hoop.L1",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 256,
+      "triangles": 512,
+      "surface_m2": 0.002061167762349214,
+      "uv_area": 0.002061170845536253,
+      "texel_density_px_per_m": 2048.0015317444822
+    },
+    {
+      "name": "Ear hoop.R0",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 256,
+      "triangles": 512,
+      "surface_m2": 0.0023703404322077404,
+      "uv_area": 0.0023703387234945694,
+      "texel_density_px_per_m": 2047.999261826454
+    },
+    {
+      "name": "Ear hoop.R1",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 256,
+      "triangles": 512,
+      "surface_m2": 0.002061167637066319,
+      "uv_area": 0.0020611657964764163,
+      "texel_density_px_per_m": 2047.9990855840897
+    },
+    {
+      "name": "Ear pendant.L",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 256,
+      "triangles": 512,
+      "surface_m2": 0.0014428161227897363,
+      "uv_area": 0.0014428156102894718,
+      "texel_density_px_per_m": 2047.9996362666668
+    },
+    {
+      "name": "Ear pendant.R",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 256,
+      "triangles": 512,
+      "surface_m2": 0.0014428161116484262,
+      "uv_area": 0.0014428163672164374,
+      "texel_density_px_per_m": 2048.0001813825265
+    },
+    {
+      "name": "Ear stud.L",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 86,
+      "triangles": 168,
+      "surface_m2": 0.0005171035846842642,
+      "uv_area": 0.0005171046957457293,
+      "texel_density_px_per_m": 2048.0022001903735
+    },
+    {
+      "name": "Ear stud.R",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 86,
+      "triangles": 168,
+      "surface_m2": 0.0005171035844568905,
+      "uv_area": 0.0005171042694200878,
+      "texel_density_px_per_m": 2048.0013564053756
+    },
+    {
+      "name": "Lute shoulder strap",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 456,
+      "triangles": 896,
+      "surface_m2": 0.1258602142916061,
+      "uv_area": 0.12586021217430243,
+      "texel_density_px_per_m": 2047.9999827735955
+    },
+    {
+      "name": "Waistcoat button",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 114,
+      "triangles": 224,
+      "surface_m2": 0.000611606574580037,
+      "uv_area": 0.0006116053413052214,
+      "texel_density_px_per_m": 2047.997935152923
+    },
+    {
+      "name": "Waistcoat button.001",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 114,
+      "triangles": 224,
+      "surface_m2": 0.000611606574580037,
+      "uv_area": 0.000611607032737993,
+      "texel_density_px_per_m": 2048.000767084068
+    },
+    {
+      "name": "Waistcoat button.002",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 114,
+      "triangles": 224,
+      "surface_m2": 0.000611606574580037,
+      "uv_area": 0.0006116056066503006,
+      "texel_density_px_per_m": 2047.9983794149975
+    },
+    {
+      "name": "Waistcoat button.003",
+      "category": "10 Accessories",
+      "atlas": "09_Accessories",
+      "vertices": 114,
+      "triangles": 224,
+      "surface_m2": 0.0006116063648278214,
+      "uv_area": 0.0006116042903840935,
+      "texel_density_px_per_m": 2047.996526798443
+    }
+  ],
+  "total_triangles": 108874
+}

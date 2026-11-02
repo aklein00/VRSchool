@@ -1,0 +1,4 @@
+PAINT 03_Upper 4096 17876
+PAINT_DONE 03_Upper {'resolution': 4096, 'layers': 8, 'covered_pixels': 1945551, 'overlap_pixels_interior': 0, 'overlap_percent': 0.0, 'maximum_dilation_pixels': 8}
+PAINT 05_Lower 2048 6112
+PAINT_DONE 05_Lower {'resolution': 2048, 'layers': 8, 'covered_pixels': 684038, 'overlap_pixels_interior': 0, 'overlap_percent': 0.0, 'maximum_dilation_pixels': 8}
