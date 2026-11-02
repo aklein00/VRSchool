@@ -1,0 +1,708 @@
+{
+  "description": "User-approved layout captured from the live object transform editor, 2026-11-01. Coordinates are glTF Y-up meters; rotations are XYZ Euler degrees as displayed by the editor.",
+  "objects": [
+    {
+      "position": [
+        0,
+        -0.24,
+        0
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "01_Floor_Base"
+    },
+    {
+      "position": [
+        -2.98,
+        0.07,
+        0
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "02_Left_Stone_Wall"
+    },
+    {
+      "position": [
+        -0.01,
+        0,
+        -2.332
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "03_Arched_Window_Wall"
+    },
+    {
+      "position": [
+        0.277,
+        1.3,
+        -2.613
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "04_Painted_Alpine_View"
+    },
+    {
+      "position": [
+        -2.237,
+        0.14,
+        0.099
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "local",
+      "name": "05_Upright_Piano"
+    },
+    {
+      "position": [
+        -2.068,
+        1.371,
+        0.092
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "06_Piano_Score"
+    },
+    {
+      "position": [
+        -1.289,
+        0.09,
+        0.048
+      ],
+      "rotationDegrees": [
+        0,
+        7.818,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "07_Piano_Bench"
+    },
+    {
+      "position": [
+        0.34,
+        0.07,
+        -1.91
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "08_Window_Seat"
+    },
+    {
+      "position": [
+        -0.87,
+        0.985,
+        -1.92
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "09_Seat_Cushion_1"
+    },
+    {
+      "position": [
+        0.34,
+        0.985,
+        -1.92
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "09_Seat_Cushion_2"
+    },
+    {
+      "position": [
+        1.55,
+        0.985,
+        -1.92
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "09_Seat_Cushion_3"
+    },
+    {
+      "position": [
+        -0.75,
+        1.027,
+        -2.13
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "10_Back_Cushion_1"
+    },
+    {
+      "position": [
+        0.05,
+        1.027,
+        -2.13
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "10_Back_Cushion_2"
+    },
+    {
+      "position": [
+        0.98,
+        1.027,
+        -2.13
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "10_Back_Cushion_3"
+    },
+    {
+      "position": [
+        1.029,
+        0.419,
+        -1.497
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "11_Window_Throw"
+    },
+    {
+      "position": [
+        1.469,
+        0.155,
+        1.163
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "12_Practice_Stool"
+    },
+    {
+      "position": [
+        2.09,
+        0.093,
+        0.838
+      ],
+      "rotationDegrees": [
+        0,
+        -54.488,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "13_Music_Stand"
+    },
+    {
+      "position": [
+        2.066,
+        1.188,
+        0.874
+      ],
+      "rotationDegrees": [
+        0,
+        -61.212,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "14_Stand_Score"
+    },
+    {
+      "position": [
+        0,
+        0.073,
+        0.64
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "15_Rehearsal_Rug"
+    },
+    {
+      "position": [
+        2.142,
+        0.18,
+        -1.035
+      ],
+      "rotationDegrees": [
+        0,
+        -16.349,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "16_Cello"
+    },
+    {
+      "position": [
+        2.084,
+        0.085,
+        -1.071
+      ],
+      "rotationDegrees": [
+        0,
+        -25.182,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "17_Cello_Stand"
+    },
+    {
+      "position": [
+        2.618,
+        0.08,
+        -1.693
+      ],
+      "rotationDegrees": [
+        -10.485,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "18_Cello_Case"
+    },
+    {
+      "position": [
+        -2.673,
+        2.123,
+        -0.232
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "19_Wall_Lute"
+    },
+    {
+      "position": [
+        2.64,
+        0.668,
+        -2.23
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "20_Tall_Bookshelf"
+    },
+    {
+      "position": [
+        -2.359,
+        1.96,
+        0.576
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "21_Book_Group_1"
+    },
+    {
+      "position": [
+        2.759,
+        1.28,
+        -2.14
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "21_Book_Group_2"
+    },
+    {
+      "position": [
+        2.759,
+        1.82,
+        -2.14
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "21_Book_Group_3"
+    },
+    {
+      "position": [
+        -0.829,
+        1.7,
+        -2.12
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "21_Book_Group_4"
+    },
+    {
+      "position": [
+        -2.39,
+        1.953,
+        -0.722
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "22_Piano_Lamp"
+    },
+    {
+      "position": [
+        -2.481,
+        0.108,
+        -2.012
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "23_Woven_Basket"
+    },
+    {
+      "position": [
+        -2.561,
+        0.285,
+        -2.126
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "24_Basket_Cloth"
+    },
+    {
+      "position": [
+        0.147,
+        1.593,
+        -0.937
+      ],
+      "rotationDegrees": [
+        -23.43,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "25_Frame_Drum"
+    },
+    {
+      "position": [
+        -2.386,
+        1.581,
+        1.029
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "26_Piano_Plant"
+    },
+    {
+      "position": [
+        -1.071,
+        1.7,
+        -2.168
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "27_Window_Plant"
+    },
+    {
+      "position": [
+        2.637,
+        2.424,
+        -2.19
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "28_Shelf_Trailing_Plant"
+    },
+    {
+      "position": [
+        -2.757,
+        3.253,
+        -0.43
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1.727
+      ],
+      "space": "world",
+      "name": "29_Wall_Ivy"
+    },
+    {
+      "position": [
+        -2.804,
+        2.32,
+        1.62
+      ],
+      "rotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "space": "world",
+      "name": "30_Framed_Music"
+    }
+  ]
+}

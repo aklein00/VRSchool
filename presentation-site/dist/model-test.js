@@ -8,7 +8,7 @@ const stage = document.querySelector('#model-stage');
 const host = document.querySelector('#canvas-host');
 const status = document.querySelector('#load-message');
 const fieldset = document.querySelector('#viewer-controls');
-const download = 'assets/models/rehearsal-nook.glb';
+const download = 'assets/models/rehearsal-nook.glb?v=approved-layout-1';
 
 function fail(message) {
   stage.setAttribute('aria-busy', 'false');
@@ -283,7 +283,7 @@ try {
       option.textContent = object.name.replace(/^\d+_/, '').replaceAll('_', ' ');
       objectSelect.append(option);
       original.set(object, { object, position: object.position.clone(), quaternion: object.quaternion.clone(), scale: object.scale.clone() });
-      spaces.set(object, 'world');
+      spaces.set(object, object.userData.vrhsTransformSpace === 'local' ? 'local' : 'world');
     }
     objectSelect.disabled = false;
     document.querySelector('#reset-layout').disabled = false;
