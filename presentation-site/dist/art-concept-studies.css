@@ -1,0 +1,71 @@
+.discipline-art{grid-column:1/-1;min-width:0}
+/* Explicit full-width artwork prevents a cached base stylesheet narrowing the cast. */
+.character-discipline>.character-art{grid-column:1/-1;width:100%;min-width:0}
+.character-art .section-heading{display:grid;grid-template-columns:1fr 1.3fr;column-gap:70px;row-gap:18px;align-items:start}
+.character-art .section-heading>div{display:contents}
+.character-art .section-heading .eyebrow{grid-column:1/-1;margin:0}
+.character-art .section-heading h3{font:500 clamp(30px,3.4vw,48px)/1.08 var(--serif);letter-spacing:-.035em}
+.character-art .section-heading>p{grid-column:2;max-width:48ch;margin:0;font-size:14px}
+.character-art .ensemble-studies{max-width:1100px;margin:0 auto 38px;gap:55px}
+.character-art .ensemble-studies img{max-height:500px}
+.character-art .student-study{width:100%;margin-top:35px}
+.character-art .student-study img{width:100%;height:auto}
+/* Titles occupy their own row; descriptions start level with the media beneath. */
+.media-discipline{row-gap:28px;align-items:start}
+.media-discipline>.discipline-name{grid-column:1;grid-row:1}
+.media-discipline>.discipline-media{grid-column:1;grid-row:2;margin:0;min-width:0}
+.media-discipline>.discipline-body{grid-column:2;grid-row:2;align-self:start;min-width:0}
+.media-discipline>.vfx-studies{grid-column:1/-1;grid-row:3}
+.discipline-body>h3{margin-top:0}
+.concept-heading{margin-bottom:26px;max-width:760px}
+.concept-heading .eyebrow{margin-bottom:12px}
+.concept-heading h3{font:500 clamp(28px,3vw,40px)/1.12 var(--serif);letter-spacing:-.03em}
+.concept-heading>p:last-child:not(.eyebrow){font-size:14px;color:var(--muted);margin-top:15px;max-width:64ch}
+.concept-heading-secondary{margin-top:44px}
+.concept-figure{min-width:0}
+.concept-figure>a{display:block;border:1px solid var(--line);background:#f8f5ee;transition:border-color .15s}
+.concept-figure>a:hover{border-color:var(--plum)}
+.concept-figure img{display:block;width:100%;height:auto}
+.concept-figure figcaption{max-width:100%;display:flex;justify-content:space-between;gap:16px}
+.concept-figure figcaption>a{white-space:nowrap;text-decoration:underline;text-underline-offset:3px}
+.advertising-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px}
+.emote-grid,.achievement-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}
+.emote-grid img{aspect-ratio:1;object-fit:contain}
+.emote-grid figcaption,.achievement-grid figcaption{display:block;text-align:center}
+.advertising-pair figcaption{display:block}
+.advertising-pair figcaption>a{display:block;margin-top:8px}
+.quest-store-shell{overflow:hidden;background:#151720;border:1px solid #343846;color:#f5f5f7;border-radius:18px}
+.quest-store-top{padding:22px 30px;display:flex;align-items:center;gap:38px;font-size:13px}
+.quest-store-top strong{font-size:20px;font-weight:600;letter-spacing:-.4px}
+.quest-store-top>div{display:flex;gap:25px;color:#b8bdca}
+.quest-concept-label{font-size:9px;letter-spacing:1.5px;margin-left:auto;color:#b8bdca}
+.quest-hero-art{display:block;margin:0 22px}
+.quest-hero-art img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:10px}
+.quest-listing{display:flex;gap:22px;align-items:center;padding:28px 30px}
+.quest-app-icon{display:block;flex:0 0 90px}
+.quest-app-icon img{width:90px;aspect-ratio:1;object-fit:cover;border-radius:18px}
+.quest-listing h4{font:600 25px/1.2 var(--sans);margin:0 0 8px}
+.quest-listing p{font-size:12px;color:#b8bdca}
+.quest-artwork-button{margin-left:auto;background:#d9e6ff;color:#1c355e;font-size:13px;padding:12px 23px;border-radius:30px;white-space:nowrap}
+.concept-source-note{font-size:10px;color:var(--muted);margin-top:14px;max-width:none}
+.concept-source-note a{text-decoration:underline;text-underline-offset:3px}
+.character-engine-study{grid-column:1/-1;display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:65px;align-items:start;border-top:1px solid var(--line);padding-top:40px;min-width:0}
+.character-engine-copy .eyebrow{margin-bottom:20px}
+.character-engine-copy h3{font:500 clamp(30px,3vw,43px)/1.1 var(--serif);letter-spacing:-.035em;margin-bottom:24px;max-width:17ch}
+.character-engine-copy>p:not(.eyebrow){font-size:15px;max-width:55ch}
+.character-engine-copy .text-link{margin-top:24px}
+.character-model{min-width:0}
+.character-model-canvas{position:relative;width:100%;height:560px;max-height:70vh;min-height:340px;background:#e5dfd1;border:1px solid var(--line);overflow:hidden}
+.character-model-canvas canvas{display:block;width:100%;height:100%;touch-action:none}
+.character-model-status{position:absolute;inset:0;display:grid;place-content:center;text-align:center;padding:30px;font-size:13px;color:var(--muted);pointer-events:none}
+.character-model-status[hidden]{display:none}
+.character-model-controls{display:flex;gap:10px;margin:18px 0 0;padding:0;border:0}
+.character-model-controls button{background:transparent;border:1px solid var(--line);padding:9px 16px;font-size:12px;color:var(--ink);min-height:42px}
+.character-model-controls button[aria-pressed=true]{background:var(--green);color:var(--paper)}
+.character-model-controls button:disabled{opacity:.4;cursor:wait}
+@media(max-width:1000px){.character-engine-study{gap:35px}.quest-store-top{gap:24px}.character-model-canvas{height:470px}}
+@media(max-width:700px){.concept-heading-secondary{margin-top:32px}.concept-figure figcaption{display:block}.concept-figure figcaption>a{display:block;margin-top:8px}.advertising-pair,.character-engine-study{grid-template-columns:1fr;gap:30px}.character-engine-study{padding-top:30px}.character-engine-copy h3{max-width:none}.character-model-canvas{height:460px;max-height:none}.quest-store-top{padding:17px;gap:20px}.quest-store-top strong{font-size:16px}.quest-store-top>div{gap:14px;font-size:10px}.quest-store-top>div>span:last-child{display:none}.quest-concept-label{font-size:8px}.quest-hero-art{margin:0 10px}.quest-listing{padding:20px 16px;gap:14px;flex-wrap:wrap}.quest-app-icon{flex-basis:64px}.quest-app-icon img{width:64px;border-radius:12px}.quest-listing h4{font-size:20px}.quest-listing p{font-size:10px}.quest-artwork-button{margin-left:78px;padding:9px 18px;font-size:12px}.quest-store-shell{border-radius:12px}}
+@media(prefers-reduced-motion:reduce){.concept-figure>a{transition:none}}
+@media(max-width:700px){.character-art .section-heading{grid-template-columns:1fr;gap:20px}.character-art .section-heading>p{grid-column:1}.character-art .ensemble-studies{gap:20px}.character-art .ensemble-studies img{max-height:360px}.media-discipline>.discipline-name,.media-discipline>.discipline-media,.media-discipline>.discipline-body,.media-discipline>.vfx-studies{grid-column:1;grid-row:auto}.media-discipline{row-gap:28px}}
+@media(max-width:700px){.emote-grid,.achievement-grid{grid-template-columns:1fr;gap:30px}.emote-grid>figure{width:100%;max-width:360px;margin-inline:auto}.achievement-grid>figure{width:100%;max-width:420px;margin-inline:auto}}
+@media print{.discipline:has(.discipline-art){break-inside:auto}.concept-figure,.quest-store-shell,.character-engine-study{break-inside:avoid}.character-model-controls{display:none}.character-model-canvas{height:300px;min-height:0}.concept-heading h3{font-size:26px}.quest-store-shell{print-color-adjust:exact}}

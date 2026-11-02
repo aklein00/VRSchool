@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-02",
+  "status": "Local concept review; not approved or committed",
+  "tool": "built-in image_gen",
+  "promptFile": "docs/art/art-guide-expansion-2026-11-02-prompts.json",
+  "generatedSources": {
+    "01-ui-buttons-and-classroom": "/Users/arthurklein/.codex/generated_images/01a18e30-68f7-7d11-9dd5-aed495a747b3/exec-1e13f6f5-c103-4344-94e5-a9df70a785bc.png",
+    "02-emotes-three": "/Users/arthurklein/.codex/generated_images/01a18e30-68f7-7d11-9dd5-aed495a747b3/exec-4bb650b4-f4f3-4ec3-8a83-abae1e53e7b9.png",
+    "03-achievement-cards": "/Users/arthurklein/.codex/generated_images/01a18e30-68f7-7d11-9dd5-aed495a747b3/exec-f1958915-fa1a-4ee9-8767-ce394eb21e83.png",
+    "04-reward-boxes-and-reveal": "/Users/arthurklein/.codex/generated_images/01a18e30-68f7-7d11-9dd5-aed495a747b3/exec-af173f6d-c8c1-45c2-8d5c-b9eeb17b8941.png",
+    "05-logo-directions": "/Users/arthurklein/.codex/generated_images/01a18e30-68f7-7d11-9dd5-aed495a747b3/exec-14083ef1-3197-415e-be9b-4efe730f765a.png",
+    "06-quest-hero-art": "/Users/arthurklein/.codex/generated_images/01a18e30-68f7-7d11-9dd5-aed495a747b3/exec-7d7f4fc8-f0e5-439a-af85-5eff298e6c58.png",
+    "07-quest-app-icon": "/Users/arthurklein/.codex/generated_images/01a18e30-68f7-7d11-9dd5-aed495a747b3/exec-92afede7-dd51-46aa-a7cf-4d21870226b7.png",
+    "08-facebook-banner-music": "/Users/arthurklein/.codex/generated_images/01a18e30-68f7-7d11-9dd5-aed495a747b3/exec-280686f8-83a3-4009-a95c-553b4bdf5a91.png",
+    "09-facebook-banner-discovery": "/Users/arthurklein/.codex/generated_images/01a18e30-68f7-7d11-9dd5-aed495a747b3/exec-f1106e53-9f0d-4021-84ac-c03eb937a99d.png"
+  },
+  "masterFormat": "PNG",
+  "servedDirectory": "presentation-site/dist/assets/art-guide",
+  "servedFormat": "WebP, quality 89",
+  "platformReference": "https://developers.meta.com/vr/resources/asset-guidelines/",
+  "notes": "Storefront chrome is a local HTML concept mockup. The nine illustrations were generated separately using existing character and teaching references. No exterior concepts were generated."
+}

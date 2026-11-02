@@ -30,7 +30,7 @@ The four instrument-comparison recordings for the Music lesson are separate from
 
 ## Candid illustrations · October 30, 2026
 
-The pitch hero uses the original hatless Goblin Bard teaching flute and drum. The Art Style Guide opens with nonbinary Oobleck painting with two students; Design adds a Chuul science demonstration banner. Product uses an unlabeled three-style headmaster comparison. The repeated Goblin image in the pending 3D-model section is replaced by a model-study placeholder; the lesson and voice portraits remain for identification.
+The pitch hero uses the new Goblin-and-Yeti classroom key art beside “The Monsters are the Teachers.” The original hatless Goblin Bard teaching flute and drum is preserved among the candid assets. The Art Style Guide opens with nonbinary Oobleck painting with two students; Design adds a Chuul science demonstration banner. Product uses an unlabeled three-style headmaster comparison. The repeated Goblin image in the pending 3D-model section is replaced by a model-study placeholder; the lesson and voice portraits remain for identification.
 
 Full-resolution masters are in `../assets/concepts/2026-10-30/website/`. Served WebP copies are in `dist/assets/candid/`. Generation prompts and reference paths are recorded in `../docs/art/website-candid-image-prompts.json`. Images were generated with the built-in image tool and reviewed in desktop and mobile layouts. Prior concept masters are preserved. No live deployment was made as part of this local artwork update.
 
@@ -59,3 +59,13 @@ The VFX discipline presents the supplied four-treatment Goblin Bard concept shee
 ## Character study placement
 
 The Yeti, Mimic and student-party studies from “Direction across the cast” now sit inside the Characters discipline, below its direction and review criteria. The standalone pre-navigation cast section has been removed.
+
+## Art guide expansion · November 2, 2026
+
+Four disciplines now contain concept artwork for local review: UI button studies mocked onto the music lesson, three character emotes, three unlocked achievement cards, volumetric loot-box and reward-UI studies, four logo directions, Meta Quest hero/icon merchandising and two Facebook banners. Original generated PNGs and provenance are in `assets/concepts/2026-11-02/art-guide/`; the page serves WebPs from `dist/assets/art-guide/`. Prompts and reference roles are recorded in `docs/art/art-guide-expansion-2026-11-02-prompts.json`. The built-in image generator was used. These are exploratory concepts, not approved production assets. The Quest listing is an HTML mockup, with [Meta’s asset guidelines](https://developers.meta.com/vr/resources/asset-guidelines/) as its platform reference.
+
+The large VFX concept sheet sits directly beneath the VFX heading, beside its direction copy; both motion studies remain below it. The Animation and existing exterior artwork are preserved.
+
+The Characters section embeds the user-supplied `goblin_teacher_model_test.glb` as `dist/assets/models/goblin-teacher-test.glb`, unchanged (SHA-256 `4821b7b95eaff4fa466e06a34cf27f1cc09eba8ce4b776ced4d6f13ad83ce058`, approximately 35 MB). Its viewer appears on the right, beside the explanation of early engine testing. `character-study.js` uses the already vendored Three.js and GLTFLoader, starts loading only near the viewport, pauses rendering when offscreen, and supports pointer orbit/zoom, keyboard rotation/zoom, reset and optional auto-rotation. It is a supplied technical test, not a new generated model or an approved art-direction reference. Local review only; the user will approve and commit.
+
+The character lineup spans the full content width, with larger paired teacher studies and a full-width student comparison. Media-led Environment, Animation and VFX sections use separate title and media rows so their descriptive text starts at the top of the image or video. They stack in reading order on mobile. Layout stylesheet URLs are versioned to prevent stale cached rules. The character viewer uses neutral white lights, a neutral environment and background, and Neutral tone mapping; its model, materials and textures are unchanged, with no per-part color correction.

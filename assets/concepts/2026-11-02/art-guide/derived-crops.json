@@ -1,0 +1,38 @@
+{
+  "emotes": {
+    "master": "02-emotes-three.png",
+    "xRanges": [
+      [
+        0,
+        756
+      ],
+      [
+        756,
+        1480
+      ],
+      [
+        1480,
+        2172
+      ]
+    ],
+    "height": 724
+  },
+  "cards": {
+    "master": "03-achievement-cards.png",
+    "xRanges": [
+      [
+        0,
+        591
+      ],
+      [
+        591,
+        1183
+      ],
+      [
+        1183,
+        1774
+      ]
+    ],
+    "height": 887
+  }
+}
